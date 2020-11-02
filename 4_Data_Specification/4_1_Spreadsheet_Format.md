@@ -1,21 +1,23 @@
 # Spreadsheet Format
 
-All Household Waste recycling Centres are considered to be a site. This information uses `schema:Place` to describe the location.
+The spreadsheet format is the simplest way to provide information about Household Waste Recycling Centres.
 
-The following table lists the properties that can be used in this specification to describe a Household Waste Recycling Centre.
+The following table lists the column headings that should be used. When providing this information, you can either build your spreadsheet from scratch, or use the template provided.
 
-|Property|Status|Format|Notes|
+
+
+|Column|Status|Format|Notes|
 |:-|:-|:-|:-|
-|@type|`required`|String|A type of place as defined by Schema.org|
-|@id|`required`|URI|A URI providing a unique identifier for the resource|
-|schema:identifier|`optional`|String|Local identifier(s) for this resource|
-|schema:url|`recommended`|URI|A URL that links to a web page that provides more information about this HWRC|
-|schema:name|`required`|String|The name of this HWRC|
-|schema:description|`recommended`|String|A description of this HWRC|
-|schema:image|`optional`|Array of schema:ImageObject|One or more images or photographs of this HWRC|
-|schema:address|`required`|schema:PostalAddress|The street address of this HWRC|
-|schema:geo|`required`|schema:GeoCoordinates|Latitude and longitude of thie HWRC|
-|schema:telephone|`recommended`|String|Contact telephone number for this HWRC|
-|schema:openingHoursSpecification|`recommended`|Array of schema:OpeningHoursSpecification|Specifies opening hours of this HWRC|
+||`required`|String|A type of place as defined by Schema.org|
+||`required`|URI|A URI providing a unique identifier for the resource|
+|Identifier|`required`|URI|A globally unique identifier obtained from the Public Registers service provided by Environment Agency|
+|URL|`recommended`|URI|A URL that links to a web page that provides more information about this HWRC|
+|Name|`required`|String|The name of this HWRC|
+|Description|`recommended`|String|A description of this HWRC|
+|Address|`required`|schema:PostalAddress|The street address of this HWRC|
+|Latitude|`required`|number|Enter the latitude of a point close to the centre of the site. The value should be 6 or fewer decimal places, using the WGS84 or ETRS89 coordinate systems. See (this government guidance for more information about this standard)[https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-location-point]|
+|Longitude|`required`|number|Enter the longitude of a point close to the centre of the site. The value should be 6 or fewer decimal places, using the WGS84 or ETRS89 coordinate systems. See (this government guidance for more information about this standard)[https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-location-point]|
+|Telephone|`recommended`|String|Contact telephone number for this HWRC|
+|Opening Hours|`recommended`|String|Specifies opening hours of this HWRC|
 |operator|`required`|schema:Organization|The organisation responsible for operating the site|
 |||||
