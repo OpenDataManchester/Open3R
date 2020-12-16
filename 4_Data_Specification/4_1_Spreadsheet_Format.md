@@ -19,5 +19,5 @@ The following table lists the column headings that should be used. When providin
 |Longitude|`required`|number|Enter the longitude of a point close to the centre of the site. The value should be 6 or fewer decimal places, using the WGS84 or ETRS89 coordinate systems. See [this government guidance for more information about this standard](https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-location-point)|
 |Telephone|`recommended`|String|Contact telephone number for this HWRC|
 |Opening Hours|`recommended`|String|Specifies opening hours of this HWRC|
-|operator|`required`|schema:Organization|The organisation responsible for operating the site|
+|Operator:Name|`required`|String|The name of the organisation responsible for operating the site|
 |||||
