@@ -1,12 +1,6 @@
 # Data Formats
 
-There are two main formats for making HWRC data available:
-
-1. Spreadsheet format
-
-
-
-2. JSON Format (possibly in the future)
+When publishing HWRC data, csv format should be used, which can be created and edited in text editors, as well as spreadsheet packages such as Microsoft Excel, Apple Numbers, or Open Office.
 
 
 The specification for both of these formats can be found in section 4

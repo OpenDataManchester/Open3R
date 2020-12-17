@@ -36,4 +36,9 @@ The following table lists the column headings that should be used. When providin
 |dateClosed|`optional`|String|The date that this HWRC closed. Supply in format YYYY-MM-DD. If day and month are not known, then just supplying the year will suffice|
 |servicesAvailable|`recommended`|String|A semi-colon separated list of identifiers from the `Services` reference dataset|
 |areaServed|`recommended`|String|The identifier of the area served. Details to be provided in the HWRC Reach Areas reference dataset| 
+|charge|`recommended`|Boolean|Is there a cost associated with using this HWRC?|
+|permitRequired|`recommended`|Boolean|Is a permit required to use this site?|
+|trade|`recommended`|Boolean|Is this HWRC accessible by tradespeople|
+|ANPR|`recommended`|Boolean|Is automatic number plate recognition in use at the site?|
+|reuseShop|`recommended`|Boolean|Is there a reuse shop at this site?|
 

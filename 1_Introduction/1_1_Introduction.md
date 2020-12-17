@@ -20,5 +20,5 @@ The standard is being developed according to the Open Stand principles of:
 
 ## How is the standard being developed?
 
-Funded by the Open Data Institute
+Funded by the Open Data Institute, workshops, iterations
 
