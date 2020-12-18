@@ -33,4 +33,4 @@ The documentation here provides the detail of how to publish data to the standar
 4b. They send the data to the custodian of the standard for publishing
 5. Let the custodian of the standard know that there is new data
 
-Then repeat these steps whenever there is a change to the data
+Then repeat these steps whenever there is a change to the data.
