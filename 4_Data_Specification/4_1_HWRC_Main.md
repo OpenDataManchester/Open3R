@@ -1,4 +1,4 @@
-# Spreadsheet Format
+# HWRC Standard Spreadsheet Format
 
 The spreadsheet format is the simplest way to provide information about Household Waste Recycling Centres.
 
@@ -8,7 +8,6 @@ The following table lists the column headings that should be used. When providin
 
 |Column|Status|Format|Notes|
 |:-|:-|:-|:-|
-||`required`|URI|A URI providing a unique identifier for the resource|
 |identifier|`required`|String|A globally unique identifier. See identifiers section for information on how to construct this identifier|
 |govIdentifier|`recommended`|String|An identifier that is used by Government environmental departments|
 |URL|`recommended`|URI|A URL that links to a web page that provides more information about this HWRC|
@@ -23,7 +22,7 @@ The following table lists the column headings that should be used. When providin
 |longitude|`required`|number|The longitude of a point close to the centre of the site. The value should be 6 or fewer decimal places, using the WGS84 or ETRS89 coordinate systems. See [this government guidance for more information about this standard](https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-location-point)|
 |telephone|`recommended`|String|Contact telephone number for this HWRC|
 |openingHours|`recommended`|String|Specifies opening hours of this HWRC|
-|parentID|`required`|String|An identifier from|
+|ownerID|`required`|String|An identifier from the local authorities controlled list|
 |operatorID|`required`|String|A globally unique identifier. See identifiers section for information on how to construct this identifier |
 |operatorCompanyID|`recommended`|String|The UK Companies House identifier for this HWRC's operator|
 |operatorName|`required`|String|The name of the organisation responsible for operating the site|

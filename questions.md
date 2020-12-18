@@ -12,3 +12,5 @@ This is very formalised - you can only dispose of waste in the area that you pay
 4. Services - do we need to build service provision into the specification? eg batteries, electrical goods, radioactive waste etc
 
 Yes - WRAP have a list of services - Recycle now which could be used as reference set
+
+5. 2020-12-18 Terminology - is a HWRC oewned by a local authority, and operated by another organisation?

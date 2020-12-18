@@ -7,18 +7,22 @@ It is important that these controlled lists are adhered to. Software developers 
 The controlled lists in use in the standard are:
 
 * Local Authorities
-* HWRC Reach Areas
+* HWRC Area Served
 * Services Offered
 * Countries
 
 ## Local Authorities
 
+Each HWRC is effectively owned by a local authority. Local authorities can change over time, and it is important to have a single set of local authorities to choose from. 
 
-## HWRC Reach Areas
+## HWRC Area Served
 
+Each HWRC has an area that it serves. This means that only people who live in the specified area can use the HWRC. Many of these areas are aligned with Local Authority boundaries, but some are more complex than that. Information about areas served will need to be published as a separate file. This can be either as a CSV file, or a spatial file, such as geojson.
 
 ## Services Offered
 
+[get this list from WRAP]
 
 ## Countries
 
+This open data standard currently covers the 4 nations of the United Kingdom - England, Scotland, Northern Ireland, and Wales.
