@@ -22,3 +22,15 @@ The standard is being developed according to the Open Stand principles of:
 
 Funded by the Open Data Institute, workshops, iterations
 
+## How to use the standard
+
+The documentation here provides the detail of how to publish data to the standard, and how to use data that has been published to the standard. At a very high level, the publishing flow is as follows:
+
+1. A local authority decides they want to publish HWRC data to the standard
+2. They populate the csv template provide here (or prepare one from scratch using the specified column names)
+3. They create a csv file or spatial file of areas served by each HWRC.
+4a. They publish the csv file(s) and/or spatial files on their website OR
+4b. They send the data to the custodian of the standard for publishing
+5. Let the custodian of the standard know that there is new data
+
+Then repeat these steps whenever there is a change to the data

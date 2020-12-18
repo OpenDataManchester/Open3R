@@ -1,6 +1,8 @@
 # hwrc_data_standard
 
-# Contents
+# THIS STANDARD IS CURRENTLY IN ACTIVE DEVELOPMENT
+
+## Contents
 
 1. Introduction
 2. Key Concepts
