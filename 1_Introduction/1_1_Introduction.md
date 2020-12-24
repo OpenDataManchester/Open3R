@@ -16,8 +16,6 @@ The standard is being developed according to the Open Stand principles of:
 * Balance
 * Openness
 
-
-
 ## How is the standard being developed?
 
 Funded by the Open Data Institute, workshops with industry experts, developed over a few iterations.
