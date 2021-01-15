@@ -12,4 +12,4 @@ These are the identifiers that are proposed for this standard
 
 Each HWRC needs a unique identifier, and this should be created by the publishing organisation. Usually, publishing organisations will already have identifiers for the HWRCs for which it is responsible. These are likely to be in use in CRm systems, waste management systems, or other databases. Although these identifiers are likely to be unique within the publishing organisation, there is a risk that two publishing organisations may use the same identifier for two different HWRCs. To avoid this issue, the identifier is prefixed with the publishing organisation's unique identifier. 
 
-1. Each identifier should be prfixe
+1. Each identifier should be prefixed

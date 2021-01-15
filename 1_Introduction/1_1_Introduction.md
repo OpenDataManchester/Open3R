@@ -20,7 +20,7 @@ The standard is being developed according to the Open Stand principles of:
 
 Funded by the Open Data Institute, workshops with industry experts, developed over a few iterations.
 
-## How to use the standard
+## How to use the standard (possibly explode this out as a separate section)
 
 The documentation here provides the detail of how to publish data to the standard, and how to use data that has been published to the standard. At a very high level, the publishing flow is as follows:
 
