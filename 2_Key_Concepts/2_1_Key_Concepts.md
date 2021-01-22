@@ -2,7 +2,18 @@
 
 ## HWRCs
 
-A HWRC is a household waste recycling centre, and is a place where residents can take household waste to be disposed of or recycled. Each local authority area has a legal responsibility to provide this service to residents, and the service is usually provided in multiple sites across the local authority area. 
+A HWRC is a household waste recycling centre, and is a place where residents can take household waste to be disposed of or recycled. Each local authority area has a legal responsibility to provide this service to residents, and the service is usually provided in multiple sites across the local authority area. HWRCs might be known by different names in different areas, or by different people. Some examples of this are:
+
+* civic amenity (CA) sites
+* household-waste and recycling centres (HWRCs)
+* household-waste sorting sites (HWSSs)
+* household recycling centres (HRCs)
+* household re-use and recycling centres (HRRCs)
+* household-waste recovery centres (HWRCs) and
+* re-use and recycling centres (RRCs)
+* tips
+* dumps
+* skips [is this right?]
 
 ## Owner
 
@@ -18,7 +29,7 @@ Services offered by HWRCs will differ across sites. Some may offer battery recyc
 
 ## Area served
 
-Each HWRC has a specific catchment area - and only residents who live within that catchment area are permitted to use the facility. Usually these catchment areas are as simple as a local authority, or a collection of local authorities, but there are circumstances where residents from a particular part of one local authority are permitted to use a HWRC in a neighbouring local authority. These catchment areas can be provided either as a polygon (in shapefile, or geojson, or WKT), or as a list of official geographical areas (ie LSOAs, MSOAs, Wards, Local Authorities).
+Each HWRC has a specific catchment area - and only residents who live within that catchment area are permitted to use the facility. Usually these catchment areas are as simple as a local authority, or a collection of local authorities, but there are circumstances where residents from a particular part of one local authority are permitted to use a HWRC in a neighbouring local authority.
 
 
 
