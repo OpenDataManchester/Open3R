@@ -5,7 +5,7 @@ Image by [vkingxl](https://pixabay.com/users/vkingxl-4313077/?utm_source=link-at
 
 # Household waste recycling centre data standard
 
-I've ben working with waste-related data and organisations on and off for over 10 years now, and the people in this ecosystem are amongst the most knowledgable and passionate people I've ever worked with. Waste and recycling is a hugely important area of work, and has many facets, from waste crime, to environmental impact. These two factors mean that when I was given the chance to work on a data standard with [Open Data Manchester](https://www.opendatamanchester.org.uk/) and Dsposal for household waste recycling centres (HWRCs), I jumped at it. I've worked with [Dsposal](https://dsposal.uk/) previously, on the Defra-funded [KnoWaste data standard](https://github.com/OpenDataManchester/KnoWaste), so this was a great opportunity to get the band back together.
+I've ben working with waste-related data and organisations on and off for over 10 years now, and the people in this ecosystem are amongst the most knowledgable and passionate people I've ever worked with. Waste and recycling is a hugely important area of work, and has many facets, from waste crime, to environmental impact. These two factors mean that when I was given the chance to work on an Open Data Institute-funded data standards project with [Open Data Manchester](https://www.opendatamanchester.org.uk/) and [Dsposal](https://dsposal.uk/) for household waste recycling centres (HWRCs), I jumped at it. I've worked with Dsposal previously, on the Defra-funded [KnoWaste data standard](https://github.com/OpenDataManchester/KnoWaste), so this was a great opportunity to get the band back together.
 
 ## What's the current situation?
 
