@@ -21,8 +21,10 @@ Each HWRC has an area that it serves. This means that only people who live in th
 
 ## Services Offered
 
-[get this list from WRAP]
+This list is a combination of the materials and other services that are offered at the HWRC, and whether the material is disposed of, recycled, or reused. This will allow residents to make informaed choices about where they take their waste.
 
 ## Countries
 
-This open data standard currently covers the 4 nations of the United Kingdom - England, Scotland, Northern Ireland, and Wales.
+This open data standard currently covers the 4 nations of the United Kingdom - England, Scotland, Northern Ireland, and Wales. See the identifiers section for guidance.
+
+

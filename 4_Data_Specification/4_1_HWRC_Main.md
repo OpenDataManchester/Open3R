@@ -34,7 +34,7 @@ The following table lists the column headings that should be used. When providin
 |dateOpened|`optional`|String|The date that this HWRC opened. Supply in format YYYY-MM-DD. If day and month are not known, then just supplying the year will suffice|
 |dateClosed|`optional`|String|The date that this HWRC closed. Supply in format YYYY-MM-DD. If day and month are not known, then just supplying the year will suffice|
 |servicesAvailable|`recommended`|String|A semi-colon separated list of identifiers from the `Services` reference dataset|
-|areaServed|`recommended`|String|The identifier of the area served. Details to be provided in the HWRC Reach Areas reference dataset| 
+|areaServed|`recommended`|String|Either a semi-colon-separated list of local authorities identifiers, or a unique identifier of an area served provided in a separate csv, geoJSON or Shape file| 
 |charge|`recommended`|Boolean|Is there a cost associated with using this HWRC?|
 |permitRequired|`recommended`|Boolean|Is a permit required to use this site?|
 |trade|`recommended`|Boolean|Is this HWRC accessible by tradespeople|
