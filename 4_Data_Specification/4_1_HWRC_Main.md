@@ -4,6 +4,7 @@ The spreadsheet format is the simplest way to provide information about Househol
 
 The following table lists the column headings that should be used. When providing this information, you can either build your spreadsheet from scratch, or use the template provided.
 
+hwrc_main.csv
 
 
 |Column|Status|Format|Notes|
@@ -23,6 +24,7 @@ The following table lists the column headings that should be used. When providin
 |telephone|`recommended`|String|Contact telephone number for this HWRC|
 |openingHours|`recommended`|String|Specifies opening hours of this HWRC. Opening hours should be specified as a weekly time range, starting with days, then times per day. Multiple days can be listed with commas ',' separating each day. Day or time ranges are specified using a hyphen '-'. Days are specified using the following two-letter combinations: Mo, Tu, We, Th, Fr, Sa, Su. Times are specified using 24:00 format. For example, 3pm is specified as 15:00, 10am as 10:00. An example of this would be `Tu,We,Th 08:00-17:00`. Multiple entries should be separated by semi-colons.|
 |ownerID|`required`|String|An identifier from the local authorities controlled list|
+|ownerName|`required`|String|The name of the owner of the HWRC|
 |operatorID|`required`|String|A globally unique identifier. See identifiers section for information on how to construct this identifier |
 |operatorCompanyID|`recommended`|String|The UK Companies House identifier for this HWRC's operator|
 |operatorName|`required`|String|The name of the organisation responsible for operating the site|

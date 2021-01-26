@@ -6,6 +6,8 @@ Where the area served is more complicated than this, a separate file should be p
 
 The specification for the csv format is as follows
 
+hwrc_area_served.csv
+
 |Column|Status|Format|Notes|
 |:-|:-|:-|:-|
 |identifier|`required`|String|A globally unique identifier. See identifiers section for information on how to construct this identifier|

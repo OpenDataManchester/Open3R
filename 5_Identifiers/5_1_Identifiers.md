@@ -74,7 +74,7 @@ As an example, if Trafford published data about the area served by Woodhouse Lan
 
 ## Operator identifiers
 
-Using commom identifiers for HWRC operators will enable analysis of aggregated data, such counting sites by operator across the country. Where the operator is a limited company, then the Companies House identifier should be used.
+Using common identifiers for HWRC operators will enable analysis of aggregated data, such counting sites by operator across the country. Where the operator is a limited company, then the Companies House identifier should be used.
 
 [Should we have Dsposal create a curated list of operators - eg Greater Manchester Combined Authority]
 
