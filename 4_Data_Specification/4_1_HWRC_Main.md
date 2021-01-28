@@ -41,4 +41,5 @@ hwrc_main.csv
 |trade|`recommended`|Boolean|Is this HWRC accessible by tradespeople|
 |ANPR|`recommended`|Boolean|Is automatic number plate recognition in use at the site?|
 |reuseShop|`recommended`|Boolean|Is there a reuse shop at this site?|
+|dateUpdated|`required`|String|The date that this record was last updated|
 
