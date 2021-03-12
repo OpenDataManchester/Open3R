@@ -20,12 +20,7 @@ Each HWRC needs a unique identifier, and this should be created by the publishin
 	* Wales: `pla-`
 	* Northern Ireland: `nir-`
 
-3. Add the three letter code for the owner from one of the registers listed below (with a hyphen):
-
-	* [England](https://www.registers.service.gov.uk/registers/local-authority-eng)
-	* [Scotland](https://www.registers.service.gov.uk/registers/local-authority-sct)
-	* [Wales](https://www.registers.service.gov.uk/registers/principal-local-authority)
-	* [Northern Ireland](https://www.registers.service.gov.uk/registers/local-authority-nir)
+3. Add the three letter code for the owner from the local authorities controlled list
 
 4. Add your organisation's unique identifier for the HWRC
 
@@ -33,21 +28,19 @@ As an example, if Trafford local authority has the unique identifier `1234` for 
 
 ## Local Authority Identifiers
 
-Use the following sites to obtain your three-letter local authority identifier:
+Local Authority identifiers should be constructed in the following way:
 
-	* [England](https://www.registers.service.gov.uk/registers/local-authority-eng)
-	* [Scotland](https://www.registers.service.gov.uk/registers/local-authority-sct)
-	* [Wales](https://www.registers.service.gov.uk/registers/principal-local-authority)
-	* [Northern Ireland](https://www.registers.service.gov.uk/registers/local-authority-nir)
+1. Start with the text 'hwrc-localauth-'
 
-To avoid duplicates, prefix your local authority identifier with the three letter country code:
-
+2. Add the three letter code of the country that the local authority is in:
 	* England: `eng-`
 	* Scotland: `sct-`
 	* Wales: `pla-`
 	* Northern Ireland: `nir-`
 
-For example, the code for Trafford would be `eng-trf`
+3. Add the three letter code from the local authorities controlled list
+
+For example, the code for Trafford would be `hwrc-localauth-eng-trf`
 
 ## Area Served
 
@@ -61,12 +54,7 @@ When providing separate information about the area served by a HWRC, the identif
 	* Wales: `pla-`
 	* Northern Ireland: `nir-`
 
-3. Add the three letter code for the owner from one of the registers listed below (with a hyphen):
-
-	* [England](https://www.registers.service.gov.uk/registers/local-authority-eng)
-	* [Scotland](https://www.registers.service.gov.uk/registers/local-authority-sct)
-	* [Wales](https://www.registers.service.gov.uk/registers/principal-local-authority)
-	* [Northern Ireland](https://www.registers.service.gov.uk/registers/local-authority-nir)
+3. Add the three letter code for the owner from the local authorities controlled list
 
 4. Add a unique code to differentiate this area from others that your organisation might publish
 
@@ -77,30 +65,6 @@ As an example, if Trafford published data about the area served by Woodhouse Lan
 Using common identifiers for HWRC operators will enable analysis of aggregated data, such counting sites by operator across the country. Where the operator is a limited company, then the Companies House identifier should be used. 
 
 
-## HWRC Services identifiers
-
-When providing the information about the services provided by an individual hwrc, the identifier should be constructed in the following way:
-
-1. Start with the prefix `hwrc-service-`
-
-2. Add the three letter code of the country that the owner is in:
-	* England: `eng-`
-	* Scotland: `sct-`
-	* Wales: `pla-`
-	* Northern Ireland: `nir-`
-
-3. Add the three letter code for the owner from one of the registers listed below (with a hyphen):
-
-	* [England](https://local-authority-eng.register.gov.uk/records?page-index=1&page-size=5000)
-	* [Scotland](https://local-authority-sct.register.gov.uk/records?page-index=1&page-size=5000)
-	* [Wales](https://principal-local-authority.register.gov.uk/records)
-	* [Northern Ireland](https://www.registers.service.gov.uk/registers/local-authority-nir)
-
-4. Add your organisation's unique identifier for the HWRC
-
-5. Finally add an incrementing number for each combination of material / processing 
-
-As an example, Trafford Council would reference the service of paint re-use at Woodhouse Lane Recycling Centre as 'hwrc-service-eng-trf-a001-1'
 
 
 
