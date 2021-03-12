@@ -1,0 +1,458 @@
+﻿identifier,local-authority-type,name,name-cy,official-name,official-name-cy,start-date,end-date,country
+BAS,UA,Bath and North East Somerset,,Bath and North East Somerset Council,,1996-04-01,,eng
+BBD,UA,Blackburn with Darwen,,Blackburn with Darwen Borough Council,,1998-04-01,,eng
+BDF,UA,Bedford,,Bedford Borough Council,,2009-04-01,,eng
+BIR,MD,Birmingham,,Birmingham City Council,,1986-07-01,,eng
+BMH,UA,Bournemouth,,Bournemouth Borough Council,,1905-06-19,2019-03-31,eng
+BNH,UA,Brighton and Hove,,Brighton and Hove City Council,,1905-06-19,,eng
+BNS,MD,Barnsley,,Barnsley Metropolitan Borough Council,,1974-04-01,,eng
+BOL,MD,Bolton,,Bolton Metropolitan Borough Council,,1974-04-01,,eng
+BPL,UA,Blackpool,,Blackpool Borough Council,,1905-06-20,,eng
+BRC,UA,Bracknell Forest,,Bracknell Forest Council,,1998-04-01,,eng
+BRD,MD,Bradford,,City of Bradford Metropolitan District Council,,1974-04-01,,eng
+BST,UA,City of Bristol,,Bristol City Council,,1905-06-18,,eng
+BUR,MD,Bury,,Bury Metropolitan Borough Council,,1974-04-01,,eng
+CBF,UA,Central Bedfordshire,,Central Bedfordshire Council,,2009-04-01,,eng
+CHE,UA,Cheshire East,,Cheshire East Council,,2009-04-01,,eng
+CHW,UA,Cheshire West and Chester,,Cheshire West and Chester Council,,2009-04-01,,eng
+CLD,MD,Calderdale,,Calderdale Metropolitan Borough Council,,1974-04-01,,eng
+CON,UA,Cornwall,,Cornwall Council,,2009-04-01,,eng
+COV,MD,Coventry,,Coventry City Council,,1974-04-01,,eng
+DAL,UA,Darlington,,Darlington Borough Council,,1997-04-01,,eng
+DNC,MD,Doncaster,,Doncaster Metropolitan Borough Council,,1974-04-01,,eng
+DUD,MD,Dudley,,Dudley Metropolitan Borough Council,,1974-04-01,,eng
+DUR,UA,County Durham,,Durham County Council,,2009-04-01,,eng
+ERY,UA,East Riding of Yorkshire,,East Riding of Yorkshire Council,,1996-04-01,,eng
+GAT,MD,Gateshead,,Gateshead Metropolitan Borough Council,,1974-04-01,,eng
+GLA,SRA,Greater London,,Greater London Authority,,1905-06-22,,eng
+HAL,UA,Halton,,Halton Borough Council,,1998-04-01,,eng
+HEF,UA,Herefordshire,,Herefordshire Council,,1998-04-01,,eng
+HPL,UA,Hartlepool,,Hartlepool Borough Council,,1905-06-18,,eng
+IOS,UA,Isles of Scilly,,Council of the Isles of Scilly,,1974-04-01,,eng
+IOW,UA,Isle of Wight,,Isle of Wight Council,,1905-06-17,,eng
+KHL,UA,Kingston upon Hull,,Hull City Council,,1996-04-01,,eng
+KIR,MD,Kirklees,,Kirklees Council,,1974-04-01,,eng
+KWL,MD,Knowsley,,Knowsley Metropolitan Borough Council,,1974-04-01,,eng
+LCE,UA,Leicester,,Leicester City Council,,1905-06-19,,eng
+LDS,MD,Leeds,,Leeds City Council,,1905-06-08,,eng
+LIV,MD,Liverpool,,Liverpool City Council,,1905-06-08,,eng
+LND,CC,City of London,,City of London Corporation,,1905-06-28,,eng
+LUT,UA,Luton,,Luton Borough Council,,1905-06-19,,eng
+MAN,MD,Manchester,,Manchester City Council,,1974-04-01,,eng
+MDB,UA,Middlesbrough,,Middlesbrough Borough Council,,1905-06-18,,eng
+MDW,UA,Medway,,Medway Council,,1998-04-01,,eng
+MIK,UA,Milton Keynes,,Milton Keynes Council,,1905-06-19,,eng
+NBL,UA,Northumberland,,Northumberland County Council,,2009-04-01,,eng
+NEL,UA,North East Lincolnshire,,North East Lincolnshire Council,,1996-04-01,,eng
+NET,MD,Newcastle upon Tyne,,Newcastle City Council,,1974-04-01,,eng
+NGM,UA,Nottingham,,Nottingham City Council,,1905-06-20,,eng
+NLN,UA,North Lincolnshire,,North Lincolnshire Council,,1996-04-01,,eng
+NSM,UA,North Somerset,,North Somerset Council,,1996-04-01,,eng
+NTY,MD,North Tyneside,,North Tyneside Council,,1974-04-01,,eng
+OLD,MD,Oldham,,Oldham Metropolitan Borough Council,,1905-06-07,,eng
+PLY,UA,Plymouth,,Plymouth City Council,,1998-04-01,,eng
+POL,UA,Poole,,Borough of Poole,,1997-04-01,2019-03-31,eng
+POR,UA,Portsmouth,,Portsmouth City Council,,1905-06-20,,eng
+PTE,UA,Peterborough,,Peterborough City Council,,1905-06-20,,eng
+RCC,UA,Redcar and Cleveland,,Redcar and Cleveland Borough Council,,1996-04-01,,eng
+RCH,MD,Rochdale,,Rochdale Metropolitan Borough Council,,1905-05-27,,eng
+RDG,UA,Reading,,Reading Borough Council,,1905-05-27,,eng
+ROT,MD,Rotherham,,Rotherham Metropolitan Borough Council,,1905-05-27,,eng
+RUT,UA,Rutland,,Rutland County Council,,1997-04-01,,eng
+SAW,MD,Sandwell,,Sandwell Metropolitan Borough Council,,1905-06-07,,eng
+SFT,MD,Sefton,,Sefton Metropolitan Borough Council,,1905-06-08,,eng
+SGC,UA,South Gloucestershire,,South Gloucestershire Council,,1905-06-18,,eng
+SHF,MD,Sheffield,,Sheffield City Council,,1905-06-08,,eng
+SHN,MD,St. Helens,,St Helens Council,,1905-06-08,,eng
+SHR,UA,Shropshire,,Shropshire Council,,2009-04-01,,eng
+SKP,MD,Stockport,,Stockport Metropolitan Borough Council,,1905-05-27,,eng
+SLF,MD,Salford,,Salford City Council,,1905-05-27,,eng
+SLG,UA,Slough,,Slough Borough Council,,1998-04-01,,eng
+SND,MD,Sunderland,,Sunderland City Council,,1905-05-27,,eng
+SOL,MD,Solihull,,Solihull Metropolitan Borough Council,,1905-05-27,,eng
+SOS,UA,Southend-on-Sea,,Southend-on-Sea Borough Council,,1905-06-20,,eng
+STE,UA,Stoke-on-Trent,,Stoke-on-Trent City Council,,1905-06-20,,eng
+STH,UA,Southampton,,Southampton City Council,,1905-06-19,,eng
+STT,UA,Stockton-on-Tees,,Stockton-on-Tees Borough Council,,1905-06-18,,eng
+STY,MD,South Tyneside,,South Tyneside Council,,1974-04-01,,eng
+SWD,UA,Swindon,,Swindon Borough Council,,1905-06-20,,eng
+TAM,MD,Tameside,,Tameside Metropolitan Borough Council,,1974-04-01,,eng
+TFW,UA,Telford and Wrekin,,Telford & Wrekin Council,,1905-06-20,,eng
+THR,UA,Thurrock,,Thurrock Council,,1905-06-20,,eng
+TOB,UA,Torbay,,Torbay Council,,1905-06-20,,eng
+TRF,MD,Trafford,,Trafford Metropolitan Borough Council,,1974-04-01,,eng
+WBK,UA,West Berkshire,,West Berkshire Council,,1905-06-20,,eng
+WGN,MD,Wigan,,Wigan Metropolitan Borough Council,,1974-04-01,,eng
+WIL,UA,Wiltshire,,Wiltshire Council,,2009-04-01,,eng
+WKF,MD,Wakefield,,Wakefield Metropolitan District Council,,1974-04-01,,eng
+WLL,MD,Walsall,,Walsall Metropolitan Borough Council,,1974-04-01,,eng
+WLV,MD,Wolverhampton,,City of Wolverhampton Council,,1974-04-01,,eng
+WNM,UA,Windsor and Maidenhead,,Royal Borough of Windsor and Maidenhead,,1905-06-20,,eng
+WOK,UA,Wokingham,,Wokingham Borough Council,,1905-06-20,,eng
+WRL,MD,Wirral,,Wirral Borough Council,,1974-04-01,,eng
+WRT,UA,Warrington,,Warrington Borough Council,,1905-06-20,,eng
+YOR,UA,York,,City of York Council,,1905-06-18,,eng
+BKM,CTY,Buckinghamshire,,Buckinghamshire County Council,,1905-06-19,2020-03-31,eng
+AYL,NMD,Aylesbury Vale,,Aylesbury Vale District Council,,,2020-03-31,eng
+CHN,NMD,Chiltern,,Chiltern District Council,,,2020-03-31,eng
+SBU,NMD,South Bucks,,South Bucks District Council,,,2020-03-31,eng
+WYO,NMD,Wycombe,,Wycombe District Council,,,2020-03-31,eng
+CAM,CTY,Cambridgeshire,,Cambridgeshire County Council,,,,eng
+CAB,NMD,Cambridge,,Cambridge City Council,,,,eng
+ECA,NMD,East Cambridgeshire,,East Cambridgeshire District Council,,,,eng
+FEN,NMD,Fenland,,Fenland District Council,,,,eng
+HUN,NMD,Huntingdonshire,,Huntingdonshire District Council,,,,eng
+SCA,NMD,South Cambridgeshire,,South Cambridgeshire District Council,,,,eng
+CMA,CTY,Cumbria,,Cumbria County Council,,,,eng
+ALL,NMD,Allerdale,,Allerdale Borough Council,,,,eng
+BAR,NMD,Barrow-in-Furness,,Barrow-in-Furness Borough Council,,,,eng
+CAR,NMD,Carlisle,,Carlisle City Council,,,,eng
+COP,NMD,Copeland,,Copeland Borough Council,,,,eng
+EDN,NMD,Eden,,Eden District Council,,,,eng
+SLA,NMD,South Lakeland,,South Lakeland District Council,,,,eng
+DER,UA,Derby,,Derby City Council,,,,eng
+DBY,CTY,Derbyshire,,Derbyshire County Council,,,,eng
+AMB,NMD,Amber Valley,,Amber Valley Borough Council,,,,eng
+BOS,NMD,Bolsover,,Bolsover District Council,,,,eng
+CHS,NMD,Chesterfield,,Chesterfield Borough Council,,,,eng
+DEB,NMD,Derbyshire Dales,,Derbyshire Dales District Council,,,,eng
+ERE,NMD,Erewash,,Erewash Borough Council,,,,eng
+HIG,NMD,High Peak,,High Peak Borough Council,,,,eng
+NED,NMD,North East Derbyshire,,North East Derbyshire District Council,,,,eng
+SDE,NMD,South Derbyshire,,South Derbyshire District Council,,,,eng
+DEV,CTY,Devon,,Devon County Council,,,,eng
+EDE,NMD,East Devon,,East Devon District Council,,,,eng
+EXE,NMD,Exeter,,Exeter City Council,,,,eng
+MDE,NMD,Mid Devon,,Mid Devon District Council,,,,eng
+NDE,NMD,North Devon,,North Devon District Council,,,,eng
+SHA,NMD,South Hams,,South Hams District Council,,,,eng
+TEI,NMD,Teignbridge,,Teignbridge District Council,,,,eng
+TOR,NMD,Torridge,,Torridge District Council,,,,eng
+WDE,NMD,West Devon,,West Devon Borough Council,,,,eng
+DOR,CTY,Dorset,,Dorset County Council,,,2019-03-31,eng
+CHC,NMD,Christchurch,,Christchurch Borough Council,,,2019-03-31,eng
+EDO,NMD,East Dorset,,East Dorset District Council,,,2019-03-31,eng
+NDO,NMD,North Dorset,,North Dorset District Council,,,2019-03-31,eng
+PUR,NMD,Purbeck,,Purbeck District Council,,,2019-03-31,eng
+WDO,NMD,West Dorset,,West Dorset District Council,,,2019-03-31,eng
+WEY,NMD,Weymouth and Portland,,Weymouth and Portland Borough Council,,,2019-03-31,eng
+ESS,CTY,Essex,,Essex County Council,,,,eng
+BAI,NMD,Basildon,,Basildon Borough Council,,,,eng
+BRA,NMD,Braintree,,Braintree District Council,,,,eng
+BRW,NMD,Brentwood,,Brentwood Borough Council,,,,eng
+CAS,NMD,Castle Point,,Castle Point Borough Council,,,,eng
+CHL,NMD,Chelmsford,,Chelmsford City Council,,,,eng
+COL,NMD,Colchester,,Colchester Borough Council,,,,eng
+EPP,NMD,Epping Forest,,Epping Forest District Council,,,,eng
+HAR,NMD,Harlow,,Harlow District Council,,,,eng
+MAL,NMD,Maldon,,Maldon District Council,,,,eng
+ROC,NMD,Rochford,,Rochford District Council,,,,eng
+TEN,NMD,Tendring,,Tendring District Council,,,,eng
+UTT,NMD,Uttlesford,,Uttlesford District Council,,,,eng
+ESX,CTY,East Sussex,,East Sussex County Council,,,,eng
+EAS,NMD,Eastbourne,,Eastbourne Borough Council,,,,eng
+HAS,NMD,Hastings,,Hastings Borough Council,,,,eng
+LEE,NMD,Lewes,,Lewes District Council,,,,eng
+ROH,NMD,Rother,,Rother District Council,,,,eng
+WEA,NMD,Wealden,,Wealden District Council,,,,eng
+BDG,LBO,Barking and Dagenham,,London Borough of Barking and Dagenham,,,,eng
+BEN,LBO,Brent,,London Borough of Brent,,,,eng
+BEX,LBO,Bexley,,London Borough of Bexley,,,,eng
+BNE,LBO,Barnet,,London Borough of Barnet,,,,eng
+BRY,LBO,Bromley,,London Borough of Bromley,,,,eng
+CMD,LBO,Camden,,London Borough of Camden,,,,eng
+CRY,LBO,Croydon,,London Borough of Croydon,,,,eng
+EAL,LBO,Ealing,,London Borough of Ealing,,,,eng
+ENF,LBO,Enfield,,London Borough of Enfield,,,,eng
+GRE,LBO,Greenwich,,Royal Borough of Greenwich,,,,eng
+HAV,LBO,Havering,,London Borough of Havering,,,,eng
+HCK,LBO,Hackney,,London Borough of Hackney,,,,eng
+HIL,LBO,Hillingdon,,London Borough of Hillingdon,,,,eng
+HMF,LBO,Hammersmith and Fulham,,London Borough of Hammersmith & Fulham,,,,eng
+HNS,LBO,Hounslow,,London Borough of Hounslow,,,,eng
+HRW,LBO,Harrow,,London Borough of Harrow,,,,eng
+HRY,LBO,Haringey,,London Borough of Haringey,,,,eng
+ISL,LBO,Islington,,London Borough of Islington,,,,eng
+KEC,LBO,Kensington and Chelsea,,Royal Borough of Kensington and Chelsea,,,,eng
+KTT,LBO,Kingston upon Thames,,Royal Borough of Kingston upon Thames,,,,eng
+LBH,LBO,Lambeth,,London Borough of Lambeth,,,,eng
+LEW,LBO,Lewisham,,London Borough of Lewisham,,,,eng
+MRT,LBO,Merton,,London Borough of Merton,,,,eng
+NWM,LBO,Newham,,London Borough of Newham,,,,eng
+RDB,LBO,Redbridge,,London Borough of Redbridge,,,,eng
+RIC,LBO,Richmond upon Thames,,London Borough of Richmond upon Thames,,,,eng
+STN,LBO,Sutton,,London Borough of Sutton,,,,eng
+SWK,LBO,Southwark,,London Borough of Southwark,,,,eng
+TWH,LBO,Tower Hamlets,,London Borough of Tower Hamlets,,,,eng
+WFT,LBO,Waltham Forest,,London Borough of Waltham Forest,,,,eng
+WND,LBO,Wandsworth,,London Borough of Wandsworth,,,,eng
+WSM,LBO,Westminster,,City of Westminster,,,,eng
+GLS,CTY,Gloucestershire,,Gloucestershire County Council,,,,eng
+CHT,NMD,Cheltenham,,Cheltenham Borough Council,,,,eng
+COT,NMD,Cotswold,,Cotswold District Council,,,,eng
+FOE,NMD,Forest of Dean,,Forest of Dean District Council,,,,eng
+GLO,NMD,Gloucester,,Gloucester City Council,,,,eng
+STO,NMD,Stroud,,Stroud District Council,,,,eng
+TEW,NMD,Tewkesbury,,Tewkesbury Borough Council,,,,eng
+HAM,CTY,Hampshire,,Hampshire County Council,,,,eng
+BAN,NMD,Basingstoke and Deane,,Basingstoke and Deane Borough Council,,,,eng
+EHA,NMD,East Hampshire,,East Hampshire District Council,,,,eng
+EAT,NMD,Eastleigh,,Eastleigh Borough Council,,,,eng
+FAR,NMD,Fareham,,Fareham Borough Council,,,,eng
+GOS,NMD,Gosport,,Gosport Borough Council,,,,eng
+HAT,NMD,Hart,,Hart District Council,,,,eng
+HAA,NMD,Havant,,Havant Borough Council,,,,eng
+NEW,NMD,New Forest,,New Forest District Council,,,,eng
+RUH,NMD,Rushmoor,,Rushmoor Borough Council,,,,eng
+TES,NMD,Test Valley,,Test Valley Borough Council,,,,eng
+WIN,NMD,Winchester,,Winchester City Council,,,,eng
+HRT,CTY,Hertfordshire,,Hertfordshire County Council,,,,eng
+BRX,NMD,Broxbourne,,Broxbourne Borough Council,,,,eng
+DAC,NMD,Dacorum,,Dacorum Borough Council,,,,eng
+EHE,NMD,East Hertfordshire,,East Hertfordshire District Council,,,,eng
+HER,NMD,Hertsmere,,Hertsmere Borough Council,,,,eng
+NHE,NMD,North Hertfordshire,,North Hertfordshire District Council,,,,eng
+SAL,NMD,St Albans,,St Albans City and District Council,,,,eng
+STV,NMD,Stevenage,,Stevenage Borough Council,,,,eng
+THE,NMD,Three Rivers,,Three Rivers District Council,,,,eng
+WAT,NMD,Watford,,Watford Borough Council,,,,eng
+WEW,NMD,Welwyn Hatfield,,Welwyn Hatfield Borough Council,,,,eng
+KEN,CTY,Kent,,Kent County Council,,,,eng
+ASF,NMD,Ashford,,Ashford Borough Council,,,,eng
+CAT,NMD,Canterbury,,Canterbury City Council,,,,eng
+DAR,NMD,Dartford,,Dartford Borough Council,,,,eng
+DOV,NMD,Dover,,Dover District Council,,,,eng
+GRA,NMD,Gravesham,,Gravesham Borough Council,,,,eng
+MAI,NMD,Maidstone,,Maidstone Borough Council,,,,eng
+SEV,NMD,Sevenoaks,,Sevenoaks District Council,,,,eng
+SHE,NMD,Folkestone & Hythe,,Folkestone and Hythe Council,,,,eng
+SWL,NMD,Swale,,Swale Borough Council,,,,eng
+THA,NMD,Thanet,,Thanet District Council,,,,eng
+TON,NMD,Tonbridge and Malling,,Tonbridge and Malling Borough Council,,,,eng
+TUN,NMD,Tunbridge Wells,,Tunbridge Wells Borough Council,,,,eng
+LAN,CTY,Lancashire,,Lancashire County Council,,,,eng
+BUN,NMD,Burnley,,Burnley Borough Council,,,,eng
+CHO,NMD,Chorley,,Chorley Borough Council,,,,eng
+FYL,NMD,Fylde,,Fylde Borough Council,,,,eng
+HYN,NMD,Hyndburn,,Hyndburn Borough Council,,,,eng
+LAC,NMD,Lancaster,,Lancaster City Council,,,,eng
+PEN,NMD,Pendle,,Pendle Borough Council,,,,eng
+PRE,NMD,Preston,,Preston City Council,,,,eng
+RIB,NMD,Ribble Valley,,Ribble Valley Borough Council,,,,eng
+ROS,NMD,Rossendale,,Rossendale Borough Council,,,,eng
+SRI,NMD,South Ribble,,South Ribble Borough Council,,,,eng
+WLA,NMD,West Lancashire,,West Lancashire Borough Council,,,,eng
+WYR,NMD,Wyre,,Wyre Borough Council,,,,eng
+LEC,CTY,Leicestershire,,Leicestershire County Council,,,,eng
+BLA,NMD,Blaby,,Blaby District Council,,,,eng
+CHA,NMD,Charnwood,,Charnwood Borough Council,,,,eng
+HAO,NMD,Harborough,,Harborough District Council,,,,eng
+HIN,NMD,Hinckley and Bosworth,,Hinckley and Bosworth Borough Council,,,,eng
+MEL,NMD,Melton,,Melton Borough Council,,,,eng
+NWL,NMD,North West Leicestershire,,North West Leicestershire District Council,,,,eng
+OAD,NMD,Oadby and Wigston,,Oadby and Wigston Borough Council,,,,eng
+LIN,CTY,Lincolnshire,,Lincolnshire County Council,,,,eng
+BOT,NMD,Boston,,Boston Borough Council,,,,eng
+ELI,NMD,East Lindsey,,East Lindsey District Council,,,,eng
+LIC,NMD,City of Lincoln,,City of Lincoln Council,,,,eng
+NKE,NMD,North Kesteven,,North Kesteven District Council,,,,eng
+SHO,NMD,South Holland,,South Holland District Council,,,,eng
+SKE,NMD,South Kesteven,,South Kesteven District Council,,,,eng
+WLI,NMD,West Lindsey,,West Lindsey District Council,,,,eng
+NFK,CTY,Norfolk,,Norfolk County Council,,,,eng
+BRE,NMD,Breckland,,Breckland District Council,,,,eng
+BRO,NMD,Broadland,,Broadland District Council,,,,eng
+GRY,NMD,Great Yarmouth,,Great Yarmouth Borough Council,,,,eng
+KIN,NMD,King's Lynn and West Norfolk,,Borough Council of King's Lynn and West Norfolk,,,,eng
+NNO,NMD,North Norfolk,,North Norfolk District Council,,,,eng
+NOW,NMD,Norwich,,Norwich City Council,,,,eng
+SNO,NMD,South Norfolk,,South Norfolk District Council,,,,eng
+NTH,CTY,Northamptonshire,,Northamptonshire County Council,,,,eng
+COR,NMD,Corby,,Corby Borough Council,,,,eng
+DAV,NMD,Daventry,,Daventry District Council,,,,eng
+ENO,NMD,East Northamptonshire,,East Northamptonshire Council,,,,eng
+KET,NMD,Kettering,,Kettering Borough Council,,,,eng
+NOR,NMD,Northampton,,Northampton Borough Council,,,,eng
+SNR,NMD,South Northamptonshire,,South Northamptonshire Council,,,,eng
+WEL,NMD,Wellingborough,,Wellingborough Borough Council,,,,eng
+NTT,CTY,Nottinghamshire,,Nottinghamshire County Council,,,,eng
+ASH,NMD,Ashfield,,Ashfield District Council,,,,eng
+BAE,NMD,Bassetlaw,,Bassetlaw District Council,,,,eng
+BRT,NMD,Broxtowe,,Broxtowe Borough Council,,,,eng
+GED,NMD,Gedling,,Gedling Borough Council,,,,eng
+MAS,NMD,Mansfield,,Mansfield District Council,,,,eng
+NEA,NMD,Newark and Sherwood,,Newark and Sherwood District Council,,,,eng
+RUS,NMD,Rushcliffe,,Rushcliffe Borough Council,,,,eng
+NYK,CTY,North Yorkshire,,North Yorkshire County Council,,,,eng
+CRA,NMD,Craven,,Craven District Council,,,,eng
+HAE,NMD,Hambleton,,Hambleton District Council,,,,eng
+HAG,NMD,Harrogate,,Harrogate Borough Council,,,,eng
+RIH,NMD,Richmondshire,,Richmondshire District Council,,,,eng
+RYE,NMD,Ryedale,,Ryedale District Council,,,,eng
+SCE,NMD,Scarborough,,Scarborough Borough Council,,,,eng
+SEL,NMD,Selby,,Selby District Council,,,,eng
+OXF,CTY,Oxfordshire,,Oxfordshire County Council,,,,eng
+CHR,NMD,Cherwell,,Cherwell District Council,,,,eng
+OXO,NMD,Oxford,,Oxford City Council,,,,eng
+SOX,NMD,South Oxfordshire,,South Oxfordshire District Council,,,,eng
+VAL,NMD,Vale of White Horse,,Vale of White Horse District Council,,,,eng
+WOX,NMD,West Oxfordshire,,West Oxfordshire District Council,,,,eng
+SFK,CTY,Suffolk,,Suffolk County Council,,,,eng
+BAB,NMD,Babergh,,Babergh District Council,,,,eng
+FOR,NMD,Forest Heath,,Forest Heath District Council,,,2019-03-31,eng
+IPS,NMD,Ipswich,,Ipswich Borough Council,,,,eng
+MSU,NMD,Mid Suffolk,,Mid Suffolk District Council,,,,eng
+SED,NMD,St Edmundsbury,,St Edmundsbury Borough Council,,,2019-03-31,eng
+SUF,NMD,Suffolk Coastal,,Suffolk Coastal District Council,,,2019-03-31,eng
+WAV,NMD,Waveney,,Waveney District Council,,,2019-03-31,eng
+SOM,CTY,Somerset,,Somerset County Council,,,,eng
+MEN,NMD,Mendip,,Mendip District Council,,,,eng
+SEG,NMD,Sedgemoor,,Sedgemoor District Council,,,,eng
+SSO,NMD,South Somerset,,South Somerset District Council,,,,eng
+TAU,NMD,Taunton Deane,,Taunton Deane Borough Council,,,2019-03-31,eng
+WSO,NMD,West Somerset,,West Somerset District Council,,,2019-03-31,eng
+SRY,CTY,Surrey,,Surrey County Council,,,,eng
+ELM,NMD,Elmbridge,,Elmbridge Borough Council,,,,eng
+EPS,NMD,Epsom and Ewell,,Epsom and Ewell Borough Council,,,,eng
+GRT,NMD,Guildford,,Guildford Borough Council,,,,eng
+MOL,NMD,Mole Valley,,Mole Valley District Council,,,,eng
+REI,NMD,Reigate and Banstead,,Reigate and Banstead Borough Council,,,,eng
+RUN,NMD,Runnymede,,Runnymede Borough Council,,,,eng
+SPE,NMD,Spelthorne,,Spelthorne Borough Council,,,,eng
+SUR,NMD,Surrey Heath,,Surrey Heath Borough Council,,,,eng
+TAN,NMD,Tandridge,,Tandridge District Council,,,,eng
+WAE,NMD,Waverley,,Waverley Borough Council,,,,eng
+WOI,NMD,Woking,,Woking Borough Council,,,,eng
+STS,CTY,Staffordshire,,Staffordshire County Council,,,,eng
+CAN,NMD,Cannock Chase,,Cannock Chase District Council,,,,eng
+EST,NMD,East Staffordshire,,East Staffordshire Borough Council,,,,eng
+LIF,NMD,Lichfield,,Lichfield District Council,,,,eng
+NEC,NMD,Newcastle-under-Lyme,,Newcastle-under-Lyme Borough Council,,,,eng
+SST,NMD,South Staffordshire,,South Staffordshire Council,,,,eng
+STA,NMD,Stafford,,Stafford Borough Council,,,,eng
+STF,NMD,Staffordshire Moorlands,,Staffordshire Moorlands District Council,,,,eng
+TAW,NMD,Tamworth,,Tamworth Borough Council,,,,eng
+WAR,CTY,Warwickshire,,Warwickshire County Council,,,,eng
+NWA,NMD,North Warwickshire,,North Warwickshire Borough Council,,,,eng
+NUN,NMD,Nuneaton and Bedworth,,Nuneaton and Bedworth Borough Council,,,,eng
+RUG,NMD,Rugby,,Rugby Borough Council,,,,eng
+STR,NMD,Stratford-on-Avon,,Stratford-on-Avon District Council,,,,eng
+WAW,NMD,Warwick,,Warwick District Council,,,,eng
+WOR,CTY,Worcestershire,,Worcestershire County Council,,,,eng
+BRM,NMD,Bromsgrove,,Bromsgrove District Council,,,,eng
+MAV,NMD,Malvern Hills,,Malvern Hills District Council,,,,eng
+RED,NMD,Redditch,,Redditch Borough Council,,,,eng
+WOC,NMD,Worcester,,Worcester City Council,,,,eng
+WYC,NMD,Wychavon,,Wychavon District Council,,,,eng
+WYE,NMD,Wyre Forest,,Wyre Forest District Council,,,,eng
+WSX,CTY,West Sussex,,West Sussex County Council,,,,eng
+ADU,NMD,Adur,,Adur District Council,,,,eng
+ARU,NMD,Arun,,Arun District Council,,,,eng
+CHI,NMD,Chichester,,Chichester District Council,,1974-04-01,,eng
+CRW,NMD,Crawley,,Crawley Borough Council,,1974-04-01,,eng
+HOR,NMD,Horsham,,Horsham District Council,,1974-04-01,,eng
+MSS,NMD,Mid Sussex,,Mid Sussex District Council,,1974-04-01,,eng
+WOT,NMD,Worthing,,Worthing Borough Council,,1905-06-25,,eng
+LCR,COMB,Liverpool City Region,,Liverpool City Region,,2014-04-01,,eng
+SCR,COMB,Sheffield City Region,,Sheffield City Region,,2014-04-01,,eng
+WECA,COMB,West of England Combined Authority,,West of England Combined Authority,,2014-04-01,,eng
+GMCA,COMB,Greater Manchester Combined Authority,,Greater Manchester Combined Authority,,2014-04-01,,eng
+WMCA,COMB,West Midlands Combined Authority,,West Midlands Combined Authority,,2014-04-01,,eng
+CPCA,COMB,Cambridgeshire and Peterborough Combined Authority,,Cambridgeshire and Peterborough Combined Authority,,2014-04-01,,eng
+TVCA,COMB,Tees Valley Combined Authority,,Tees Valley Combined Authority,,2014-04-01,,eng
+ESK,NMD,East Suffolk,,East Suffolk Council,,2019-04-01,,eng
+WSK,NMD,West Suffolk,,West Suffolk Council,,2019-04-01,,eng
+SWT,NMD,Somerset West and Taunton,,Somerset West and Taunton Council,,2019-04-01,,eng
+BPC,UA,"Bournemouth, Christchurch and Poole",,"Bournemouth, Christchurch and Poole Council",,2019-04-01,,eng
+DST,UA,Dorset Council,,Dorset Council,,2019-04-01,,eng
+BUC,UA,Buckinghamshire,,Buckinghamshire Council,,2020-04-01,,eng
+CSR,,Castlereagh Borough Council,,Castlereagh Borough Council,,,2015-03-31,nir
+ARD,,Ards Borough Council,,Ards Borough Council,,,2015-03-31,nir
+NDN,,North Down Borough Council,,North Down Borough Council,,,2015-03-31,nir
+CKF,,Carrickfergus Borough Council,,Carrickfergus Borough Council,,,2015-03-31,nir
+NTA,,Newtownabbey Borough Council,,Newtownabbey Borough Council,,,2015-03-31,nir
+ANT,,Antrim Borough Council,,Antrim Borough Council,,,2015-03-31,nir
+LSB,,Lisburn City Council,,Lisburn City Council,,,2015-03-31,nir
+DOW,,Down District Council,,Down District Council,,,2015-03-31,nir
+BNB,,Banbridge District Council,,Banbridge District Council,,,2015-03-31,nir
+NYM,,Newry and Mourne District Council,,Newry and Mourne District Council,,,2015-03-31,nir
+ARM,,Armagh City and District Council,,Armagh City and District Council,,,2015-03-31,nir
+CGV,,Craigavon Borough Council,,Craigavon Borough Council,,,2015-03-31,nir
+DGN,,Dungannon and South Tyrone Borough Council,,Dungannon and South Tyrone Borough Council,,,2015-03-31,nir
+FER,,Fermanagh District Council,,Fermanagh District Council,,,2015-03-31,nir
+OMH,,Omagh District Council,,Omagh District Council,,,2015-03-31,nir
+STB,,Strabane District Council,,Strabane District Council,,,2015-03-31,nir
+CKT,,Cookstown District Council,,Cookstown District Council,,,2015-03-31,nir
+MFT,,Magherafelt District Council,,Magherafelt District Council,,,2015-03-31,nir
+BLA,,Ballymena Borough Council,,Ballymena Borough Council,,,2015-03-31,nir
+LRN,,Larne Borough Council,,Larne Borough Council,,,2015-03-31,nir
+MYL,,Moyle District Council,,Moyle District Council,,,2015-03-31,nir
+BLY,,Ballymoney Borough Council,,Ballymoney Borough Council,,,2015-03-31,nir
+CLR,,Coleraine Borough Council,,Coleraine Borough Council,,,2015-03-31,nir
+LMV,,Limavady Borough Council,,Limavady Borough Council,,,2015-03-31,nir
+DRY,,Derry City Council,,Derry City Council,,,2015-03-31,nir
+NMD,DIS,"Newry, Mourne and Down District Council",,"Newry, Mourne and Down District Council",,2015-04-01,,nir
+MUL,DIS,Mid Ulster District Council,,Mid Ulster District Council,,2015-04-01,,nir
+MEA,BGH,Mid & East Antrim Borough Council,,Mid & East Antrim Borough Council,,2015-04-01,,nir
+LBC,CIT,Lisburn & Castlereagh City Council,,Lisburn & Castlereagh City Council,,2015-04-01,,nir
+FMO,DIS,Fermanagh and Omagh District Council,,Fermanagh and Omagh District Council,,2015-04-01,,nir
+DRS,DIS,Derry City and Strabane District Council,,Derry City and Strabane District Council,,2015-04-01,,nir
+CCG,BGH,Causeway Coast and Glens Borough Council,,Causeway Coast and Glens Borough Council,,2015-04-01,,nir
+BFS,CIT,Belfast City Council,,Belfast City Council,,,,nir
+ANN,BGH,Antrim & Newtownabbey Borough Council,,Antrim & Newtownabbey Borough Council,,2015-04-01,,nir
+AND,BGH,Ards and North Down Borough Council,,Ards and North Down Borough Council,,2015-04-01,,nir
+ABC,BGH,"Armagh City, Banbridge and Craigavon Borough Council",,"Armagh City, Banbridge and Craigavon Borough Council",,2015-04-01,,nir
+ABD,CA,Aberdeenshire,,The Aberdeenshire Council,,1996-04-01,,sct
+ABE,CA,Aberdeen City,,The Aberdeen City Council,,1996-04-01,,sct
+AGB,CA,Argyll and Bute,,The Argyll and Bute Council,,1996-04-01,,sct
+ANS,CA,Angus,,The Angus Council,,1996-04-01,,sct
+CLK,CA,Clackmannanshire,,The Clackmannanshire Council,,1996-04-01,,sct
+DGY,CA,Dumfries and Galloway,,The Dumfries and Galloway Council,,1996-04-01,,sct
+DND,CA,Dundee City,,The Dundee City Council,,1996-04-01,,sct
+EAY,CA,East Ayrshire,,The East Ayrshire Council,,1996-04-01,,sct
+EDH,CA,Edinburgh,,The City of Edinburgh Council,,1996-04-01,,sct
+EDU,CA,East Dunbartonshire,,The East Dunbartonshire Council,,1996-04-01,,sct
+ELN,CA,East Lothian,,The East Lothian Council,,1996-04-01,,sct
+ELS,CA,Na h-Eileanan an Iar,,Comhairle nan Eilean Siar,,1996-04-01,,sct
+ERW,CA,East Renfrewshire,,The East Renfrewshire Council,,1996-04-01,,sct
+FAL,CA,Falkirk,,The Falkirk Council,,1996-04-01,,sct
+FIF,CA,Fife,,The Fife Council,,1996-04-01,,sct
+GLG,CA,Glasgow City,,The Glasgow City Council,,1996-04-01,,sct
+HLD,CA,Highland,,The Highland Council,,1996-04-01,,sct
+IVC,CA,Inverclyde,,The Inverclyde Council,,1996-04-01,,sct
+MLN,CA,Midlothian,,The Midlothian Council,,1996-04-01,,sct
+MRY,CA,Moray,,The Moray Council,,1996-04-01,,sct
+NAY,CA,North Ayrshire,,The North Ayrshire Council,,1996-04-01,,sct
+NLK,CA,North Lanarkshire,,The North Lanarkshire Council,,1996-04-01,,sct
+ORK,CA,Orkney Islands,,Orkney Islands Council,,1996-04-01,,sct
+PKN,CA,Perth and Kinross,,The Perth and Kinross Council,,1996-04-01,,sct
+RFW,CA,Renfrewshire,,The Renfrewshire Council,,1996-04-01,,sct
+SAY,CA,South Ayrshire,,The South Ayrshire Council,,1996-04-01,,sct
+SCB,CA,Scottish Borders,,The Scottish Borders Council,,1996-04-01,,sct
+SLK,CA,South Lanarkshire,,The South Lanarkshire Council,,1996-04-01,,sct
+STG,CA,Stirling,,The Stirling Council,,1996-04-01,,sct
+WDU,CA,West Dunbartonshire,,The West Dunbartonshire Council,,1996-04-01,,sct
+WLN,CA,West Lothian,,The West Lothian Council,,1996-04-01,,sct
+ZET,CA,Shetland Islands,,Shetland Islands Council,,1996-04-01,,sct
+AGY,,Isle of Anglesey,Sir Ynys Môn,Isle of Anglesey County Council,Cyngor Sir Ynys Môn,1996-04-01,,wal
+BGE,,Bridgend,Pen-y-bont ar Ogwr,Bridgend County Borough Council,Cyngor Bwrdeistref Sirol Pen-y-bont ar Ogwr,1996-04-01,,wal
+BGW,,Blaenau Gwent,Blaenau Gwent,Blaenau Gwent County Borough Council,Cyngor Bwrdeistref Sirol Blaenau Gwent,1996-04-01,,wal
+CAY,,Caerphilly,Caerffili,Caerphilly County Borough Council,Cyngor Bwrdeistref Sirol Caerffili,1996-04-01,,wal
+CGN,,Ceredigion,Ceredigion,Ceredigion County Council,Cyngor Sir Ceredigion,1996-04-01,,wal
+CMN,,Carmarthenshire,Sir Gaerfyrddin,Carmarthenshire County Council,Cyngor Sir Gâr,1996-04-01,,wal
+CRF,,Cardiff,Caerdydd,City of Cardiff Council,Cyngor Dinas Caerdydd,1996-04-01,,wal
+CWY,,Conwy,Conwy,Conwy County Borough Council,Cyngor Bwrdeistref Sirol Conwy,1996-04-01,,wal
+DEN,,Denbighshire,Sir Ddinbych,Denbighshire County Council,Cyngor Sir Ddinbych,1996-04-01,,wal
+FLN,,Flintshire,Sir y Fflint,Flintshire County Council,Cyngor Sir y Fflint,1996-04-01,,wal
+GWN,,Gwynedd,Gwynedd,Gwynedd Council,Cyngor Gwynedd,1996-04-01,,wal
+MON,,Monmouthshire,Sir Fynwy,Monmouthshire County Council,Cyngor Sir Fynwy,1996-04-01,,wal
+MTY,,Merthyr Tydfil,Merthyr Tudful,Merthyr Tydfil County Borough Council,Cyngor Bwrdeistref Sirol Merthyr Tudful,1996-04-01,,wal
+NTL,,Neath Port Talbot,Castell-nedd Port Talbot,Neath Port Talbot County Borough Council,Cyngor Bwrdeistref Sirol Castell-nedd Port Talbot,1996-04-01,,wal
+NWP,,Newport,Casnewydd,Newport City Council,Cyngor Dinas Casnewydd,1996-04-01,,wal
+PEM,,Pembrokeshire,Sir Benfro,Pembrokeshire County Council,Cyngor Sir Penfro,1996-04-01,,wal
+POW,,Powys,Powys,Powys County Council,Cyngor Sir Powys,1996-04-01,,wal
+RCT,,Rhondda Cynon Taff,Rhondda Cynon Taf,Rhondda Cynon Taf County Borough Council,Cyngor Bwrdeistref Sirol Rhondda Cynon Taf,1996-04-01,,wal
+SWA,,Swansea,Abertawe,City and County of Swansea Council,Dinas a Sir Abertawe,1996-04-01,,wal
+TOF,,Torfaen,Tor-faen,Torfaen County Borough Council,Cyngor Bwrdeistref Sirol Torfaen,1996-04-01,,wal
+VGL,,The Vale of Glamorgan,Bro Morgannwg,Vale of Glamorgan Council,Cyngor Bro Morgannwg,1996-04-01,,wal
+WRX,,Wrexham,Wrecsam,Wrexham County Borough Council,Cyngor Bwrdeistref Sirol Wrecsam,1996-04-01,,wal

@@ -8,32 +8,28 @@ The controlled lists in use in the standard are:
 
 * Local Authorities
 * HWRC Area Served
-* Materials
+* Services
 * Processing
 * Countries
 
-## Local Authorities
+## 1. Local Authorities
 
-Each HWRC is effectively owned by a local authority. The local authority list should be drawn from the following:
+Each HWRC is effectively owned by a local authority. The local authority list should be drawn from the list of Local Authorites in the UK, provided in the controlled lists section of this documentation.
 
-	* [England](https://local-authority-eng.register.gov.uk/records?page-index=1&page-size=5000)
-	* [Scotland](https://local-authority-sct.register.gov.uk/records?page-index=1&page-size=5000)
-	* [Wales](https://principal-local-authority.register.gov.uk/records)
-	* [Northern Ireland](https://www.registers.service.gov.uk/registers/local-authority-nir)
 
-## HWRC Area Served
+## 2. HWRC Area Served
 
 Each HWRC has an area that it serves. This means that only people who live in the specified area can use the HWRC. Many of these areas are aligned with Local Authority boundaries, but some are more complex than that. Information about areas served will need to be published as a separate file. This can be either as a CSV file, or a spatial file, such as geojson.
 
-## Materials
+## 3. Services
 
 This list is a list of materials accepted by the HWRC. This list is quite high-level, to accommodate the nuances of waste management. This will allow residents to make informaed choices about where they take their waste.
 
-## Processing
+## 4. Processing
 
 This list provides the different treatment options for materials.
 
-## Countries
+## 5. Countries
 
 This open data standard currently covers the 4 nations of the United Kingdom - England, Scotland, Northern Ireland, and Wales. See the identifiers section for guidance.
 
