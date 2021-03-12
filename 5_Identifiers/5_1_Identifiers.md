@@ -22,9 +22,9 @@ Each HWRC needs a unique identifier, and this should be created by the publishin
 
 3. Add the three letter code for the owner from one of the registers listed below (with a hyphen):
 
-	* [England](https://local-authority-eng.register.gov.uk/records?page-index=1&page-size=5000)
-	* [Scotland](https://local-authority-sct.register.gov.uk/records?page-index=1&page-size=5000)
-	* [Wales](https://principal-local-authority.register.gov.uk/records)
+	* [England](https://www.registers.service.gov.uk/registers/local-authority-eng)
+	* [Scotland](https://www.registers.service.gov.uk/registers/local-authority-sct)
+	* [Wales](https://www.registers.service.gov.uk/registers/principal-local-authority)
 	* [Northern Ireland](https://www.registers.service.gov.uk/registers/local-authority-nir)
 
 4. Add your organisation's unique identifier for the HWRC
@@ -35,9 +35,9 @@ As an example, if Trafford local authority has the unique identifier `1234` for 
 
 Use the following sites to obtain your three-letter local authority identifier:
 
-	* [England](https://local-authority-eng.register.gov.uk/records?page-index=1&page-size=5000)
-	* [Scotland](https://local-authority-sct.register.gov.uk/records?page-index=1&page-size=5000)
-	* [Wales](https://principal-local-authority.register.gov.uk/records)
+	* [England](https://www.registers.service.gov.uk/registers/local-authority-eng)
+	* [Scotland](https://www.registers.service.gov.uk/registers/local-authority-sct)
+	* [Wales](https://www.registers.service.gov.uk/registers/principal-local-authority)
 	* [Northern Ireland](https://www.registers.service.gov.uk/registers/local-authority-nir)
 
 To avoid duplicates, prefix your local authority identifier with the three letter country code:
@@ -63,9 +63,9 @@ When providing separate information about the area served by a HWRC, the identif
 
 3. Add the three letter code for the owner from one of the registers listed below (with a hyphen):
 
-	* [England](https://local-authority-eng.register.gov.uk/records?page-index=1&page-size=5000)
-	* [Scotland](https://local-authority-sct.register.gov.uk/records?page-index=1&page-size=5000)
-	* [Wales](https://principal-local-authority.register.gov.uk/records)
+	* [England](https://www.registers.service.gov.uk/registers/local-authority-eng)
+	* [Scotland](https://www.registers.service.gov.uk/registers/local-authority-sct)
+	* [Wales](https://www.registers.service.gov.uk/registers/principal-local-authority)
 	* [Northern Ireland](https://www.registers.service.gov.uk/registers/local-authority-nir)
 
 4. Add a unique code to differentiate this area from others that your organisation might publish

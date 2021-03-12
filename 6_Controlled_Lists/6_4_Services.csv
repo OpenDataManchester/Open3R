@@ -1,2 +1,51 @@
 identifier,category,detailed,type
-hwrc-service-0001,Automotive,,Disposal
+hwrc-service-0001,Aerosols,Substances enclosed under pressure and released as a fine spray by means of a propellant gas.,recycled
+hwrc-service-0002,Asbestos,"Highly heat-resistant fibrous silicate mineral that can be woven into fabrics, and is used in brake linings and in fire-resistant and insulating materials.",disposal
+hwrc-service-0003,Automotive Oil,Oils used for lubricating an components on vehicle.,recycled
+hwrc-service-0004,Batteries,"Containers consisting of one or more cells, in which chemical energy is converted into electricity and used as a source of power.",recycled
+hwrc-service-0005,Books,Written or printed works consisting of pages glued or sewn together along one side and bound in covers.,reused
+hwrc-service-0006,Car Batteries,"Containers consisting of one or more cells, in which chemical energy is converted into electricity and used as a source of power.",recycled
+hwrc-service-0007,Cardboard,Pasteboard or stiff paper.,recycled
+hwrc-service-0008,Carpets,Floor coverings made from thick woven fabric.,recycled
+hwrc-service-0009,CDs,Small plastic discs on which music or other digital information is stored in the form of a pattern of metal-coated pits from which it can be read using laser light reflected off the disc.,disposal
+hwrc-service-0010,Cement,"Powdery substance made by calcining lime and clay, mixed with water to form mortar or mixed with sand, gravel, and water to make concrete.",disposal
+hwrc-service-0011,Chipboard,"Material made in rigid sheets from compressed wood chips and resin, often coated or veneered, used in furniture, buildings, etc.",
+hwrc-service-0012,Clothes,Items worn to cover the body.,
+hwrc-service-0013,Concrete,"Building material made from a mixture of broken stone or gravel, sand, cement, and water, which can be spread or poured into moulds and forms a mass resembling stone on hardening.",disposal
+hwrc-service-0014,Cooking Oils,"Cooking oil is plant, animal, or synthetic fat used in frying, baking, and other types of cooking.",
+hwrc-service-0015,Crockery,"Plates, dishes, cups, and other similar items, especially ones made of earthenware or china.",
+hwrc-service-0016,DVDs,"Type of compact discs able to store large amounts of data, especially high-resolution audiovisual material.",disposal
+hwrc-service-0017,Engine Oil,Oil used for lubricating engines or components.,
+hwrc-service-0018,Excess Bin Waste,"General Waste, sometimes known as residual or trade waste, is common everyday rubbish that can not be recycled.",
+hwrc-service-0019,Fluorescent Tubes,Glass tubes which radiates light when phosphor on its inside surface is made to fluoresce by ultraviolet radiation from mercury vapour.,
+hwrc-service-0020,Foil,"Foils made of grey metals, used especially for covering or wrapping food.",
+hwrc-service-0021,Freezers,Refrigerated cabinets for preserving food at very low temperatures.,
+hwrc-service-0022,Fridges,Appliances which is artificially kept cool and used to store food and drink,
+hwrc-service-0023,Furniture,"The movable articles that are used to make a room or building suitable for living or working in, such as tables, chairs, or desks.",
+hwrc-service-0024,Garden Waste,"Unwanted organic material produced by gardening, such as grass cuttings and hedge clippings.",
+hwrc-service-0025,Gas Bottles,A gas cylinder is a pressure vessel for storage and containment of gases at above atmospheric pressure.,
+hwrc-service-0026,Glass Bottles,Glass bottles are bottles made from glass.,
+hwrc-service-0027,Glass Jars,Glass jars are jars made from glass.,
+hwrc-service-0028,Hardcore,"Broken bricks, rubble, or similar solid material used as a filling or foundation in building.",
+hwrc-service-0029,Household Chemicals,Household chemicals are non-food chemicals that are commonly found and used in and around the average household.,
+hwrc-service-0030,Large Electrical Appliances,"A major appliance, also known as a large domestic appliance or large electric appliance or simply a large appliance, large domestic or large electric, is a non-portable or semi-portable machine used for routine housekeeping tasks such as cooking, washing laundry, or food preservation.",
+hwrc-service-0031,Light Bulbs,"Devices used to convert electricity into light, consisting of a source of illumination (e.g. an electric filament or one or more LEDs) enclosed within a transparent or translucent shell, typically having a rounded shape and designed to be fitted into a socket in a lamp.",
+hwrc-service-0032,Mattresses,"Fabric cases filled with soft, firm, or springy material, used for sleeping on.",
+hwrc-service-0033,Mortar,"Mortar is a workable paste which hardens to bind building blocks such as stones, bricks, and concrete masonry units, to fill and seal the irregular gaps between them, spread the weight of them evenly, and sometimes to add decorative colors or patterns to masonry walls.",
+hwrc-service-0034,Paint,A coloured substance which is spread over a surface and dries to leave a thin decorative or protective coating.,
+hwrc-service-0035,Paint Cans,Containers made of plastic or metal to hold paint.,
+hwrc-service-0036,Paper,"Materials manufactured in thin sheets from the pulp of wood or other fibrous substances, used for writing, drawing, or printing on, or as wrapping material.",
+hwrc-service-0037,Plasterboard,"Boards made of plaster set between two sheets of paper, used especially to form or line the inner walls of houses.",
+hwrc-service-0038,Plastic Bottles,Bottles made of plastic.,
+hwrc-service-0039,Plastic Pots,Pots made of plastic.,
+hwrc-service-0040,Plastic Trays,Trays made of plastic.,
+hwrc-service-0041,Printer Cartridges,"Containers holding a spool of photographic film, a quantity of ink, etc., designed for insertion into a mechanism.",
+hwrc-service-0042,Rubble,"Waste or rough fragments of stone, brick, concrete, etc., especially as the debris from the demolition of buildings.",
+hwrc-service-0043,Scrap Metal,"Small piece or amount of something metal, especially one that is left over after the greater part has been used.",
+hwrc-service-0044,Small Electrical Appliances,"Portable or semi-portable machines, generally used on table -tops, counter-tops or other platforms, to accomplish a household task.",
+hwrc-service-0045,Soil,"Upper layers of earth in which plants grow, a black or dark brown material typically consisting of a mixture of organic remains, clay, and rock particles.",
+hwrc-service-0046,Textiles,Types of cloth or woven fabric.,
+hwrc-service-0047,Timber,Wood prepared for use in building and carpentry.,
+hwrc-service-0048,Turf,Grass and the surface layer of earth held together by its roots.,
+hwrc-service-0049,Tyres,"Rubber covering, typically inflated or surrounding an inflated inner tube, placed round a wheel to form a soft contact with the road.",
+hwrc-service-0050,Windows,"Openings in the wall or roof of a building or vehicle, fitted with glass in a frame to admit light or air and allow people to see out.",
