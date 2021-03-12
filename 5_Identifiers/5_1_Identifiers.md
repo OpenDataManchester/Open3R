@@ -53,7 +53,7 @@ For example, the code for Trafford would be `eng-trf`
 
 When providing separate information about the area served by a HWRC, the identifier should be constructed in the following way:
 
-1. Start with the prefix `hwrc-area`
+1. Start with the prefix `hwrc-area-`
  
 2. Add the three letter code of the country that the owner is in:
 	* England: `eng-`
@@ -74,10 +74,33 @@ As an example, if Trafford published data about the area served by Woodhouse Lan
 
 ## Operator identifiers
 
-Using common identifiers for HWRC operators will enable analysis of aggregated data, such counting sites by operator across the country. Where the operator is a limited company, then the Companies House identifier should be used.
+Using common identifiers for HWRC operators will enable analysis of aggregated data, such counting sites by operator across the country. Where the operator is a limited company, then the Companies House identifier should be used. 
 
-[Should we have Dsposal create a curated list of operators - eg Greater Manchester Combined Authority]
 
+## HWRC Services identifiers
+
+When providing the information about the services provided by an individual hwrc, the identifier should be constructed in the following way:
+
+1. Start with the prefix `hwrc-service-`
+
+2. Add the three letter code of the country that the owner is in:
+	* England: `eng-`
+	* Scotland: `sct-`
+	* Wales: `pla-`
+	* Northern Ireland: `nir-`
+
+3. Add the three letter code for the owner from one of the registers listed below (with a hyphen):
+
+	* [England](https://local-authority-eng.register.gov.uk/records?page-index=1&page-size=5000)
+	* [Scotland](https://local-authority-sct.register.gov.uk/records?page-index=1&page-size=5000)
+	* [Wales](https://principal-local-authority.register.gov.uk/records)
+	* [Northern Ireland](https://www.registers.service.gov.uk/registers/local-authority-nir)
+
+4. Add your organisation's unique identifier for the HWRC
+
+5. Finally add an incrementing number for each combination of material / processing 
+
+As an example, Trafford Council would reference the service of paint re-use at Woodhouse Lane Recycling Centre as 'hwrc-service-eng-trf-a001-1'
 
 
 
