@@ -1,6 +1,10 @@
-# hwrc_data_standard
+# Open3R
 
-# THIS STANDARD IS NOT LIVE AND IS IN ACTIVE DEVELOPMENT
+# A data standard for reporting data about Household Waste Recycling Centres
+
+## Version
+
+Version 1.0 Published 2021-03-17
 
 ## Contents
 
