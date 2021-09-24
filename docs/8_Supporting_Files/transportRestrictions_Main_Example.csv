@@ -1,10 +1,25 @@
-Id,HWRC,transportType,accessAllowed,transportRestriction,permitRequired,bookingRequired,bookingURL,maxHeight,maxLength,maxWeight,dateUpdated
-,hwrc-eng-gmca-gb3907hj,small vehicle,1,Mo-Sa 08:00-20:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,2 m,,,24/09/2021
+Id,HWRC,transportType,accessAllowed,openingHours,permitRequired,bookingRequired,bookingURL,maxHeight,maxLength,maxWeight,dateUpdated
+,hwrc-eng-gmca-gb3907hj,small vehicle,1,Mo-Sa 08:00-20:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,2.0 m,,,24/09/2021
 ,hwrc-eng-gmca-gb3907hj,large vehicle,1,Mo-Sa 07:00-17:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,,,,24/09/2021
 ,hwrc-eng-gmca-gb3907hj,pedestrian,0,,0,0,,,,,24/09/2021
-,hwrc-eng-DEVON-PINBROOK,small vehicle,1,,,,,2 m,,,24/09/2021
-,hwrc-eng-DEVON-PINBROOK,large vehicle,1,,,1,https://www.devon.gov.uk/wasteandrecycling/recycling-centres/site-user-restrictions/,3 m,6 m,3.5,24/09/2021
-,hwrc-eng-DEVON-PINBROOK,pedestrian,1,,,,,,,,24/09/2021
-,hwrc-sct-Aberdeenshire-Alford,small vehicle,1,,,,,2 m,,,24/09/2021
-,hwrc-sct-Aberdeenshire-Alford,large vehicle,1,,,,,,3 m,3.5,24/09/2021
-,hwrc-sct-Aberdeenshire-Alford,pedestrian,1,"Mo,Fr, Sa, Su 12:00-12:30",,,,,,,24/09/2021
+,hwrc-eng-dev-ap3796ed,small vehicle,1,,,,,2.0 m,,,24/09/2021
+,hwrc-eng-dev-ap3796ed,large vehicle,1,,,1,https://www.devon.gov.uk/wasteandrecycling/recycling-centres/site-user-restrictions/,3.0 m,6.0 m,3.5 t,24/09/2021
+,hwrc-eng-dev-ap3796ed,pedestrian,1,,,,,,,,24/09/2021
+,hwrc-sct-abd-wmln0020214,small vehicle,1,,,,,2.0 m,,,24/09/2021
+,hwrc-sct-abd-wmln0020214,large vehicle,1,,,,,,3.0 m,3.5 t,24/09/2021
+,hwrc-sct-abd-wmln0020214,pedestrian,1,"Mo,Fr, Sa, Su 12:00-12:30",,,,,,,24/09/2021
+,hwrc-sct-abd-wmll1018935,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,24/09/2021
+,hwrc-sct-abd-wmll1018935,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,3.5 t,24/09/2021
+,hwrc-sct-abd-wmll1018935,pedestrian,0,,,,,,,,24/09/2021
+,hwrc-sct-abd-wmll1155721,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m ,,,24/09/2021
+,hwrc-sct-abd-wmll1155721,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,3.5 t,24/09/2021
+,hwrc-sct-abd-wmll1155721,pedestrian,0,,,,,,,,24/09/2021
+,hwrc-sct-abd-wmll1155721,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,24/09/2021
+,hwrc-sct-abd-wmll1155721,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,3.5 t,24/09/2021
+,hwrc-sct-abd-wmll1155721,pedestrian,1,Mo-Su 12:00-12:30,,,,,,,24/09/2021
+,hwrc-sct-abd-wmln0020025,small vehicle,1,,,,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,24/09/2021
+,hwrc-sct-abd-wmln0020025,large vehicle,1,,,,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,3.5 t,24/09/2021
+,hwrc-sct-abd-wmln0020025,pedestrian,1,Mo-Su 12:00-12:30,,,,,,,24/09/2021
+,hwrc-sct-abd-wmln0020029,small vehicle,1,,,,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,24/09/2021
+,hwrc-sct-abd-wmln0020029,large vehicle,1,,,,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,3.5 t,24/09/2021
+,hwrc-sct-abd-wmln0020029,pedestrian,1,"Tu, Sa 12:00-12:30",,,,,,,24/09/2021
