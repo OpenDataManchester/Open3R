@@ -1,0 +1,10 @@
+Id,HWRC,transportType,accessAllowed,transportRestriction,permitRequired,bookingRequired,bookingURL,maxHeight,maxLength,maxWeight,dateUpdated
+,hwrc-eng-gmca-gb3907hj,small vehicle,1,Mo-Sa 08:00-20:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,2 m,,,24/09/2021
+,hwrc-eng-gmca-gb3907hj,large vehicle,1,Mo-Sa 07:00-17:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907hj,pedestrian,0,,0,0,,,,,24/09/2021
+,hwrc-eng-DEVON-PINBROOK,small vehicle,1,,,,,2 m,,,24/09/2021
+,hwrc-eng-DEVON-PINBROOK,large vehicle,1,,,1,https://www.devon.gov.uk/wasteandrecycling/recycling-centres/site-user-restrictions/,3 m,6 m,3.5,24/09/2021
+,hwrc-eng-DEVON-PINBROOK,pedestrian,1,,,,,,,,24/09/2021
+,hwrc-sct-Aberdeenshire-Alford,small vehicle,1,,,,,2 m,,,24/09/2021
+,hwrc-sct-Aberdeenshire-Alford,large vehicle,1,,,,,,3 m,3.5,24/09/2021
+,hwrc-sct-Aberdeenshire-Alford,pedestrian,1,"Mo,Fr, Sa, Su 12:00-12:30",,,,,,,24/09/2021
