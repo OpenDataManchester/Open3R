@@ -1,25 +1,405 @@
-Id,HWRC,transportType,accessAllowed,openingHours,permitRequired,bookingRequired,bookingURL,maxHeight,maxLength,maxWeight,dateUpdated
-,hwrc-eng-gmca-gb3907hj,small vehicle,1,Mo-Sa 08:00-20:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,2.0 m,,,24/09/2021
-,hwrc-eng-gmca-gb3907hj,large vehicle,1,Mo-Sa 07:00-17:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907hj,pedestrian,0,,0,0,,,,,24/09/2021
-,hwrc-eng-dev-ap3796ed,small vehicle,1,,,,,2.0 m,,,24/09/2021
-,hwrc-eng-dev-ap3796ed,large vehicle,1,,,1,https://www.devon.gov.uk/wasteandrecycling/recycling-centres/site-user-restrictions/,3.0 m,6.0 m,3.5 t,24/09/2021
-,hwrc-eng-dev-ap3796ed,pedestrian,1,,,,,,,,24/09/2021
-,hwrc-sct-abd-wmln0020214,small vehicle,1,,,,,2.0 m,,,24/09/2021
-,hwrc-sct-abd-wmln0020214,large vehicle,1,,,,,,3.0 m,3.5 t,24/09/2021
-,hwrc-sct-abd-wmln0020214,pedestrian,1,"Mo,Fr, Sa, Su 12:00-12:30",,,,,,,24/09/2021
-,hwrc-sct-abd-wmll1018935,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,24/09/2021
-,hwrc-sct-abd-wmll1018935,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,3.5 t,24/09/2021
-,hwrc-sct-abd-wmll1018935,pedestrian,0,,,,,,,,24/09/2021
-,hwrc-sct-abd-wmll1155721,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m ,,,24/09/2021
-,hwrc-sct-abd-wmll1155721,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,3.5 t,24/09/2021
-,hwrc-sct-abd-wmll1155721,pedestrian,0,,,,,,,,24/09/2021
-,hwrc-sct-abd-wmll1155721,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,24/09/2021
-,hwrc-sct-abd-wmll1155721,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,3.5 t,24/09/2021
-,hwrc-sct-abd-wmll1155721,pedestrian,1,Mo-Su 12:00-12:30,,,,,,,24/09/2021
-,hwrc-sct-abd-wmln0020025,small vehicle,1,,,,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,24/09/2021
-,hwrc-sct-abd-wmln0020025,large vehicle,1,,,,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,3.5 t,24/09/2021
-,hwrc-sct-abd-wmln0020025,pedestrian,1,Mo-Su 12:00-12:30,,,,,,,24/09/2021
-,hwrc-sct-abd-wmln0020029,small vehicle,1,,,,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,24/09/2021
-,hwrc-sct-abd-wmln0020029,large vehicle,1,,,,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,3.5 t,24/09/2021
-,hwrc-sct-abd-wmln0020029,pedestrian,1,"Tu, Sa 12:00-12:30",,,,,,,24/09/2021
+Id,HWRC,transportType,accessAllowed,openingHours,permitRequired,bookingRequired,bookingURL,maxHeight,maxLength,maxWidth,maxWeight,trailerCombinedWith,dateUpdated
+,hwrc-eng-gmca-gb3907hj,small vehicle,1,Mo-Sa 08:00-20:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907hj,large vehicle,1,Mo-Sa 07:00-17:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907hj,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3907hj,pedestrian,0,,0,0,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907th,small vehicle,1,,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907th,large vehicle,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907th,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3907th,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907kb,small vehicle,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907kb,large vehicle,1,Mo-Fr 07:30-17:00; Sa 08:00-13:00; Su off; PH 10:00-17:00,0,0,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907kb,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3907kb,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907uf,small vehicle,1,,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907uf,large vehicle,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907uf,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3907uf,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-hb3001hw,small vehicle,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-hb3001hw,large vehicle,1,Mo-Fr 07:00-18:00; Sa-Su 07:00-17:00; PH 07:00-18:00,0,0,,,,,,,24/09/2021
+,hwrc-eng-gmca-hb3001hw,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-hb3001hw,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907xn,small vehicle,1,,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907xn,large vehicle,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907xn,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3907xn,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-hb3001gv,small vehicle,1,,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-hb3001gv,large vehicle,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-hb3001gv,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-hb3001gv,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907ls,small vehicle,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907ls,large vehicle,1,Mo-Fr 07:00-18:00; Sa-Su 07:00-17:00; PH 07:00-18:00,0,0,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907ls,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3907ls,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907ml,small vehicle,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907ml,large vehicle,1,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907ml,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3907ml,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908cr,small vehicle,1,,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908cr,large vehicle,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908cr,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3908cr,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908fj,small vehicle,1,,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908fj,large vehicle,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908fj,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3908fj,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908gq,small vehicle,1,,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908gq,large vehicle,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908gq,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3908gq,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907cw,small vehicle,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907cw,large vehicle,1,Mo-Fr 07:00-17:00; Sa 07:00-13:00; Su off; PH 07:00-17:00,0,0,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907cw,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3907cw,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908hp,small vehicle,1,,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908hp,large vehicle,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908hp,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3908hp,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907fd,small vehicle,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907fd,large vehicle,1,Mo-Fr 07:00-18:00; Sa-Su 07:00-17:00; PH 07:00-18:00,0,0,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907fd,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3907fd,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908kl,small vehicle,1,,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908kl,large vehicle,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908kl,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3908kl,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907st,small vehicle,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907st,large vehicle,1,Mo-Fr 07:00-17:00; Sa 07:00-13:00; Su off; PH 07:00-17:00,0,0,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3907st,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3907st,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908lm,small vehicle,1,,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908lm,large vehicle,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908lm,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3908lm,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908mu,small vehicle,1,,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908mu,large vehicle,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908mu,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3908mu,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908tc,small vehicle,1,,0,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908tc,large vehicle,0,,,,,,,,,,24/09/2021
+,hwrc-eng-gmca-gb3908tc,trailer,,,,,,,,,,,4/10/2021
+,hwrc-eng-gmca-gb3908tc,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-ep3396hr,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-ep3396hr,large vehicle,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-ep3396hr,trailer,1,,,,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-ep3396hr,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-jp3391hn,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-jp3391hn,large vehicle,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-jp3391hn,trailer,1,,,,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-jp3391hn,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-bp3097hc,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-bp3097hc,large vehicle,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-bp3097hc,trailer,1,,,,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-bp3097hc,pedestrian,1,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-jp3691hd,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-jp3691hd,large vehicle,1,,,1,https://www.devon.gov.uk/wasteandrecycling/recycling-centres/site-user-restrictions/,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-jp3691hd,trailer,1,,,1,https://www.devon.gov.uk/wasteandrecycling/recycling-centres/site-user-restrictions/,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-jp3691hd,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-eb3738rg,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-eb3738rg,large vehicle,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-eb3738rg,trailer,1,,,,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-eb3738rg,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-jb3107lz,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-jb3107lz,large vehicle,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-jb3107lz,trailer,1,,,,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-jb3107lz,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-eb3739dr,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-eb3739dr,large vehicle,1,,,1,https://www.devon.gov.uk/wasteandrecycling/recycling-centres/site-user-restrictions/,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-eb3739dr,trailer,1,,,1,https://www.devon.gov.uk/wasteandrecycling/recycling-centres/site-user-restrictions/,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-eb3739dr,pedestrian,1,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-cb3309me,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-cb3309me,large vehicle,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-cb3309me,trailer,1,,,,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-cb3309me,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-hp3491hn,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-hp3491hn,large vehicle,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-hp3491hn,trailer,1,,,,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-hp3491hn,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-pp3591hp,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-pp3591hp,large vehicle,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-pp3591hp,trailer,1,,,,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-pp3591hp,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-hp3991hp,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-hp3991hp,large vehicle,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-hp3991hp,trailer,1,,,,,,1.8 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-hp3991hp,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-jp3991hs,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-jp3991hs,large vehicle,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-jp3991hs,trailer,1,,,,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-jp3991hs,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-ap3796ed,small vehicle,1,,,,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-ap3796ed,large vehicle,1,,,1,https://www.devon.gov.uk/wasteandrecycling/recycling-centres/site-user-restrictions/,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-ap3796ed,trailer,1,,,1,https://www.devon.gov.uk/wasteandrecycling/recycling-centres/site-user-restrictions/,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-ap3796ed,pedestrian,1,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-eb3739rt,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-eb3739rt,large vehicle,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-eb3739rt,trailer,1,,,,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-eb3739rt,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-eb3739av,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-eb3739av,large vehicle,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-eb3739av,trailer,1,,,,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-eb3739av,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-kb3136ry,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-kb3136ry,large vehicle,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-kb3136ry,trailer,1,,,,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-kb3136ry,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-ep3991hy,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-ep3991hy,large vehicle,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-ep3991hy,trailer,1,,,,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-ep3991hy,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-jp3491hv,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-jp3491hv,large vehicle,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-jp3491hv,trailer,1,,,,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-jp3491hv,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-eng-dev-jp3091hk,small vehicle,1,,,0,,2.0 m,,,,,24/09/2021
+,hwrc-eng-dev-jp3091hk,large vehicle,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+,hwrc-eng-dev-jp3091hk,trailer,1,,,,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-dev-jp3091hk,pedestrian,1,,,,,,,,,,24/09/2021
+,hwrc-eng-som-fp3990fa,small vehicle,1,,0,0,,2.0 m,,,,,1/10/2021
+,hwrc-eng-som-fp3990fa,large vehicle,1,,1,0,,,,,3.5 t,,1/10/2021
+,hwrc-eng-som-fp3990fa,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-fp3990fa,pedestrian,0,,,,,,,,,,1/10/2021
+,hwrc-eng-som-qp3193fr,small vehicle,1,,0,0,,2.0 m,3.0 m,,,,1/10/2021
+,hwrc-eng-som-qp3193fr,large vehicle,1,,1,0,,,,,3.5 t,,1/10/2021
+,hwrc-eng-som-qp3193fr,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-qp3193fr,pedestrian,0,,,,,,,,,,1/10/2021
+,hwrc-eng-som-qp3193fr,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-dp3990vk,small vehicle,1,,0,0,,2.0 m,,,,,1/10/2021
+,hwrc-eng-som-dp3990vk,large vehicle,1,,1,0,,,,,3.5 t,,1/10/2021
+,hwrc-eng-som-dp3990vk,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-dp3990vk,pedestrian,1,,0,0,,,,,,,1/10/2021
+,hwrc-eng-som-fp3390fx,small vehicle,1,,0,0,,2.0 m,,,,,1/10/2021
+,hwrc-eng-som-fp3390fx,large vehicle,1,,1,0,,,,,3.5 t,,1/10/2021
+,hwrc-eng-som-fp3390fx,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-fp3390fx,pedestrian,1,,0,0,,,,,,,1/10/2021
+,hwrc-eng-som-ep3893fy,small vehicle,1,,0,0,,2.0 m,,,,,1/10/2021
+,hwrc-eng-som-ep3893fy,large vehicle,1,,1,0,,,,,3.5 t,,1/10/2021
+,hwrc-eng-som-ep3893fy,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-ep3893fy,pedestrian,0,,,,,,,,,,1/10/2021
+,hwrc-eng-som-bp3391hx,small vehicle,1,,0,0,,2.0 m,,,,,1/10/2021
+,hwrc-eng-som-bp3391hx,large vehicle,1,,1,0,,,,,3.5 t,,1/10/2021
+,hwrc-eng-som-bp3391hx,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-bp3391hx,pedestrian,0,,,,,,,,,,1/10/2021
+,hwrc-eng-som-fp3190fs,small vehicle,1,,0,0,,2.0 m,,,,,1/10/2021
+,hwrc-eng-som-fp3190fs,large vehicle,1,,1,0,,,,,3.5 t,,1/10/2021
+,hwrc-eng-som-fp3190fs,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-fp3190fs,pedestrian,1,,0,0,,,,,,,1/10/2021
+,hwrc-eng-som-dp3593fn,small vehicle,1,,0,0,,2.0 m,,,,,1/10/2021
+,hwrc-eng-som-dp3593fn,large vehicle,1,,1,0,,,,,3.5 t,,1/10/2021
+,hwrc-eng-som-dp3593fn,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-dp3593fn,pedestrian,1,,0,0,,,,,,,1/10/2021
+,hwrc-eng-som-hp3790fv,small vehicle,1,,0,0,,2.0 m,,,,,1/10/2021
+,hwrc-eng-som-hp3790fv,large vehicle,1,,1,0,,,,,3.5 t,,1/10/2021
+,hwrc-eng-som-hp3790fv,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-hp3790fv,pedestrian,1,,0,0,,,,,,,1/10/2021
+,hwrc-eng-som-hp3190fm,small vehicle,1,,0,0,,2.0 m,,,,,1/10/2021
+,hwrc-eng-som-hp3190fm,large vehicle,1,,1,0,,,,,3.5 t,,1/10/2021
+,hwrc-eng-som-hp3190fm,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-hp3190fm,pedestrian,1,,0,0,,,,,,,1/10/2021
+,hwrc-eng-som-cp3090fy,small vehicle,1,,0,0,,2.0 m,,,,,1/10/2021
+,hwrc-eng-som-cp3090fy,large vehicle,1,,1,0,,,,,3.5 t,,1/10/2021
+,hwrc-eng-som-cp3090fy,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-cp3090fy,pedestrian,0,,,,,,,,,,1/10/2021
+,hwrc-eng-som-kb3605kr,small vehicle,1,,0,0,,2.0 m,,,,,1/10/2021
+,hwrc-eng-som-kb3605kr,large vehicle,1,,1,0,,,,,3.5 t,,1/10/2021
+,hwrc-eng-som-kb3605kr,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-kb3605kr,pedestrian,0,,,,,,,,,,1/10/2021
+,hwrc-eng-som-eb3805gz,small vehicle,1,,0,0,,2.0 m,,,,,1/10/2021
+,hwrc-eng-som-eb3805gz,large vehicle,1,,1,0,,,,,3.5 t,,1/10/2021
+,hwrc-eng-som-eb3805gz,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-eb3805gz,pedestrian,0,,,,,,,,,,1/10/2021
+,hwrc-eng-som-cp3390fl,small vehicle,1,,0,0,,2.0 m,,,,,1/10/2021
+,hwrc-eng-som-cp3390fl,large vehicle,1,,1,0,,,,,3.5 t,,1/10/2021
+,hwrc-eng-som-cp3390fl,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-cp3390fl,pedestrian,0,,,,,,,,,,1/10/2021
+,hwrc-eng-som-dp3293ln,small vehicle,1,,0,0,,2.0 m,,,,,1/10/2021
+,hwrc-eng-som-dp3293ln,large vehicle,1,,1,0,,,,,3.5 t,,1/10/2021
+,hwrc-eng-som-dp3293ln,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-dp3293ln,pedestrian,0,,,,,,,,,,1/10/2021
+,hwrc-eng-som-hp3690fn,small vehicle,1,,0,0,,2.0 m,,,,,1/10/2021
+,hwrc-eng-som-hp3690fn,large vehicle,1,,1,0,,,,,3.5 t,,1/10/2021
+,hwrc-eng-som-hp3690fn,trailer,1,,1,0,,,3.0 m,,,small vehicle,4/10/2021
+,hwrc-eng-som-hp3690fn,pedestrian,0,,,,,,,,,,1/10/2021
+,hwrc-eng-dst-ap3897hl,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-dst-ap3897hl,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-dst-ap3897hl,trailer,1,,0,0,,,1.8 m,1.2 m,,small vehicle,4/10/2021
+,hwrc-eng-dst-ap3897hl,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-dst-kb3400cy,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-dst-kb3400cy,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-dst-kb3400cy,trailer,1,,0,0,,,1.8 m,1.2 m,,small vehicle,4/10/2021
+,hwrc-eng-dst-kb3400cy,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-dst-kb3308xk,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-dst-kb3308xk,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-dst-kb3308xk,trailer,1,,0,0,,,1.8 m,1.2 m,,small vehicle,4/10/2021
+,hwrc-eng-dst-kb3308xk,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-dst-kb3400xa,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-dst-kb3400xa,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-dst-kb3400xa,trailer,1,,0,0,,,1.8 m,1.2 m,,small vehicle,4/10/2021
+,hwrc-eng-dst-kb3400xa,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-dst-kb3400ku,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-dst-kb3400ku,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-dst-kb3400ku,trailer,1,,0,0,,,1.8 m,1.2 m,,small vehicle,4/10/2021
+,hwrc-eng-dst-kb3400ku,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-dst-kb3400fp,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-dst-kb3400fp,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-dst-kb3400fp,trailer,1,,0,0,,,1.8 m,1.2 m,,small vehicle,4/10/2021
+,hwrc-eng-dst-kb3400fp,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-dst-kb3309gw,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-dst-kb3309gw,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-dst-kb3309gw,trailer,1,,0,0,,,1.8 m,1.2 m,,small vehicle,4/10/2021
+,hwrc-eng-dst-kb3309gw,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-dst-xp3493fk,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-dst-xp3493fk,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-dst-xp3493fk,trailer,1,,0,0,,,1.8 m,1.2 m,,small vehicle,4/10/2021
+,hwrc-eng-dst-xp3493fk,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-dst-kb3309xh,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-dst-kb3309xh,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-dst-kb3309xh,trailer,1,,0,0,,,1.8 m,1.2 m,,small vehicle,4/10/2021
+,hwrc-eng-dst-kb3309xh,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-dst-kb3309fv,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-dst-kb3309fv,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-dst-kb3309fv,trailer,1,,0,0,,,1.8 m,1.2 m,,small vehicle,4/10/2021
+,hwrc-eng-dst-kb3309fv,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-bpc-up3093fy,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-bpc-up3093fy,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-bpc-up3093fy,trailer,0,,,,,,,,,,4/10/2021
+,hwrc-eng-bpc-up3093fy,pedestrian,1,,0,0,,,,,,,4/10/2021
+,hwrc-eng-bpc-ap3997hu,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-bpc-ap3997hu,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-bpc-ap3997hu,trailer,0,,,,,,,,,,
+,hwrc-eng-bpc-ap3997hu,pedestrian,1,,0,0,,,,,,,4/10/2021
+,hwrc-eng-bpc-kb3309ha,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-bpc-kb3309ha,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-bpc-kb3309ha,trailer,0,,,,,,,,,,
+,hwrc-eng-bpc-kb3309ha,pedestrian,1,,0,0,,,,,,,4/10/2021
+,hwrc-eng-wil-kp3093ff,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-wil-kp3093ff,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-wil-kp3093ff,trailer,1,,1,0,,,3.0 m,,,,4/10/2021
+,hwrc-eng-wil-kp3093ff,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-wil-fb3505mn,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-wil-fb3505mn,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-wil-fb3505mn,trailer,1,,1,0,,,3.0 m,,,,4/10/2021
+,hwrc-eng-wil-fb3505mn,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-wil-bb3330af,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-wil-bb3330af,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-wil-bb3330af,trailer,1,,1,0,,,3.0 m,,,,4/10/2021
+,hwrc-eng-wil-bb3330af,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-wil-fb3506gh,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-wil-fb3506gh,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-wil-fb3506gh,trailer,1,,1,0,,,3.0 m,,,,4/10/2021
+,hwrc-eng-wil-fb3506gh,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-wil-fb3505xb,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-wil-fb3505xb,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-wil-fb3505xb,trailer,1,,1,0,,,3.0 m,,,,4/10/2021
+,hwrc-eng-wil-fb3505xb,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-wil-yp3199en,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-wil-yp3199en,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-wil-yp3199en,trailer,1,,1,0,,,3.0 m,,,,4/10/2021
+,hwrc-eng-wil-yp3199en,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-wil-fb3505uj,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-wil-fb3505uj,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-wil-fb3505uj,trailer,1,,1,0,,,3.0 m,,,,4/10/2021
+,hwrc-eng-wil-fb3505uj,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-wil-fb3506cx,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-wil-fb3506cx,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-wil-fb3506cx,trailer,1,,1,0,,,3.0 m,,,,4/10/2021
+,hwrc-eng-wil-fb3506cx,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-wil-fb3506ft,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-wil-fb3506ft,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-wil-fb3506ft,trailer,1,,1,0,,,3.0 m,,,,4/10/2021
+,hwrc-eng-wil-fb3506ft,pedestrian,,,,,,,,,,,4/10/2021
+,hwrc-eng-wil-fb3506hf,small vehicle,1,,0,0,,2.0 m,,,,,4/10/2021
+,hwrc-eng-wil-fb3506hf,large vehicle,1,,1,0,,,,,3.5 t,,4/10/2021
+,hwrc-eng-wil-fb3506hf,trailer,1,,1,0,,,3.0 m,,,,4/10/2021
+,hwrc-eng-wil-fb3506hf,pedestrian,,,,,,,,,,,4/10/2021
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,hwrc-sct-abd-wmln0020214,small vehicle,1,,,,,2.0 m,,,,,24/09/2021
+,hwrc-sct-abd-wmln0020214,large vehicle,1,,,,,,,,3.5 t,,24/09/2021
+,hwrc-sct-abd-wmln0020214,trailer,1,,,,,,3.0 m,,,,4/10/2021
+,hwrc-sct-abd-wmln0020214,pedestrian,1,"Mo,Fr, Sa, Su 12:00-12:30",,,,,,,,,24/09/2021
+,hwrc-sct-abd-wmll1018935,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,24/09/2021
+,hwrc-sct-abd-wmll1018935,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
+,hwrc-sct-abd-wmll1018935,trailer,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,4/10/2021
+,hwrc-sct-abd-wmll1018935,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-sct-abd-wmll1155721,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m ,,,,,24/09/2021
+,hwrc-sct-abd-wmll1155721,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
+,hwrc-sct-abd-wmll1155721,trailer,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,4/10/2021
+,hwrc-sct-abd-wmll1155721,pedestrian,0,,,,,,,,,,24/09/2021
+,hwrc-sct-abd-wmll1155721,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,24/09/2021
+,hwrc-sct-abd-wmll1155721,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
+,hwrc-sct-abd-wmll1155721,trailer,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,4/10/2021
+,hwrc-sct-abd-wmll1155721,pedestrian,1,Mo-Su 12:00-12:30,,,,,,,,,24/09/2021
+,hwrc-sct-abd-wmln0020025,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,24/09/2021
+,hwrc-sct-abd-wmln0020025,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
+,hwrc-sct-abd-wmln0020025,trailer,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,4/10/2021
+,hwrc-sct-abd-wmln0020025,pedestrian,1,Mo-Su 12:00-12:30,,,,,,,,,24/09/2021
+,hwrc-sct-abd-wmln0020029,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,24/09/2021
+,hwrc-sct-abd-wmln0020029,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
+,hwrc-sct-abd-wmln0020029,trailer,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,4/10/2021
+,hwrc-sct-abd-wmln0020029,pedestrian,1,"Tu, Sa 12:00-12:30",,,,,,,,,24/09/2021
+,hwrc-sct-abd-wmln0020027,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+,hwrc-sct-abd-wmln0020027,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+,hwrc-sct-abd-wmln0020027,trailer,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,4/10/2021
+,hwrc-sct-abd-wmln0020027,pedestrian,0,,,,,,,,,,30/09/2021
+,hwrc-sct-abd-wmle0220219,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+,hwrc-sct-abd-wmle0220219,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+,hwrc-sct-abd-wmle0220219,trailer,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,4/10/2021
+,hwrc-sct-abd-wmle0220219,pedestrian,1,Mo-Su 12:00-12:30,,,,,,,,,30/09/2021
+,hwrc-sct-abd-wmll1169623,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+,hwrc-sct-abd-wmll1169623,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+,hwrc-sct-abd-wmll1169623,trailer,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,4/10/2021
+,hwrc-sct-abd-wmll1169623,pedestrian,0,,,,,,,,,,30/09/2021
+,hwrc-sct-abd-wmln0020034,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+,hwrc-sct-abd-wmln0020034,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+,hwrc-sct-abd-wmln0020034,trailer,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,4/10/2021
+,hwrc-sct-abd-wmln0020034,pedestrian,0,,,,,,,,,,30/09/2021
+,hwrc-sct-abd-wmll1148211,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+,hwrc-sct-abd-wmll1148211,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+,hwrc-sct-abd-wmll1148211,trailer,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,4/10/2021
+,hwrc-sct-abd-wmll1148211,pedestrian,0,,,,,,,,,,30/09/2021
+,hwrc-sct-abd-wmln0020038,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+,hwrc-sct-abd-wmln0020038,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+,hwrc-sct-abd-wmln0020038,trailer,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,4/10/2021
+,hwrc-sct-abd-wmln0020038,pedestrian,1,"Tu, Sa 12:00-12:30",,,,,,,,,30/09/2021
+,hwrc-sct-abd-wmln0220298,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+,hwrc-sct-abd-wmln0220298,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+,hwrc-sct-abd-wmln0220298,trailer,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,4/10/2021
+,hwrc-sct-abd-wmln0220298,pedestrian,0,,,,,,,,,,30/09/2021
+,hwrc-sct-abd-wmln0020035,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+,hwrc-sct-abd-wmln0020035,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+,hwrc-sct-abd-wmln0020035,trailer,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,4/10/2021
+,hwrc-sct-abd-wmln0020035,pedestrian,1,Mo-Su 12:00-12:30,,,,,,,,,30/09/2021
+,hwrc-sct-abd-wmln0020212,small vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+,hwrc-sct-abd-wmln0020212,large vehicle,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+,hwrc-sct-abd-wmln0020212,trailer,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,4/10/2021
+,hwrc-sct-abd-wmln0020212,pedestrian,1,Mo-Su 12:00-12:30,,,,,,,,,30/09/2021
