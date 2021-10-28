@@ -1,4 +1,4 @@
-Id,HWRC,transportType,accessAllowed,openingHours,permitRequired,bookingRequired,bookingURL,maxHeight,maxLength,maxWidth,maxWeight,trailerCombinedWith,dateUpdated
+identifier,HWRC,transportType,accessAllowed,openingHours,permitRequired,bookingRequired,bookingURL,maxHeight,maxLength,maxWidth,maxWeight,trailerCombinedWith,dateUpdated
 ,hwrc-eng-gmca-gb3907hj,small vehicle,1,Mo-Sa 08:00-20:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,2.0 m,,,,,24/09/2021
 ,hwrc-eng-gmca-gb3907hj,large vehicle,1,Mo-Sa 07:00-17:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,,,,,,24/09/2021
 ,hwrc-eng-gmca-gb3907hj,small trailer,,,,,,1.8 m,,,,,11/10/2021
@@ -609,52 +609,6 @@ Id,HWRC,transportType,accessAllowed,openingHours,permitRequired,bookingRequired,
 ,hwrc-eng-sry-jp3494ew,small trailer,1,,1,,,,1.8 m,,,,15/10/2021
 ,hwrc-eng-sry-jp3494ew,large trailer,1,,1,,,,,,,,15/10/2021
 ,hwrc-eng-sry-jp3494ew,pedestrian,0,,,,,,,,,,15/10/2021
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
 ,hwrc-sct-abd-wmln0020214,small vehicle,1,,,1,,2.0 m,,,,,24/09/2021
 ,hwrc-sct-abd-wmln0020214,large vehicle,1,,,1,,,,,3.5 t,,24/09/2021
 ,hwrc-sct-abd-wmln0020214,small trailer,1,,,1,,,1.8 m,,,,11/10/2021
