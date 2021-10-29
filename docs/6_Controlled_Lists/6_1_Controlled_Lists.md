@@ -36,6 +36,6 @@ This open data standard currently covers the 4 nations of the United Kingdom - E
 
 ## 6. Transport Types
 
-This list provides 4 different transport types: small vehicle, large vehicle, small trailer, large trailer, pedestrian.
+This list provides 5 different transport types: small vehicle, large vehicle, small trailer, large trailer, pedestrian.
 
 
