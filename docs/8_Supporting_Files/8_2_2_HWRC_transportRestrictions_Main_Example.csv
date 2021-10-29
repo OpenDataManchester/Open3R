@@ -609,6 +609,76 @@ identifier,HWRC,transportType,accessAllowed,openingHours,permitRequired,bookingR
 ,hwrc-eng-sry-jp3494ew,hwrc-trans-03,1,,1,,,,1.8 m,,,,15/10/2021
 ,hwrc-eng-sry-jp3494ew,hwrc-trans-04,1,,1,,,,,,,,15/10/2021
 ,hwrc-eng-sry-jp3494ew,hwrc-trans-05,0,,,,,,,,,,15/10/2021
+,hwrc-eng-sry-zp3090er,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
+,hwrc-eng-sry-zp3090er,hwrc-trans-02,0,,,,,,,,,,29/10/2021
+,hwrc-eng-sry-zp3090er,hwrc-trans-03,0,,,,,,,,,,29/10/2021
+,hwrc-eng-sry-zp3090er,hwrc-trans-04,0,,,,,,,,,,29/10/2021
+,hwrc-eng-sry-zp3090er,hwrc-trans-05,0,,,,,,,,,,29/10/2021
+,hwrc-eng-sry-tp3693eg,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
+,hwrc-eng-sry-tp3693eg,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
+,hwrc-eng-sry-tp3693eg,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
+,hwrc-eng-sry-tp3693eg,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
+,hwrc-eng-sry-tp3693eg,hwrc-trans-05,0,,,,,,,,,,29/10/2021
+,hwrc-eng-sry-qp3793ex,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
+,hwrc-eng-sry-qp3793ex,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
+,hwrc-eng-sry-qp3793ex,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
+,hwrc-eng-sry-qp3793ex,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
+,hwrc-eng-sry-qp3793ex,hwrc-trans-05,0,,,,,,,,,,29/10/2021
+,hwrc-eng-sry-fp3293et,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
+,hwrc-eng-sry-fp3293et,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
+,hwrc-eng-sry-fp3293et,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
+,hwrc-eng-sry-fp3293et,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
+,hwrc-eng-sry-fp3293et,hwrc-trans-05,0,,,,,,,,,,29/10/2021
+,hwrc-eng-sry-vp3997nk,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
+,hwrc-eng-sry-vp3997nk,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
+,hwrc-eng-sry-vp3997nk,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
+,hwrc-eng-sry-vp3997nk,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
+,hwrc-eng-sry-vp3997nk,hwrc-trans-05,0,,,,,,,,,,29/10/2021
+,hwrc-eng-sry-sp3490ed,,1,,0,,,2.0 m,,,,,29/10/2021
+,hwrc-eng-sry-sp3490ed,,0,,,,,,,,,,29/10/2021
+,hwrc-eng-sry-sp3490ed,,0,,,,,,,,,,29/10/2021
+,hwrc-eng-sry-sp3490ed,,0,,,,,,,,,,29/10/2021
+,hwrc-eng-sry-sp3490ed,,1,Th-Fr 16:00-17:00,,,,,,,,,29/10/2021
+,hwrc-eng-sry-zp3990ez,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
+,hwrc-eng-sry-zp3990ez,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
+,hwrc-eng-sry-zp3990ez,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
+,hwrc-eng-sry-zp3990ez,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
+,hwrc-eng-sry-zp3990ez,hwrc-trans-05,0,,,,,,,,,,29/10/2021
+,hwrc-eng-sry-rp3893et,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
+,hwrc-eng-sry-rp3893et,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
+,hwrc-eng-sry-rp3893et,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
+,hwrc-eng-sry-rp3893et,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
+,hwrc-eng-sry-rp3893et,hwrc-trans-05,1,,,,,,,,,,29/10/2021
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
 ,hwrc-sct-abd-wmln0020214,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,24/09/2021
 ,hwrc-sct-abd-wmln0020214,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
 ,hwrc-sct-abd-wmln0020214,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
