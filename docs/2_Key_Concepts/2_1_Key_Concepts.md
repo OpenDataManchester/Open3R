@@ -38,6 +38,10 @@ Services offered by HWRCs will differ across sites. Some may offer electrical it
 
 Each HWRC has a specific catchment area - and only residents who live within that catchment area are permitted to use the facility. Usually these catchment areas are as simple as a local authority, or a collection of local authorities, but there are circumstances where residents from a particular part of one local authority are permitted to use a HWRC in a neighbouring local authority.
 
+## Transport Restrictions
+
+An HWRC might have different conditions for permits, bookings, opening hours, height, weight, etc. for different transport types. For example, a small vehicle might only be permitted to visit a site on a Monday but does not need a permit; however, a large vehicle might only be permitted to visit a site on a Tuesday and cannot come without a permit. 
+
 
 
 
