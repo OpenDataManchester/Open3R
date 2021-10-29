@@ -64,6 +64,25 @@ As an example, if Trafford published data about the area served by Woodhouse Lan
 
 Using common identifiers for HWRC operators will enable analysis of aggregated data, such counting sites by operator across the country. Where the operator is a limited company, then the Companies House identifier should be used. 
 
+## Transport Restrictions
+
+When providing separate information about the transport restrictions by a HWRC, the identifier should be constructed in the following way:
+
+1. Start with the prefix `hwrc-trans-`
+ 
+2. Add the three letter code of the country that the owner is in:
+	* England: `eng-`
+	* Scotland: `sct-`
+	* Wales: `pla-`
+	* Northern Ireland: `nir-`
+
+3. Add the three letter code for the owner from the local authorities controlled list
+
+4. Add your organisation's unique identifier for the HWRC
+
+5. Add a unique code to differentiate this area from others that your organisation might publish
+
+As an example, if Trafford published data about the transport restrictions, small vehicle by Woodhouse Lane Recycling Centre, they would use the identifier `hwrc-trans-eng-trf-1234-t001`
 
 
 
