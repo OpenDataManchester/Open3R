@@ -11,6 +11,7 @@ The controlled lists in use in the standard are:
 * Services
 * Processing
 * Countries
+* Transport Types
 
 ## 1. Local Authorities
 
@@ -32,5 +33,9 @@ This list provides the different treatment options for materials.
 ## 5. Countries
 
 This open data standard currently covers the 4 nations of the United Kingdom - England, Scotland, Northern Ireland, and Wales. See the identifiers section for guidance.
+
+## 6. Transport Types
+
+This list provides 4 different transport types: small vehicle, large vehicle, small trailer, large trailer, pedestrian.
 
 
