@@ -26,6 +26,12 @@ Each HWRC needs a unique identifier, and this should be created by the publishin
 
 As an example, if Trafford local authority has the unique identifier `1234` for Woodhouse Lane Recycling Centre, then the unique identifier for that site in this standard would be `hwrc-eng-trf-1234`
 
+If the HWRC is a mobile tip and changes locations, the standard can accommodate this by adding a location tag to the above identifier. 
+
+5. Add `loc` and a unique number
+
+As an example, if Trafford local authority has the unique identifier `1234` for Woodhouse Lane Recycling Centre which changes location, then the unique identifier for one site in this standard would be `hwrc-eng-trf-1234-loc1` and the next site would be `hwrc-eng-trf-1234-loc2`.
+
 ## Local Authority Identifiers
 
 Local Authority identifiers should be constructed in the following way:
