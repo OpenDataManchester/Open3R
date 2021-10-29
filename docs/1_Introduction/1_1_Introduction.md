@@ -28,8 +28,8 @@ The documentation here provides the detail of how to publish data to the standar
 2. They populate the csv template provide here (or prepare one from scratch using the specified column names)
 3. They create a csv file or spatial file of areas served by each HWRC.
 4. 
-* They publish the csv file(s) and/or spatial files on their website OR
-* They send the data to the custodian of the standard for publishing
+    1. They publish the csv file(s) and/or spatial files on their website OR
+    2. They send the data to the custodian of the standard for publishing
 5. Let the custodian of the standard know that there is new data
 
 Then repeat these steps whenever there is a change to the data.
