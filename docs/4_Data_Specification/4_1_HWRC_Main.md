@@ -14,6 +14,7 @@ hwrc_main.csv
 |URL|`recommended`|URI|A URL that links to a web page that provides more information about this HWRC|
 |name|`required`|String|The name of this HWRC|
 |description|`recommended`|String|A description of this HWRC|
+|siteAddressName|`recommended`|String|The name of the building/location of the hwrc or bring bank. For example: Car Park indicates the bring bank is located in a car park; Tesco indicates the bring bank is located either inside or outside a Tesco.|
 |siteAddressStreet|`required`|String|The street address of this HWRC|
 |siteAddressCity|`required`|String|The street address of this HWRC|
 |siteAddressCounty|`required`|String|The street address of this HWRC|
