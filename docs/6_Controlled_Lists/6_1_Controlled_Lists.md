@@ -12,6 +12,7 @@ The controlled lists in use in the standard are:
 * Processing
 * Countries
 * Transport Types
+* Recycling and Waste Site Type
 
 ## 1. Local Authorities
 
@@ -37,5 +38,9 @@ This open data standard currently covers the 4 nations of the United Kingdom - E
 ## 6. Transport Types
 
 This list provides 5 different transport types: small vehicle, large vehicle, small trailer, large trailer, pedestrian.
+
+## 7. Recycling and Waste Site Types
+
+This list provides a way to differentiate between the different tyeps of site described by the standard - HWRCs, Bring banks, Take-back schemes, etc.
 
 
