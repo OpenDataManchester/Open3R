@@ -1,756 +1,726 @@
 identifier,RWS,transportType,accessAllowed,openingHours,permitRequired,bookingRequired,bookingURL,maxHeight,maxLength,maxWidth,maxWeight,trailerCombinedWith,dateUpdated
-,hwrc-eng-gmca-gb3907hj,hwrc-trans-01,1,Mo-Sa 08:00-20:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907hj,hwrc-trans-02,1,Mo-Sa 07:00-17:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907hj,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3907hj,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3907hj,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907th,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907th,hwrc-trans-02,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907th,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3907th,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3907th,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907kb,hwrc-trans-01,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907kb,hwrc-trans-02,1,Mo-Fr 07:30-17:00; Sa 08:00-13:00; Su off; PH 10:00-17:00,0,0,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907kb,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3907kb,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3907kb,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907uf,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907uf,hwrc-trans-02,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907uf,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3907uf,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3907uf,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-hb3001hw,hwrc-trans-01,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-hb3001hw,hwrc-trans-02,1,Mo-Fr 07:00-18:00; Sa-Su 07:00-17:00; PH 07:00-18:00,0,0,,,,,,,24/09/2021
-,hwrc-eng-gmca-hb3001hw,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-hb3001hw,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-hb3001hw,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907xn,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907xn,hwrc-trans-02,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907xn,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3907xn,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3907xn,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-hb3001gv,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-hb3001gv,hwrc-trans-02,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-hb3001gv,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-hb3001gv,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-hb3001gv,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907ls,hwrc-trans-01,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907ls,hwrc-trans-02,1,Mo-Fr 07:00-18:00; Sa-Su 07:00-17:00; PH 07:00-18:00,0,0,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907ls,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3907ls,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3907ls,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907ml,hwrc-trans-01,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907ml,hwrc-trans-02,1,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907ml,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3907ml,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3907ml,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908cr,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908cr,hwrc-trans-02,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908cr,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3908cr,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3908cr,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908fj,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908fj,hwrc-trans-02,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908fj,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3908fj,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3908fj,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908gq,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908gq,hwrc-trans-02,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908gq,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3908gq,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3908gq,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907cw,hwrc-trans-01,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907cw,hwrc-trans-02,1,Mo-Fr 07:00-17:00; Sa 07:00-13:00; Su off; PH 07:00-17:00,0,0,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907cw,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3907cw,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3907cw,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908hp,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908hp,hwrc-trans-02,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908hp,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3908hp,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3908hp,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907fd,hwrc-trans-01,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907fd,hwrc-trans-02,1,Mo-Fr 07:00-18:00; Sa-Su 07:00-17:00; PH 07:00-18:00,0,0,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907fd,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3907fd,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3907fd,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908kl,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908kl,hwrc-trans-02,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908kl,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3908kl,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3908kl,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907st,hwrc-trans-01,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907st,hwrc-trans-02,1,Mo-Fr 07:00-17:00; Sa 07:00-13:00; Su off; PH 07:00-17:00,0,0,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3907st,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3907st,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3907st,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908lm,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908lm,hwrc-trans-02,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908lm,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3908lm,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3908lm,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908mu,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908mu,hwrc-trans-02,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908mu,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
-,hwrc-eng-gmca-gb3908mu,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3908mu,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908tc,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908tc,hwrc-trans-02,0,,,,,,,,,,24/09/2021
-,hwrc-eng-gmca-gb3908tc,hwrc-trans-03,,,,,,1.8 m,,,,,11/10/2021
-,hwrc-eng-gmca-gb3908tc,hwrc-trans-04,,,,,,,,,,,11/10/2021
-,hwrc-eng-gmca-gb3908tc,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-ep3396hr,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-ep3396hr,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-ep3396hr,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-ep3396hr,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-ep3396hr,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-jp3391hn,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-jp3391hn,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-jp3391hn,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-jp3391hn,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-jp3391hn,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-bp3097hc,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-bp3097hc,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-bp3097hc,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-bp3097hc,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-bp3097hc,hwrc-trans-05,1,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-jp3691hd,hwrc-trans-01,1,,,0,https://www.eventbrite.co.uk/e/brunel-road-hwrc-van-booking-free-service-tickets-157587720113,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-jp3691hd,hwrc-trans-02,1,,,1,https://www.eventbrite.co.uk/e/brunel-road-hwrc-van-booking-free-service-tickets-157587720113,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-jp3691hd,hwrc-trans-03,1,,,1,https://www.eventbrite.co.uk/e/brunel-road-hwrc-van-booking-free-service-tickets-157587720113,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-jp3691hd,hwrc-trans-04,1,,,1,https://www.eventbrite.co.uk/e/brunel-road-hwrc-van-booking-free-service-tickets-157587720113,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-jp3691hd,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-eb3738rg,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-eb3738rg,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-eb3738rg,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-eb3738rg,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-eb3738rg,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-jb3107lz,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-jb3107lz,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-jb3107lz,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-jb3107lz,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-jb3107lz,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-eb3739dr,hwrc-trans-01,1,,,0,https://www.eventbrite.co.uk/e/exton-road-hwrc-van-booking-free-service-tickets-157585631867,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-eb3739dr,hwrc-trans-02,1,,,1,https://www.eventbrite.co.uk/e/exton-road-hwrc-van-booking-free-service-tickets-157585631867,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-eb3739dr,hwrc-trans-03,1,,,1,https://www.eventbrite.co.uk/e/exton-road-hwrc-van-booking-free-service-tickets-157585631867,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-eb3739dr,hwrc-trans-04,1,,,1,https://www.eventbrite.co.uk/e/exton-road-hwrc-van-booking-free-service-tickets-157585631867,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-eb3739dr,hwrc-trans-05,1,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-cb3309me,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-cb3309me,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-cb3309me,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-cb3309me,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-cb3309me,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-hp3491hn,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-hp3491hn,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-hp3491hn,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-hp3491hn,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-hp3491hn,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-pp3591hp,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-pp3591hp,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-pp3591hp,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-pp3591hp,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-pp3591hp,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-hp3991hp,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-hp3991hp,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-hp3991hp,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-hp3991hp,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-dev-hp3991hp,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-jp3991hs,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-jp3991hs,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-jp3991hs,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-jp3991hs,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-jp3991hs,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-ap3796ed,hwrc-trans-01,1,,,,https://www.eventbrite.co.uk/e/pinbrook-road-hwrc-van-booking-free-service-tickets-157588004965,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-ap3796ed,hwrc-trans-02,1,,,1,https://www.eventbrite.co.uk/e/pinbrook-road-hwrc-van-booking-free-service-tickets-157588004965,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-ap3796ed,hwrc-trans-03,1,,,1,https://www.eventbrite.co.uk/e/pinbrook-road-hwrc-van-booking-free-service-tickets-157588004965,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-ap3796ed,hwrc-trans-04,1,,,1,https://www.eventbrite.co.uk/e/pinbrook-road-hwrc-van-booking-free-service-tickets-157588004965,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-ap3796ed,hwrc-trans-05,1,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-eb3739rt,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-eb3739rt,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-eb3739rt,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-eb3739rt,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-eb3739rt,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-eb3739av,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-eb3739av,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-eb3739av,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-eb3739av,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-eb3739av,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-kb3136ry,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-kb3136ry,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-kb3136ry,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-kb3136ry,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-kb3136ry,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-ep3991hy,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-ep3991hy,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-ep3991hy,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-ep3991hy,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-ep3991hy,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-jp3491hv,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-jp3491hv,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-jp3491hv,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-jp3491hv,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-jp3491hv,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-eng-dev-jp3091hk,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
-,hwrc-eng-dev-jp3091hk,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
-,hwrc-eng-dev-jp3091hk,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-jp3091hk,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dev-jp3091hk,hwrc-trans-05,1,,,,,,,,,,24/09/2021
-,hwrc-eng-som-fp3990fa,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
-,hwrc-eng-som-fp3990fa,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
-,hwrc-eng-som-fp3990fa,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-fp3990fa,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-fp3990fa,hwrc-trans-05,0,,,,,,,,,,1/10/2021
-,hwrc-eng-som-qp3193fr,hwrc-trans-01,1,,0,0,,2.0 m,3.0 m,,,,1/10/2021
-,hwrc-eng-som-qp3193fr,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
-,hwrc-eng-som-qp3193fr,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-qp3193fr,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-qp3193fr,hwrc-trans-05,0,,,,,,,,,,1/10/2021
-,hwrc-eng-som-dp3990vk,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
-,hwrc-eng-som-dp3990vk,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
-,hwrc-eng-som-dp3990vk,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-dp3990vk,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-dp3990vk,hwrc-trans-05,1,,0,0,,,,,,,1/10/2021
-,hwrc-eng-som-fp3390fx,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
-,hwrc-eng-som-fp3390fx,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
-,hwrc-eng-som-fp3390fx,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-fp3390fx,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-fp3390fx,hwrc-trans-05,1,,0,0,,,,,,,1/10/2021
-,hwrc-eng-som-ep3893fy,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
-,hwrc-eng-som-ep3893fy,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
-,hwrc-eng-som-ep3893fy,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-ep3893fy,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-ep3893fy,hwrc-trans-05,0,,,,,,,,,,1/10/2021
-,hwrc-eng-som-bp3391hx,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
-,hwrc-eng-som-bp3391hx,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
-,hwrc-eng-som-bp3391hx,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-bp3391hx,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-bp3391hx,hwrc-trans-05,0,,,,,,,,,,1/10/2021
-,hwrc-eng-som-fp3190fs,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
-,hwrc-eng-som-fp3190fs,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
-,hwrc-eng-som-fp3190fs,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-fp3190fs,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-fp3190fs,hwrc-trans-05,1,,0,0,,,,,,,1/10/2021
-,hwrc-eng-som-dp3593fn,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
-,hwrc-eng-som-dp3593fn,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
-,hwrc-eng-som-dp3593fn,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-dp3593fn,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-dp3593fn,hwrc-trans-05,1,,0,0,,,,,,,1/10/2021
-,hwrc-eng-som-hp3790fv,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
-,hwrc-eng-som-hp3790fv,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
-,hwrc-eng-som-hp3790fv,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-hp3790fv,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-hp3790fv,hwrc-trans-05,1,,0,0,,,,,,,1/10/2021
-,hwrc-eng-som-hp3190fm,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
-,hwrc-eng-som-hp3190fm,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
-,hwrc-eng-som-hp3190fm,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-hp3190fm,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-hp3190fm,hwrc-trans-05,1,,0,0,,,,,,,1/10/2021
-,hwrc-eng-som-cp3090fy,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
-,hwrc-eng-som-cp3090fy,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
-,hwrc-eng-som-cp3090fy,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-cp3090fy,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-cp3090fy,hwrc-trans-05,0,,,,,,,,,,1/10/2021
-,hwrc-eng-som-kb3605kr,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
-,hwrc-eng-som-kb3605kr,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
-,hwrc-eng-som-kb3605kr,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-kb3605kr,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-kb3605kr,hwrc-trans-05,0,,,,,,,,,,1/10/2021
-,hwrc-eng-som-eb3805gz,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
-,hwrc-eng-som-eb3805gz,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
-,hwrc-eng-som-eb3805gz,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-eb3805gz,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-eb3805gz,hwrc-trans-05,0,,,,,,,,,,1/10/2021
-,hwrc-eng-som-cp3390fl,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
-,hwrc-eng-som-cp3390fl,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
-,hwrc-eng-som-cp3390fl,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-cp3390fl,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-cp3390fl,hwrc-trans-05,0,,,,,,,,,,1/10/2021
-,hwrc-eng-som-dp3293ln,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
-,hwrc-eng-som-dp3293ln,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
-,hwrc-eng-som-dp3293ln,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-dp3293ln,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-dp3293ln,hwrc-trans-05,0,,,,,,,,,,1/10/2021
-,hwrc-eng-som-hp3690fn,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
-,hwrc-eng-som-hp3690fn,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
-,hwrc-eng-som-hp3690fn,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-hp3690fn,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-som-hp3690fn,hwrc-trans-05,0,,,,,,,,,,1/10/2021
-,hwrc-eng-dst-ap3897hl,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-dst-ap3897hl,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-dst-ap3897hl,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dst-ap3897hl,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-dst-ap3897hl,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-dst-kb3400cy,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-dst-kb3400cy,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-dst-kb3400cy,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dst-kb3400cy,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-dst-kb3400cy,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-dst-kb3308xk,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-dst-kb3308xk,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-dst-kb3308xk,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dst-kb3308xk,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-dst-kb3308xk,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-dst-kb3400xa,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-dst-kb3400xa,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-dst-kb3400xa,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dst-kb3400xa,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-dst-kb3400xa,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-dst-kb3400ku,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-dst-kb3400ku,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-dst-kb3400ku,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dst-kb3400ku,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-dst-kb3400ku,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-dst-kb3400fp,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-dst-kb3400fp,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-dst-kb3400fp,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dst-kb3400fp,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-dst-kb3400fp,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-dst-kb3309gw,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-dst-kb3309gw,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-dst-kb3309gw,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dst-kb3309gw,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-dst-kb3309gw,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-dst-xp3493fk,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-dst-xp3493fk,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-dst-xp3493fk,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dst-xp3493fk,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-dst-xp3493fk,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-dst-kb3309xh,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-dst-kb3309xh,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-dst-kb3309xh,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dst-kb3309xh,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-dst-kb3309xh,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-dst-kb3309fv,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-dst-kb3309fv,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-dst-kb3309fv,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
-,hwrc-eng-dst-kb3309fv,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-dst-kb3309fv,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-bpc-up3093fy,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-bpc-up3093fy,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-bpc-up3093fy,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
-,hwrc-eng-bpc-up3093fy,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-bpc-up3093fy,hwrc-trans-05,1,,0,0,,,,,,,4/10/2021
-,hwrc-eng-bpc-ap3997hu,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-bpc-ap3997hu,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-bpc-ap3997hu,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
-,hwrc-eng-bpc-ap3997hu,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-bpc-ap3997hu,hwrc-trans-05,1,,0,0,,,,,,,4/10/2021
-,hwrc-eng-bpc-kb3309ha,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-bpc-kb3309ha,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-bpc-kb3309ha,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
-,hwrc-eng-bpc-kb3309ha,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-bpc-kb3309ha,hwrc-trans-05,1,,0,0,,,,,,,4/10/2021
-,hwrc-eng-wil-kp3093ff,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-wil-kp3093ff,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-wil-kp3093ff,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
-,hwrc-eng-wil-kp3093ff,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
-,hwrc-eng-wil-kp3093ff,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-wil-fb3505mn,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-wil-fb3505mn,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-wil-fb3505mn,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
-,hwrc-eng-wil-fb3505mn,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
-,hwrc-eng-wil-fb3505mn,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-wil-bb3330af,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-wil-bb3330af,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-wil-bb3330af,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
-,hwrc-eng-wil-bb3330af,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
-,hwrc-eng-wil-bb3330af,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-wil-fb3506gh,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-wil-fb3506gh,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-wil-fb3506gh,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
-,hwrc-eng-wil-fb3506gh,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
-,hwrc-eng-wil-fb3506gh,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-wil-fb3505xb,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-wil-fb3505xb,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-wil-fb3505xb,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
-,hwrc-eng-wil-fb3505xb,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
-,hwrc-eng-wil-fb3505xb,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-wil-yp3199en,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-wil-yp3199en,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-wil-yp3199en,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
-,hwrc-eng-wil-yp3199en,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
-,hwrc-eng-wil-yp3199en,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-wil-fb3505uj,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-wil-fb3505uj,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-wil-fb3505uj,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
-,hwrc-eng-wil-fb3505uj,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
-,hwrc-eng-wil-fb3505uj,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-wil-fb3506cx,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-wil-fb3506cx,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-wil-fb3506cx,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
-,hwrc-eng-wil-fb3506cx,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
-,hwrc-eng-wil-fb3506cx,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-wil-fb3506ft,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-wil-fb3506ft,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-wil-fb3506ft,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
-,hwrc-eng-wil-fb3506ft,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
-,hwrc-eng-wil-fb3506ft,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-wil-fb3506hf,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
-,hwrc-eng-wil-fb3506hf,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
-,hwrc-eng-wil-fb3506hf,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
-,hwrc-eng-wil-fb3506hf,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
-,hwrc-eng-wil-fb3506hf,hwrc-trans-05,,,,,,,,,,,4/10/2021
-,hwrc-eng-ham-db3900mh,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3900mh,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3900mh,hwrc-trans-03,0,,,,,,,,,,11/10/2021
-,hwrc-eng-ham-db3900mh,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-ham-db3900mh,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3901kh,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,1.75 m,,,,,8/10/2021
-,hwrc-eng-ham-db3901kh,hwrc-trans-02,0,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3901kh,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3901kh,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3901kh,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3901sa,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3901sa,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3901sa,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3901sa,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3901sa,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3901ud,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3901ud,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3901ud,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3901ud,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3901ud,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3901tr,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3901tr,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3901tr,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3901tr,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3901tr,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3902gk,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3902gk,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3902gk,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3902gk,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3902gk,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3902xb,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3902xb,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3902xb,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3902xb,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3902xb,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3900ua,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3900ua,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3900ua,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3900ua,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3900ua,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3903ft,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3903ft,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3903ft,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3903ft,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3903ft,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3901cs,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3901cs,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3901cs,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3901cs,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3901cs,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3903hf,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3903hf,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3903hf,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3903hf,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3903hf,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3902uj,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3902uj,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3902uj,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3902uj,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3902uj,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3901gx,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3901gx,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3901gx,hwrc-trans-03,0,,,,,,,,,,11/10/2021
-,hwrc-eng-ham-db3901gx,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-ham-db3901gx,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3902mn,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3902mn,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3902mn,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3902mn,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3902mn,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3900kk,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3900kk,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3900kk,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3900kk,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3900kk,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3903cx,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3903cx,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3903cx,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3903cx,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3903cx,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3902ht,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3902ht,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3902ht,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3902ht,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3902ht,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3902sd,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3902sd,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3902sd,hwrc-trans-03,0,,,,,,,,,,11/10/2021
-,hwrc-eng-ham-db3902sd,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-ham-db3902sd,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3901fu,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3901fu,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3901fu,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3901fu,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3901fu,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3902lz,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3902lz,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3902lz,hwrc-trans-03,0,,,,,,,,,,11/10/2021
-,hwrc-eng-ham-db3902lz,hwrc-trans-04,0,,,,,,,,,,11/10/2021
-,hwrc-eng-ham-db3902lz,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3902cm,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3902cm,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3902cm,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3902cm,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3902cm,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3003ux,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3003ux,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3003ux,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3003ux,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3003ux,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3902ty,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3902ty,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3902ty,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3902ty,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3902ty,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3901mc,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3901mc,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3901mc,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3901mc,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3901mc,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3901hg,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3901hg,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3901hg,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3901hg,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3901hg,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-ham-db3900xy,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
-,hwrc-eng-ham-db3900xy,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
-,hwrc-eng-ham-db3900xy,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3900xy,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
-,hwrc-eng-ham-db3900xy,hwrc-trans-05,,,,,,,,,,,8/10/2021
-,hwrc-eng-wsx-kb3606gw,hwrc-trans-01,1,,0,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606gw,hwrc-trans-02,0,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606gw,hwrc-trans-03,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,hwrc-trans-01,15/10/2021
-,hwrc-eng-wsx-kb3606gw,hwrc-trans-04,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,hwrc-trans-01,15/10/2021
-,hwrc-eng-wsx-kb3606gw,hwrc-trans-05,0,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-dp3894hp,hwrc-trans-01,1,,0,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
-,hwrc-eng-wsx-dp3894hp,hwrc-trans-02,0,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-dp3894hp,hwrc-trans-03,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,hwrc-trans-01,15/10/2021
-,hwrc-eng-wsx-dp3894hp,hwrc-trans-04,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,hwrc-trans-01,15/10/2021
-,hwrc-eng-wsx-dp3894hp,hwrc-trans-05,1,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-kb3605uu,hwrc-trans-01,1,,0,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
-,hwrc-eng-wsx-kb3605uu,hwrc-trans-02,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,,15/10/2021
-,hwrc-eng-wsx-kb3605uu,hwrc-trans-03,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,"hwrc-trans-01, hwrc-trans-02",15/10/2021
-,hwrc-eng-wsx-kb3605uu,hwrc-trans-04,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,"hwrc-trans-01, hwrc-trans-02",15/10/2021
-,hwrc-eng-wsx-kb3605uu,hwrc-trans-05,0,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606fv,hwrc-trans-01,1,,0,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606fv,hwrc-trans-02,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,,15/10/2021
-,hwrc-eng-wsx-kb3606fv,hwrc-trans-03,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,"hwrc-trans-01, hwrc-trans-02",15/10/2021
-,hwrc-eng-wsx-kb3606fv,hwrc-trans-04,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,"hwrc-trans-01, hwrc-trans-02",15/10/2021
-,hwrc-eng-wsx-kb3606fv,hwrc-trans-05,0,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606ky,hwrc-trans-01,1,,0,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606ky,hwrc-trans-02,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,,15/10/2021
-,hwrc-eng-wsx-kb3606ky,hwrc-trans-03,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,"hwrc-trans-01, hwrc-trans-02",15/10/2021
-,hwrc-eng-wsx-kb3606ky,hwrc-trans-04,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,"hwrc-trans-01, hwrc-trans-02",15/10/2021
-,hwrc-eng-wsx-kb3606ky,hwrc-trans-05,0,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-kb3605xk,hwrc-trans-01,1,,0,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
-,hwrc-eng-wsx-kb3605xk,hwrc-trans-02,0,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-kb3605xk,hwrc-trans-03,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,hwrc-trans-01,15/10/2021
-,hwrc-eng-wsx-kb3605xk,hwrc-trans-04,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,hwrc-trans-01,15/10/2021
-,hwrc-eng-wsx-kb3605xk,hwrc-trans-05,0,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606lj,hwrc-trans-01,1,,0,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606lj,hwrc-trans-02,0,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606lj,hwrc-trans-03,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,hwrc-trans-01,15/10/2021
-,hwrc-eng-wsx-kb3606lj,hwrc-trans-04,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,hwrc-trans-01,15/10/2021
-,hwrc-eng-wsx-kb3606lj,hwrc-trans-05,0,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606mq,hwrc-trans-01,1,,0,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606mq,hwrc-trans-02,0,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606mq,hwrc-trans-03,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,hwrc-trans-01,15/10/2021
-,hwrc-eng-wsx-kb3606mq,hwrc-trans-04,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,hwrc-trans-01,15/10/2021
-,hwrc-eng-wsx-kb3606mq,hwrc-trans-05,1,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606su,hwrc-trans-01,1,,0,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606su,hwrc-trans-02,0,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606su,hwrc-trans-03,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,hwrc-trans-01,15/10/2021
-,hwrc-eng-wsx-kb3606su,hwrc-trans-04,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,hwrc-trans-01,15/10/2021
-,hwrc-eng-wsx-kb3606su,hwrc-trans-05,1,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606tx,hwrc-trans-01,1,,0,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606tx,hwrc-trans-02,0,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606tx,hwrc-trans-03,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,hwrc-trans-01,15/10/2021
-,hwrc-eng-wsx-kb3606tx,hwrc-trans-04,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,hwrc-trans-01,15/10/2021
-,hwrc-eng-wsx-kb3606tx,hwrc-trans-05,1,,,,,,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606ug,hwrc-trans-01,1,,0,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606ug,hwrc-trans-02,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,,,15/10/2021
-,hwrc-eng-wsx-kb3606ug,hwrc-trans-03,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,hwrc-trans-01,15/10/2021
-,hwrc-eng-wsx-kb3606ug,hwrc-trans-04,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,hwrc-trans-01,15/10/2021
-,hwrc-eng-wsx-kb3606ug,hwrc-trans-05,1,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-vp3893ez,hwrc-trans-01,1,,0,0,,2.0 m,,,,,15/10/2021
-,hwrc-eng-sry-vp3893ez,hwrc-trans-02,,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-vp3893ez,hwrc-trans-03,0,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-vp3893ez,hwrc-trans-04,0,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-vp3893ez,hwrc-trans-05,0,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-vp3293eb,hwrc-trans-01,1,,0,,,2.0 m,,,,,15/10/2021
-,hwrc-eng-sry-vp3293eb,hwrc-trans-02,1,,1,,,,,,,,15/10/2021
-,hwrc-eng-sry-vp3293eb,hwrc-trans-03,1,,1,,,,1.8 m,,,,15/10/2021
-,hwrc-eng-sry-vp3293eb,hwrc-trans-04,1,,1,,,,,,,,15/10/2021
-,hwrc-eng-sry-vp3293eb,hwrc-trans-05,,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-sp3690ep,hwrc-trans-01,1,,0,,,2.0 m,,,,,15/10/2021
-,hwrc-eng-sry-sp3690ep,hwrc-trans-02,0,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-sp3690ep,hwrc-trans-03,0,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-sp3690ep,hwrc-trans-04,0,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-sp3690ep,hwrc-trans-05,1,"Mo,Tu,We,Fr 16:00-17:00",,,,,,,,,15/10/2021
-,hwrc-eng-sry-zp3390eb,hwrc-trans-01,1,,0,,,2.0 m,,,,,15/10/2021
-,hwrc-eng-sry-zp3390eb,hwrc-trans-02,0,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-zp3390eb,hwrc-trans-03,0,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-zp3390eb,hwrc-trans-04,0,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-zp3390eb,hwrc-trans-05,0,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-zp3590eu,hwrc-trans-01,1,,0,,,2.0 m,,,,,15/10/2021
-,hwrc-eng-sry-zp3590eu,hwrc-trans-02,0,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-zp3590eu,hwrc-trans-03,0,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-zp3590eu,hwrc-trans-04,0,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-zp3590eu,hwrc-trans-05,0,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-pp3290ez,hwrc-trans-01,1,,0,,,2.0 m,,,,,15/10/2021
-,hwrc-eng-sry-pp3290ez,hwrc-trans-02,1,,1,,,,,,,,15/10/2021
-,hwrc-eng-sry-pp3290ez,hwrc-trans-03,1,,1,,,,1.8 m,,,,15/10/2021
-,hwrc-eng-sry-pp3290ez,hwrc-trans-04,1,,1,,,,,,,,15/10/2021
-,hwrc-eng-sry-pp3290ez,hwrc-trans-05,0,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-jp3494ew,hwrc-trans-01,1,,0,,,2.0 m,,,,,15/10/2021
-,hwrc-eng-sry-jp3494ew,hwrc-trans-02,1,,1,,,,,,,,15/10/2021
-,hwrc-eng-sry-jp3494ew,hwrc-trans-03,1,,1,,,,1.8 m,,,,15/10/2021
-,hwrc-eng-sry-jp3494ew,hwrc-trans-04,1,,1,,,,,,,,15/10/2021
-,hwrc-eng-sry-jp3494ew,hwrc-trans-05,0,,,,,,,,,,15/10/2021
-,hwrc-eng-sry-zp3090er,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
-,hwrc-eng-sry-zp3090er,hwrc-trans-02,0,,,,,,,,,,29/10/2021
-,hwrc-eng-sry-zp3090er,hwrc-trans-03,0,,,,,,,,,,29/10/2021
-,hwrc-eng-sry-zp3090er,hwrc-trans-04,0,,,,,,,,,,29/10/2021
-,hwrc-eng-sry-zp3090er,hwrc-trans-05,0,,,,,,,,,,29/10/2021
-,hwrc-eng-sry-tp3693eg,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
-,hwrc-eng-sry-tp3693eg,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
-,hwrc-eng-sry-tp3693eg,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
-,hwrc-eng-sry-tp3693eg,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
-,hwrc-eng-sry-tp3693eg,hwrc-trans-05,0,,,,,,,,,,29/10/2021
-,hwrc-eng-sry-qp3793ex,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
-,hwrc-eng-sry-qp3793ex,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
-,hwrc-eng-sry-qp3793ex,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
-,hwrc-eng-sry-qp3793ex,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
-,hwrc-eng-sry-qp3793ex,hwrc-trans-05,0,,,,,,,,,,29/10/2021
-,hwrc-eng-sry-fp3293et,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
-,hwrc-eng-sry-fp3293et,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
-,hwrc-eng-sry-fp3293et,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
-,hwrc-eng-sry-fp3293et,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
-,hwrc-eng-sry-fp3293et,hwrc-trans-05,0,,,,,,,,,,29/10/2021
-,hwrc-eng-sry-vp3997nk,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
-,hwrc-eng-sry-vp3997nk,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
-,hwrc-eng-sry-vp3997nk,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
-,hwrc-eng-sry-vp3997nk,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
-,hwrc-eng-sry-vp3997nk,hwrc-trans-05,0,,,,,,,,,,29/10/2021
-,hwrc-eng-sry-sp3490ed,,1,,0,,,2.0 m,,,,,29/10/2021
-,hwrc-eng-sry-sp3490ed,,0,,,,,,,,,,29/10/2021
-,hwrc-eng-sry-sp3490ed,,0,,,,,,,,,,29/10/2021
-,hwrc-eng-sry-sp3490ed,,0,,,,,,,,,,29/10/2021
-,hwrc-eng-sry-sp3490ed,,1,Th-Fr 16:00-17:00,,,,,,,,,29/10/2021
-,hwrc-eng-sry-zp3990ez,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
-,hwrc-eng-sry-zp3990ez,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
-,hwrc-eng-sry-zp3990ez,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
-,hwrc-eng-sry-zp3990ez,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
-,hwrc-eng-sry-zp3990ez,hwrc-trans-05,0,,,,,,,,,,29/10/2021
-,hwrc-eng-sry-rp3893et,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
-,hwrc-eng-sry-rp3893et,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
-,hwrc-eng-sry-rp3893et,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
-,hwrc-eng-sry-rp3893et,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
-,hwrc-eng-sry-rp3893et,hwrc-trans-05,1,,,,,,,,,,29/10/2021
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,hwrc-sct-abd-wmln0020214,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,24/09/2021
-,hwrc-sct-abd-wmln0020214,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
-,hwrc-sct-abd-wmln0020214,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0020214,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0020214,hwrc-trans-05,1,"Mo,Fr, Sa, Su 12:00-12:30",,,,,,,,,24/09/2021
-,hwrc-sct-abd-wmll1018935,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,24/09/2021
-,hwrc-sct-abd-wmll1018935,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
-,hwrc-sct-abd-wmll1018935,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
-,hwrc-sct-abd-wmll1018935,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
-,hwrc-sct-abd-wmll1018935,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-sct-abd-wmll1155721,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m ,,,,,24/09/2021
-,hwrc-sct-abd-wmll1155721,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
-,hwrc-sct-abd-wmll1155721,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
-,hwrc-sct-abd-wmll1155721,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
-,hwrc-sct-abd-wmll1155721,hwrc-trans-05,0,,,,,,,,,,24/09/2021
-,hwrc-sct-abd-wmll1155721,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,24/09/2021
-,hwrc-sct-abd-wmll1155721,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
-,hwrc-sct-abd-wmll1155721,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
-,hwrc-sct-abd-wmll1155721,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
-,hwrc-sct-abd-wmll1155721,hwrc-trans-05,1,Mo-Su 12:00-12:30,,,,,,,,,24/09/2021
-,hwrc-sct-abd-wmln0020025,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,24/09/2021
-,hwrc-sct-abd-wmln0020025,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
-,hwrc-sct-abd-wmln0020025,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0020025,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0020025,hwrc-trans-05,1,Mo-Su 12:00-12:30,,,,,,,,,24/09/2021
-,hwrc-sct-abd-wmln0020029,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,24/09/2021
-,hwrc-sct-abd-wmln0020029,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
-,hwrc-sct-abd-wmln0020029,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0020029,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0020029,hwrc-trans-05,1,"Tu, Sa 12:00-12:30",,,,,,,,,24/09/2021
-,hwrc-sct-abd-wmln0020027,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
-,hwrc-sct-abd-wmln0020027,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
-,hwrc-sct-abd-wmln0020027,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0020027,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0020027,hwrc-trans-05,0,,,,,,,,,,30/09/2021
-,hwrc-sct-abd-wmle0220219,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
-,hwrc-sct-abd-wmle0220219,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
-,hwrc-sct-abd-wmle0220219,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
-,hwrc-sct-abd-wmle0220219,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
-,hwrc-sct-abd-wmle0220219,hwrc-trans-05,1,Mo-Su 12:00-12:30,,,,,,,,,30/09/2021
-,hwrc-sct-abd-wmll1169623,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
-,hwrc-sct-abd-wmll1169623,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
-,hwrc-sct-abd-wmll1169623,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
-,hwrc-sct-abd-wmll1169623,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
-,hwrc-sct-abd-wmll1169623,hwrc-trans-05,0,,,,,,,,,,30/09/2021
-,hwrc-sct-abd-wmln0020034,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
-,hwrc-sct-abd-wmln0020034,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
-,hwrc-sct-abd-wmln0020034,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0020034,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0020034,hwrc-trans-05,0,,,,,,,,,,30/09/2021
-,hwrc-sct-abd-wmll1148211,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
-,hwrc-sct-abd-wmll1148211,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
-,hwrc-sct-abd-wmll1148211,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
-,hwrc-sct-abd-wmll1148211,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
-,hwrc-sct-abd-wmll1148211,hwrc-trans-05,0,,,,,,,,,,30/09/2021
-,hwrc-sct-abd-wmln0020038,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
-,hwrc-sct-abd-wmln0020038,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
-,hwrc-sct-abd-wmln0020038,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0020038,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0020038,hwrc-trans-05,1,"Tu, Sa 12:00-12:30",,,,,,,,,30/09/2021
-,hwrc-sct-abd-wmln0220298,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
-,hwrc-sct-abd-wmln0220298,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
-,hwrc-sct-abd-wmln0220298,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0220298,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0220298,hwrc-trans-05,0,,,,,,,,,,30/09/2021
-,hwrc-sct-abd-wmln0020035,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
-,hwrc-sct-abd-wmln0020035,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
-,hwrc-sct-abd-wmln0020035,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0020035,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0020035,hwrc-trans-05,1,Mo-Su 12:00-12:30,,,,,,,,,30/09/2021
-,hwrc-sct-abd-wmln0020212,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
-,hwrc-sct-abd-wmln0020212,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
-,hwrc-sct-abd-wmln0020212,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0020212,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
-,hwrc-sct-abd-wmln0020212,hwrc-trans-05,1,Mo-Su 12:00-12:30,,,,,,,,,30/09/2021
+open3r-trans-eng-gmca-gmcat0000001,hwrc-eng-gmca-gb3907hj,hwrc-trans-01,1,Mo-Sa 08:00-20:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000002,hwrc-eng-gmca-gb3907hj,hwrc-trans-02,1,Mo-Sa 07:00-17:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000003,hwrc-eng-gmca-gb3907hj,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000004,hwrc-eng-gmca-gb3907hj,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000005,hwrc-eng-gmca-gb3907hj,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000006,hwrc-eng-gmca-gb3907th,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000007,hwrc-eng-gmca-gb3907th,hwrc-trans-02,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000008,hwrc-eng-gmca-gb3907th,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000009,hwrc-eng-gmca-gb3907th,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000010,hwrc-eng-gmca-gb3907th,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000011,hwrc-eng-gmca-gb3907kb,hwrc-trans-01,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000012,hwrc-eng-gmca-gb3907kb,hwrc-trans-02,1,Mo-Fr 07:30-17:00; Sa 08:00-13:00; Su off; PH 10:00-17:00,0,0,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000013,hwrc-eng-gmca-gb3907kb,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000014,hwrc-eng-gmca-gb3907kb,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000015,hwrc-eng-gmca-gb3907kb,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000016,hwrc-eng-gmca-gb3907uf,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000017,hwrc-eng-gmca-gb3907uf,hwrc-trans-02,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000018,hwrc-eng-gmca-gb3907uf,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000019,hwrc-eng-gmca-gb3907uf,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000020,hwrc-eng-gmca-gb3907uf,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000021,hwrc-eng-gmca-hb3001hw,hwrc-trans-01,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000022,hwrc-eng-gmca-hb3001hw,hwrc-trans-02,1,Mo-Fr 07:00-18:00; Sa-Su 07:00-17:00; PH 07:00-18:00,0,0,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000023,hwrc-eng-gmca-hb3001hw,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000024,hwrc-eng-gmca-hb3001hw,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000025,hwrc-eng-gmca-hb3001hw,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000026,hwrc-eng-gmca-gb3907xn,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000027,hwrc-eng-gmca-gb3907xn,hwrc-trans-02,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000028,hwrc-eng-gmca-gb3907xn,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000029,hwrc-eng-gmca-gb3907xn,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000030,hwrc-eng-gmca-gb3907xn,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000031,hwrc-eng-gmca-hb3001gv,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000032,hwrc-eng-gmca-hb3001gv,hwrc-trans-02,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000033,hwrc-eng-gmca-hb3001gv,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000034,hwrc-eng-gmca-hb3001gv,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000035,hwrc-eng-gmca-hb3001gv,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000036,hwrc-eng-gmca-gb3907ls,hwrc-trans-01,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000037,hwrc-eng-gmca-gb3907ls,hwrc-trans-02,1,Mo-Fr 07:00-18:00; Sa-Su 07:00-17:00; PH 07:00-18:00,0,0,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000038,hwrc-eng-gmca-gb3907ls,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000039,hwrc-eng-gmca-gb3907ls,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000040,hwrc-eng-gmca-gb3907ls,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000041,hwrc-eng-gmca-gb3907ml,hwrc-trans-01,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000042,hwrc-eng-gmca-gb3907ml,hwrc-trans-02,1,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000043,hwrc-eng-gmca-gb3907ml,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000044,hwrc-eng-gmca-gb3907ml,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000045,hwrc-eng-gmca-gb3907ml,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000046,hwrc-eng-gmca-gb3908cr,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000047,hwrc-eng-gmca-gb3908cr,hwrc-trans-02,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000048,hwrc-eng-gmca-gb3908cr,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000049,hwrc-eng-gmca-gb3908cr,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000050,hwrc-eng-gmca-gb3908cr,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000051,hwrc-eng-gmca-gb3908fj,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000052,hwrc-eng-gmca-gb3908fj,hwrc-trans-02,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000053,hwrc-eng-gmca-gb3908fj,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000054,hwrc-eng-gmca-gb3908fj,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000055,hwrc-eng-gmca-gb3908fj,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000056,hwrc-eng-gmca-gb3908gq,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000057,hwrc-eng-gmca-gb3908gq,hwrc-trans-02,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000058,hwrc-eng-gmca-gb3908gq,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000059,hwrc-eng-gmca-gb3908gq,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000060,hwrc-eng-gmca-gb3908gq,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000061,hwrc-eng-gmca-gb3907cw,hwrc-trans-01,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000062,hwrc-eng-gmca-gb3907cw,hwrc-trans-02,1,Mo-Fr 07:00-17:00; Sa 07:00-13:00; Su off; PH 07:00-17:00,0,0,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000063,hwrc-eng-gmca-gb3907cw,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000064,hwrc-eng-gmca-gb3907cw,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000065,hwrc-eng-gmca-gb3907cw,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000066,hwrc-eng-gmca-gb3908hp,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000067,hwrc-eng-gmca-gb3908hp,hwrc-trans-02,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000068,hwrc-eng-gmca-gb3908hp,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000069,hwrc-eng-gmca-gb3908hp,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000070,hwrc-eng-gmca-gb3908hp,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000071,hwrc-eng-gmca-gb3907fd,hwrc-trans-01,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000072,hwrc-eng-gmca-gb3907fd,hwrc-trans-02,1,Mo-Fr 07:00-18:00; Sa-Su 07:00-17:00; PH 07:00-18:00,0,0,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000073,hwrc-eng-gmca-gb3907fd,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000074,hwrc-eng-gmca-gb3907fd,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000075,hwrc-eng-gmca-gb3907fd,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000076,hwrc-eng-gmca-gb3908kl,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000077,hwrc-eng-gmca-gb3908kl,hwrc-trans-02,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000078,hwrc-eng-gmca-gb3908kl,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000079,hwrc-eng-gmca-gb3908kl,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000080,hwrc-eng-gmca-gb3908kl,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000081,hwrc-eng-gmca-gb3907st,hwrc-trans-01,1,Mo-Su 08:00-20:00,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000082,hwrc-eng-gmca-gb3907st,hwrc-trans-02,1,Mo-Fr 07:00-17:00; Sa 07:00-13:00; Su off; PH 07:00-17:00,0,0,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000083,hwrc-eng-gmca-gb3907st,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000084,hwrc-eng-gmca-gb3907st,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000085,hwrc-eng-gmca-gb3907st,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000086,hwrc-eng-gmca-gb3908lm,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000087,hwrc-eng-gmca-gb3908lm,hwrc-trans-02,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000088,hwrc-eng-gmca-gb3908lm,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000089,hwrc-eng-gmca-gb3908lm,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000090,hwrc-eng-gmca-gb3908lm,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000091,hwrc-eng-gmca-gb3908mu,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000092,hwrc-eng-gmca-gb3908mu,hwrc-trans-02,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000093,hwrc-eng-gmca-gb3908mu,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000094,hwrc-eng-gmca-gb3908mu,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000095,hwrc-eng-gmca-gb3908mu,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000096,hwrc-eng-gmca-gb3908tc,hwrc-trans-01,1,,0,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000097,hwrc-eng-gmca-gb3908tc,hwrc-trans-02,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-gmca-gmcat0000098,hwrc-eng-gmca-gb3908tc,hwrc-trans-03,,,,,,1.8 m,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000099,hwrc-eng-gmca-gb3908tc,hwrc-trans-04,,,,,,,,,,,11/10/2021
+open3r-trans-eng-gmca-gmcat0000100,hwrc-eng-gmca-gb3908tc,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000101,hwrc-eng-dev-ep3396hr,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000102,hwrc-eng-dev-ep3396hr,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000103,hwrc-eng-dev-ep3396hr,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000104,hwrc-eng-dev-ep3396hr,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000105,hwrc-eng-dev-ep3396hr,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000106,hwrc-eng-dev-jp3391hn,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000107,hwrc-eng-dev-jp3391hn,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000108,hwrc-eng-dev-jp3391hn,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000109,hwrc-eng-dev-jp3391hn,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000110,hwrc-eng-dev-jp3391hn,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000111,hwrc-eng-dev-bp3097hc,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000112,hwrc-eng-dev-bp3097hc,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000113,hwrc-eng-dev-bp3097hc,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000114,hwrc-eng-dev-bp3097hc,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000115,hwrc-eng-dev-bp3097hc,hwrc-trans-05,1,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000116,hwrc-eng-dev-jp3691hd,hwrc-trans-01,1,,,0,https://www.eventbrite.co.uk/e/brunel-road-hwrc-van-booking-free-service-tickets-157587720113,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000117,hwrc-eng-dev-jp3691hd,hwrc-trans-02,1,,,1,https://www.eventbrite.co.uk/e/brunel-road-hwrc-van-booking-free-service-tickets-157587720113,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000118,hwrc-eng-dev-jp3691hd,hwrc-trans-03,1,,,1,https://www.eventbrite.co.uk/e/brunel-road-hwrc-van-booking-free-service-tickets-157587720113,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000119,hwrc-eng-dev-jp3691hd,hwrc-trans-04,1,,,1,https://www.eventbrite.co.uk/e/brunel-road-hwrc-van-booking-free-service-tickets-157587720113,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000120,hwrc-eng-dev-jp3691hd,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000121,hwrc-eng-dev-eb3738rg,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000122,hwrc-eng-dev-eb3738rg,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000123,hwrc-eng-dev-eb3738rg,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000124,hwrc-eng-dev-eb3738rg,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000125,hwrc-eng-dev-eb3738rg,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000126,hwrc-eng-dev-jb3107lz,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000127,hwrc-eng-dev-jb3107lz,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000128,hwrc-eng-dev-jb3107lz,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000129,hwrc-eng-dev-jb3107lz,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000130,hwrc-eng-dev-jb3107lz,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000131,hwrc-eng-dev-eb3739dr,hwrc-trans-01,1,,,0,https://www.eventbrite.co.uk/e/exton-road-hwrc-van-booking-free-service-tickets-157585631867,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000132,hwrc-eng-dev-eb3739dr,hwrc-trans-02,1,,,1,https://www.eventbrite.co.uk/e/exton-road-hwrc-van-booking-free-service-tickets-157585631867,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000133,hwrc-eng-dev-eb3739dr,hwrc-trans-03,1,,,1,https://www.eventbrite.co.uk/e/exton-road-hwrc-van-booking-free-service-tickets-157585631867,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000134,hwrc-eng-dev-eb3739dr,hwrc-trans-04,1,,,1,https://www.eventbrite.co.uk/e/exton-road-hwrc-van-booking-free-service-tickets-157585631867,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000135,hwrc-eng-dev-eb3739dr,hwrc-trans-05,1,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000136,hwrc-eng-dev-cb3309me,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000137,hwrc-eng-dev-cb3309me,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000138,hwrc-eng-dev-cb3309me,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000139,hwrc-eng-dev-cb3309me,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000140,hwrc-eng-dev-cb3309me,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000141,hwrc-eng-dev-hp3491hn,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000142,hwrc-eng-dev-hp3491hn,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000143,hwrc-eng-dev-hp3491hn,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000144,hwrc-eng-dev-hp3491hn,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000145,hwrc-eng-dev-hp3491hn,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000146,hwrc-eng-dev-pp3591hp,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000147,hwrc-eng-dev-pp3591hp,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000148,hwrc-eng-dev-pp3591hp,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000149,hwrc-eng-dev-pp3591hp,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000150,hwrc-eng-dev-pp3591hp,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000151,hwrc-eng-dev-hp3991hp,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000152,hwrc-eng-dev-hp3991hp,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000153,hwrc-eng-dev-hp3991hp,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000154,hwrc-eng-dev-hp3991hp,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-dev-devt0000155,hwrc-eng-dev-hp3991hp,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000156,hwrc-eng-dev-jp3991hs,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000157,hwrc-eng-dev-jp3991hs,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000158,hwrc-eng-dev-jp3991hs,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000159,hwrc-eng-dev-jp3991hs,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000160,hwrc-eng-dev-jp3991hs,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000161,hwrc-eng-dev-ap3796ed,hwrc-trans-01,1,,,,https://www.eventbrite.co.uk/e/pinbrook-road-hwrc-van-booking-free-service-tickets-157588004965,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000162,hwrc-eng-dev-ap3796ed,hwrc-trans-02,1,,,1,https://www.eventbrite.co.uk/e/pinbrook-road-hwrc-van-booking-free-service-tickets-157588004965,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000163,hwrc-eng-dev-ap3796ed,hwrc-trans-03,1,,,1,https://www.eventbrite.co.uk/e/pinbrook-road-hwrc-van-booking-free-service-tickets-157588004965,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000164,hwrc-eng-dev-ap3796ed,hwrc-trans-04,1,,,1,https://www.eventbrite.co.uk/e/pinbrook-road-hwrc-van-booking-free-service-tickets-157588004965,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000165,hwrc-eng-dev-ap3796ed,hwrc-trans-05,1,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000166,hwrc-eng-dev-eb3739rt,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000167,hwrc-eng-dev-eb3739rt,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000168,hwrc-eng-dev-eb3739rt,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000169,hwrc-eng-dev-eb3739rt,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000170,hwrc-eng-dev-eb3739rt,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000171,hwrc-eng-dev-eb3739av,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000172,hwrc-eng-dev-eb3739av,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000173,hwrc-eng-dev-eb3739av,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000174,hwrc-eng-dev-eb3739av,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000175,hwrc-eng-dev-eb3739av,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000176,hwrc-eng-dev-kb3136ry,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000177,hwrc-eng-dev-kb3136ry,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000178,hwrc-eng-dev-kb3136ry,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000179,hwrc-eng-dev-kb3136ry,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000180,hwrc-eng-dev-kb3136ry,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000181,hwrc-eng-dev-ep3991hy,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000182,hwrc-eng-dev-ep3991hy,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000183,hwrc-eng-dev-ep3991hy,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000184,hwrc-eng-dev-ep3991hy,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000185,hwrc-eng-dev-ep3991hy,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000186,hwrc-eng-dev-jp3491hv,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000187,hwrc-eng-dev-jp3491hv,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000188,hwrc-eng-dev-jp3491hv,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000189,hwrc-eng-dev-jp3491hv,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000190,hwrc-eng-dev-jp3491hv,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000191,hwrc-eng-dev-jp3091hk,hwrc-trans-01,1,,,0,,2.0 m,,,,,24/09/2021
+open3r-trans-eng-dev-devt0000192,hwrc-eng-dev-jp3091hk,hwrc-trans-02,1,,,0,,3.0 m,6.0 m,,3.5 t,,24/09/2021
+open3r-trans-eng-dev-devt0000193,hwrc-eng-dev-jp3091hk,hwrc-trans-03,1,,,,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000194,hwrc-eng-dev-jp3091hk,hwrc-trans-04,1,,,,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dev-devt0000195,hwrc-eng-dev-jp3091hk,hwrc-trans-05,1,,,,,,,,,,24/09/2021
+open3r-trans-eng-som-somt0000195,hwrc-eng-som-fp3990fa,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
+open3r-trans-eng-som-somt0000196,hwrc-eng-som-fp3990fa,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
+open3r-trans-eng-som-somt0000197,hwrc-eng-som-fp3990fa,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000198,hwrc-eng-som-fp3990fa,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000199,hwrc-eng-som-fp3990fa,hwrc-trans-05,0,,,,,,,,,,1/10/2021
+open3r-trans-eng-som-somt0000200,hwrc-eng-som-qp3193fr,hwrc-trans-01,1,,0,0,,2.0 m,3.0 m,,,,1/10/2021
+open3r-trans-eng-som-somt0000201,hwrc-eng-som-qp3193fr,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
+open3r-trans-eng-som-somt0000202,hwrc-eng-som-qp3193fr,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000203,hwrc-eng-som-qp3193fr,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000204,hwrc-eng-som-qp3193fr,hwrc-trans-05,0,,,,,,,,,,1/10/2021
+open3r-trans-eng-som-somt0000205,hwrc-eng-som-dp3990vk,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
+open3r-trans-eng-som-somt0000206,hwrc-eng-som-dp3990vk,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
+open3r-trans-eng-som-somt0000207,hwrc-eng-som-dp3990vk,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000208,hwrc-eng-som-dp3990vk,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000209,hwrc-eng-som-dp3990vk,hwrc-trans-05,1,,0,0,,,,,,,1/10/2021
+open3r-trans-eng-som-somt0000210,hwrc-eng-som-fp3390fx,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
+open3r-trans-eng-som-somt0000211,hwrc-eng-som-fp3390fx,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
+open3r-trans-eng-som-somt0000212,hwrc-eng-som-fp3390fx,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000213,hwrc-eng-som-fp3390fx,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000214,hwrc-eng-som-fp3390fx,hwrc-trans-05,1,,0,0,,,,,,,1/10/2021
+open3r-trans-eng-som-somt0000215,hwrc-eng-som-ep3893fy,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
+open3r-trans-eng-som-somt0000216,hwrc-eng-som-ep3893fy,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
+open3r-trans-eng-som-somt0000217,hwrc-eng-som-ep3893fy,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000218,hwrc-eng-som-ep3893fy,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000219,hwrc-eng-som-ep3893fy,hwrc-trans-05,0,,,,,,,,,,1/10/2021
+open3r-trans-eng-som-somt0000220,hwrc-eng-som-bp3391hx,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
+open3r-trans-eng-som-somt0000221,hwrc-eng-som-bp3391hx,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
+open3r-trans-eng-som-somt0000222,hwrc-eng-som-bp3391hx,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000223,hwrc-eng-som-bp3391hx,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000224,hwrc-eng-som-bp3391hx,hwrc-trans-05,0,,,,,,,,,,1/10/2021
+open3r-trans-eng-som-somt0000225,hwrc-eng-som-fp3190fs,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
+open3r-trans-eng-som-somt0000226,hwrc-eng-som-fp3190fs,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
+open3r-trans-eng-som-somt0000227,hwrc-eng-som-fp3190fs,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000228,hwrc-eng-som-fp3190fs,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000229,hwrc-eng-som-fp3190fs,hwrc-trans-05,1,,0,0,,,,,,,1/10/2021
+open3r-trans-eng-som-somt0000230,hwrc-eng-som-dp3593fn,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
+open3r-trans-eng-som-somt0000231,hwrc-eng-som-dp3593fn,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
+open3r-trans-eng-som-somt0000232,hwrc-eng-som-dp3593fn,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000233,hwrc-eng-som-dp3593fn,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000234,hwrc-eng-som-dp3593fn,hwrc-trans-05,1,,0,0,,,,,,,1/10/2021
+open3r-trans-eng-som-somt0000235,hwrc-eng-som-hp3790fv,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
+open3r-trans-eng-som-somt0000236,hwrc-eng-som-hp3790fv,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
+open3r-trans-eng-som-somt0000237,hwrc-eng-som-hp3790fv,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000238,hwrc-eng-som-hp3790fv,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000239,hwrc-eng-som-hp3790fv,hwrc-trans-05,1,,0,0,,,,,,,1/10/2021
+open3r-trans-eng-som-somt0000240,hwrc-eng-som-hp3190fm,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
+open3r-trans-eng-som-somt0000241,hwrc-eng-som-hp3190fm,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
+open3r-trans-eng-som-somt0000242,hwrc-eng-som-hp3190fm,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000243,hwrc-eng-som-hp3190fm,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000244,hwrc-eng-som-hp3190fm,hwrc-trans-05,1,,0,0,,,,,,,1/10/2021
+open3r-trans-eng-som-somt0000245,hwrc-eng-som-cp3090fy,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
+open3r-trans-eng-som-somt0000246,hwrc-eng-som-cp3090fy,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
+open3r-trans-eng-som-somt0000247,hwrc-eng-som-cp3090fy,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000248,hwrc-eng-som-cp3090fy,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000249,hwrc-eng-som-cp3090fy,hwrc-trans-05,0,,,,,,,,,,1/10/2021
+open3r-trans-eng-som-somt0000250,hwrc-eng-som-kb3605kr,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
+open3r-trans-eng-som-somt0000251,hwrc-eng-som-kb3605kr,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
+open3r-trans-eng-som-somt0000252,hwrc-eng-som-kb3605kr,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000253,hwrc-eng-som-kb3605kr,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000254,hwrc-eng-som-kb3605kr,hwrc-trans-05,0,,,,,,,,,,1/10/2021
+open3r-trans-eng-som-somt0000255,hwrc-eng-som-eb3805gz,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
+open3r-trans-eng-som-somt0000256,hwrc-eng-som-eb3805gz,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
+open3r-trans-eng-som-somt0000257,hwrc-eng-som-eb3805gz,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000258,hwrc-eng-som-eb3805gz,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000259,hwrc-eng-som-eb3805gz,hwrc-trans-05,0,,,,,,,,,,1/10/2021
+open3r-trans-eng-som-somt0000260,hwrc-eng-som-cp3390fl,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
+open3r-trans-eng-som-somt0000261,hwrc-eng-som-cp3390fl,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
+open3r-trans-eng-som-somt0000262,hwrc-eng-som-cp3390fl,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000263,hwrc-eng-som-cp3390fl,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000264,hwrc-eng-som-cp3390fl,hwrc-trans-05,0,,,,,,,,,,1/10/2021
+open3r-trans-eng-som-somt0000265,hwrc-eng-som-dp3293ln,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
+open3r-trans-eng-som-somt0000266,hwrc-eng-som-dp3293ln,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
+open3r-trans-eng-som-somt0000267,hwrc-eng-som-dp3293ln,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000268,hwrc-eng-som-dp3293ln,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000269,hwrc-eng-som-dp3293ln,hwrc-trans-05,0,,,,,,,,,,1/10/2021
+open3r-trans-eng-som-somt0000270,hwrc-eng-som-hp3690fn,hwrc-trans-01,1,,0,0,,2.0 m,,,,,1/10/2021
+open3r-trans-eng-som-somt0000271,hwrc-eng-som-hp3690fn,hwrc-trans-02,1,,1,0,,,,,3.5 t,,1/10/2021
+open3r-trans-eng-som-somt0000272,hwrc-eng-som-hp3690fn,hwrc-trans-03,1,,1,0,,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000273,hwrc-eng-som-hp3690fn,hwrc-trans-04,1,,1,0,,,3.0 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-som-somt0000274,hwrc-eng-som-hp3690fn,hwrc-trans-05,0,,,,,,,,,,1/10/2021
+open3r-trans-eng-dst-dstt0000275,hwrc-eng-dst-ap3897hl,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000276,hwrc-eng-dst-ap3897hl,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-dst-dstt0000277,hwrc-eng-dst-ap3897hl,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dst-dstt0000278,hwrc-eng-dst-ap3897hl,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-dst-dstt0000279,hwrc-eng-dst-ap3897hl,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000280,hwrc-eng-dst-kb3400cy,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000281,hwrc-eng-dst-kb3400cy,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-dst-dstt0000282,hwrc-eng-dst-kb3400cy,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dst-dstt0000283,hwrc-eng-dst-kb3400cy,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-dst-dstt0000284,hwrc-eng-dst-kb3400cy,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000285,hwrc-eng-dst-kb3308xk,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000286,hwrc-eng-dst-kb3308xk,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-dst-dstt0000287,hwrc-eng-dst-kb3308xk,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dst-dstt0000288,hwrc-eng-dst-kb3308xk,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-dst-dstt0000289,hwrc-eng-dst-kb3308xk,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000290,hwrc-eng-dst-kb3400xa,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000291,hwrc-eng-dst-kb3400xa,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-dst-dstt0000292,hwrc-eng-dst-kb3400xa,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dst-dstt0000293,hwrc-eng-dst-kb3400xa,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-dst-dstt0000294,hwrc-eng-dst-kb3400xa,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000295,hwrc-eng-dst-kb3400ku,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000296,hwrc-eng-dst-kb3400ku,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-dst-dstt0000297,hwrc-eng-dst-kb3400ku,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dst-dstt0000298,hwrc-eng-dst-kb3400ku,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-dst-dstt0000299,hwrc-eng-dst-kb3400ku,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000300,hwrc-eng-dst-kb3400fp,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000301,hwrc-eng-dst-kb3400fp,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-dst-dstt0000302,hwrc-eng-dst-kb3400fp,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dst-dstt0000303,hwrc-eng-dst-kb3400fp,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-dst-dstt0000304,hwrc-eng-dst-kb3400fp,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000305,hwrc-eng-dst-kb3309gw,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000306,hwrc-eng-dst-kb3309gw,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-dst-dstt0000307,hwrc-eng-dst-kb3309gw,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dst-dstt0000308,hwrc-eng-dst-kb3309gw,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-dst-dstt0000309,hwrc-eng-dst-kb3309gw,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000310,hwrc-eng-dst-xp3493fk,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000311,hwrc-eng-dst-xp3493fk,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-dst-dstt0000312,hwrc-eng-dst-xp3493fk,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dst-dstt0000313,hwrc-eng-dst-xp3493fk,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-dst-dstt0000314,hwrc-eng-dst-xp3493fk,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000315,hwrc-eng-dst-kb3309xh,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000316,hwrc-eng-dst-kb3309xh,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-dst-dstt0000317,hwrc-eng-dst-kb3309xh,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dst-dstt0000318,hwrc-eng-dst-kb3309xh,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-dst-dstt0000319,hwrc-eng-dst-kb3309xh,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000320,hwrc-eng-dst-kb3309fv,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-dst-dstt0000321,hwrc-eng-dst-kb3309fv,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-dst-dstt0000322,hwrc-eng-dst-kb3309fv,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-dst-dstt0000323,hwrc-eng-dst-kb3309fv,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-dst-dstt0000324,hwrc-eng-dst-kb3309fv,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-bpc-bpct0000325,hwrc-eng-bpc-up3093fy,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-bpc-bpct0000326,hwrc-eng-bpc-up3093fy,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-bpc-bpct0000327,hwrc-eng-bpc-up3093fy,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-bpc-bpct0000328,hwrc-eng-bpc-up3093fy,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-bpc-bpct0000329,hwrc-eng-bpc-up3093fy,hwrc-trans-05,1,,0,0,,,,,,,4/10/2021
+open3r-trans-eng-bpc-bpct0000330,hwrc-eng-bpc-ap3997hu,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-bpc-bpct0000331,hwrc-eng-bpc-ap3997hu,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-bpc-bpct0000332,hwrc-eng-bpc-ap3997hu,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-bpc-bpct0000333,hwrc-eng-bpc-ap3997hu,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-bpc-bpct0000334,hwrc-eng-bpc-ap3997hu,hwrc-trans-05,1,,0,0,,,,,,,4/10/2021
+open3r-trans-eng-bpc-bpct0000335,hwrc-eng-bpc-kb3309ha,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-bpc-bpct0000336,hwrc-eng-bpc-kb3309ha,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-bpc-bpct0000337,hwrc-eng-bpc-kb3309ha,hwrc-trans-03,1,,0,0,,,1.8 m,1.2 m,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-bpc-bpct0000338,hwrc-eng-bpc-kb3309ha,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-bpc-bpct0000339,hwrc-eng-bpc-kb3309ha,hwrc-trans-05,1,,0,0,,,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000340,hwrc-eng-wil-kp3093ff,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000341,hwrc-eng-wil-kp3093ff,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-wil-wilt0000342,hwrc-eng-wil-kp3093ff,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000343,hwrc-eng-wil-kp3093ff,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000344,hwrc-eng-wil-kp3093ff,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000345,hwrc-eng-wil-fb3505mn,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000346,hwrc-eng-wil-fb3505mn,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-wil-wilt0000347,hwrc-eng-wil-fb3505mn,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000348,hwrc-eng-wil-fb3505mn,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000349,hwrc-eng-wil-fb3505mn,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000350,hwrc-eng-wil-bb3330af,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000351,hwrc-eng-wil-bb3330af,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-wil-wilt0000352,hwrc-eng-wil-bb3330af,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000353,hwrc-eng-wil-bb3330af,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000354,hwrc-eng-wil-bb3330af,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000355,hwrc-eng-wil-fb3506gh,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000356,hwrc-eng-wil-fb3506gh,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-wil-wilt0000357,hwrc-eng-wil-fb3506gh,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000358,hwrc-eng-wil-fb3506gh,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000359,hwrc-eng-wil-fb3506gh,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000360,hwrc-eng-wil-fb3505xb,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000361,hwrc-eng-wil-fb3505xb,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-wil-wilt0000362,hwrc-eng-wil-fb3505xb,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000363,hwrc-eng-wil-fb3505xb,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000364,hwrc-eng-wil-fb3505xb,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000365,hwrc-eng-wil-yp3199en,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000366,hwrc-eng-wil-yp3199en,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-wil-wilt0000367,hwrc-eng-wil-yp3199en,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000368,hwrc-eng-wil-yp3199en,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000369,hwrc-eng-wil-yp3199en,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000370,hwrc-eng-wil-fb3505uj,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000371,hwrc-eng-wil-fb3505uj,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-wil-wilt0000372,hwrc-eng-wil-fb3505uj,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000373,hwrc-eng-wil-fb3505uj,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000374,hwrc-eng-wil-fb3505uj,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000375,hwrc-eng-wil-fb3506cx,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000376,hwrc-eng-wil-fb3506cx,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-wil-wilt0000377,hwrc-eng-wil-fb3506cx,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000378,hwrc-eng-wil-fb3506cx,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000379,hwrc-eng-wil-fb3506cx,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000380,hwrc-eng-wil-fb3506ft,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000381,hwrc-eng-wil-fb3506ft,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-wil-wilt0000382,hwrc-eng-wil-fb3506ft,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000383,hwrc-eng-wil-fb3506ft,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000384,hwrc-eng-wil-fb3506ft,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000385,hwrc-eng-wil-fb3506hf,hwrc-trans-01,1,,0,0,,2.0 m,,,,,4/10/2021
+open3r-trans-eng-wil-wilt0000386,hwrc-eng-wil-fb3506hf,hwrc-trans-02,1,,1,0,,,,,3.5 t,,4/10/2021
+open3r-trans-eng-wil-wilt0000387,hwrc-eng-wil-fb3506hf,hwrc-trans-03,1,,0,0,,,1.8 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000388,hwrc-eng-wil-fb3506hf,hwrc-trans-04,1,,1,0,,,3.0 m,,,,11/10/2021
+open3r-trans-eng-wil-wilt0000389,hwrc-eng-wil-fb3506hf,hwrc-trans-05,,,,,,,,,,,4/10/2021
+open3r-trans-eng-ham-hamt0000390,hwrc-eng-ham-db3900mh,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000391,hwrc-eng-ham-db3900mh,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000392,hwrc-eng-ham-db3900mh,hwrc-trans-03,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-ham-hamt0000393,hwrc-eng-ham-db3900mh,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-ham-hamt0000394,hwrc-eng-ham-db3900mh,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000395,hwrc-eng-ham-db3901kh,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,1.75 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000396,hwrc-eng-ham-db3901kh,hwrc-trans-02,0,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000397,hwrc-eng-ham-db3901kh,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000398,hwrc-eng-ham-db3901kh,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000399,hwrc-eng-ham-db3901kh,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000400,hwrc-eng-ham-db3901sa,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000401,hwrc-eng-ham-db3901sa,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000402,hwrc-eng-ham-db3901sa,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000403,hwrc-eng-ham-db3901sa,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000404,hwrc-eng-ham-db3901sa,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000405,hwrc-eng-ham-db3901ud,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000406,hwrc-eng-ham-db3901ud,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000407,hwrc-eng-ham-db3901ud,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000408,hwrc-eng-ham-db3901ud,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000409,hwrc-eng-ham-db3901ud,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000410,hwrc-eng-ham-db3901tr,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000411,hwrc-eng-ham-db3901tr,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000412,hwrc-eng-ham-db3901tr,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000413,hwrc-eng-ham-db3901tr,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000414,hwrc-eng-ham-db3901tr,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000415,hwrc-eng-ham-db3902gk,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000416,hwrc-eng-ham-db3902gk,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000417,hwrc-eng-ham-db3902gk,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000418,hwrc-eng-ham-db3902gk,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000419,hwrc-eng-ham-db3902gk,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000420,hwrc-eng-ham-db3902xb,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000421,hwrc-eng-ham-db3902xb,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000422,hwrc-eng-ham-db3902xb,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000423,hwrc-eng-ham-db3902xb,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000424,hwrc-eng-ham-db3902xb,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000425,hwrc-eng-ham-db3900ua,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000426,hwrc-eng-ham-db3900ua,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000427,hwrc-eng-ham-db3900ua,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000428,hwrc-eng-ham-db3900ua,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000429,hwrc-eng-ham-db3900ua,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000430,hwrc-eng-ham-db3903ft,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000431,hwrc-eng-ham-db3903ft,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000432,hwrc-eng-ham-db3903ft,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000433,hwrc-eng-ham-db3903ft,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000434,hwrc-eng-ham-db3903ft,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000435,hwrc-eng-ham-db3901cs,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000436,hwrc-eng-ham-db3901cs,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000437,hwrc-eng-ham-db3901cs,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000438,hwrc-eng-ham-db3901cs,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000439,hwrc-eng-ham-db3901cs,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000440,hwrc-eng-ham-db3903hf,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000441,hwrc-eng-ham-db3903hf,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000442,hwrc-eng-ham-db3903hf,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000443,hwrc-eng-ham-db3903hf,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000444,hwrc-eng-ham-db3903hf,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000445,hwrc-eng-ham-db3902uj,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000446,hwrc-eng-ham-db3902uj,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000447,hwrc-eng-ham-db3902uj,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000448,hwrc-eng-ham-db3902uj,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000449,hwrc-eng-ham-db3902uj,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000450,hwrc-eng-ham-db3901gx,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000451,hwrc-eng-ham-db3901gx,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000452,hwrc-eng-ham-db3901gx,hwrc-trans-03,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-ham-hamt0000453,hwrc-eng-ham-db3901gx,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-ham-hamt0000454,hwrc-eng-ham-db3901gx,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000455,hwrc-eng-ham-db3902mn,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000456,hwrc-eng-ham-db3902mn,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000457,hwrc-eng-ham-db3902mn,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000458,hwrc-eng-ham-db3902mn,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000459,hwrc-eng-ham-db3902mn,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000460,hwrc-eng-ham-db3900kk,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000461,hwrc-eng-ham-db3900kk,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000462,hwrc-eng-ham-db3900kk,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000463,hwrc-eng-ham-db3900kk,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000464,hwrc-eng-ham-db3900kk,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000465,hwrc-eng-ham-db3903cx,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000466,hwrc-eng-ham-db3903cx,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000467,hwrc-eng-ham-db3903cx,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000468,hwrc-eng-ham-db3903cx,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000469,hwrc-eng-ham-db3903cx,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000470,hwrc-eng-ham-db3902ht,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000471,hwrc-eng-ham-db3902ht,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000472,hwrc-eng-ham-db3902ht,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000473,hwrc-eng-ham-db3902ht,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000474,hwrc-eng-ham-db3902ht,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000475,hwrc-eng-ham-db3902sd,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000476,hwrc-eng-ham-db3902sd,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000477,hwrc-eng-ham-db3902sd,hwrc-trans-03,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-ham-hamt0000478,hwrc-eng-ham-db3902sd,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-ham-hamt0000479,hwrc-eng-ham-db3902sd,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000480,hwrc-eng-ham-db3901fu,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000481,hwrc-eng-ham-db3901fu,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000482,hwrc-eng-ham-db3901fu,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000483,hwrc-eng-ham-db3901fu,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000484,hwrc-eng-ham-db3901fu,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000485,hwrc-eng-ham-db3902lz,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000486,hwrc-eng-ham-db3902lz,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000487,hwrc-eng-ham-db3902lz,hwrc-trans-03,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-ham-hamt0000488,hwrc-eng-ham-db3902lz,hwrc-trans-04,0,,,,,,,,,,11/10/2021
+open3r-trans-eng-ham-hamt0000489,hwrc-eng-ham-db3902lz,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000490,hwrc-eng-ham-db3902cm,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000491,hwrc-eng-ham-db3902cm,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000492,hwrc-eng-ham-db3902cm,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000493,hwrc-eng-ham-db3902cm,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000494,hwrc-eng-ham-db3902cm,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000495,hwrc-eng-ham-db3003ux,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000496,hwrc-eng-ham-db3003ux,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000497,hwrc-eng-ham-db3003ux,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000498,hwrc-eng-ham-db3003ux,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000499,hwrc-eng-ham-db3003ux,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000500,hwrc-eng-ham-db3902ty,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000501,hwrc-eng-ham-db3902ty,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000502,hwrc-eng-ham-db3902ty,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000503,hwrc-eng-ham-db3902ty,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000504,hwrc-eng-ham-db3902ty,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000505,hwrc-eng-ham-db3901mc,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000506,hwrc-eng-ham-db3901mc,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000507,hwrc-eng-ham-db3901mc,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000508,hwrc-eng-ham-db3901mc,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000509,hwrc-eng-ham-db3901mc,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000510,hwrc-eng-ham-db3901hg,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000511,hwrc-eng-ham-db3901hg,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000512,hwrc-eng-ham-db3901hg,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000513,hwrc-eng-ham-db3901hg,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000514,hwrc-eng-ham-db3901hg,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000515,hwrc-eng-ham-db3900xy,hwrc-trans-01,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,2.0 m,,,,,8/10/2021
+open3r-trans-eng-ham-hamt0000516,hwrc-eng-ham-db3900xy,hwrc-trans-02,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,,,3.5 t,,8/10/2021
+open3r-trans-eng-ham-hamt0000517,hwrc-eng-ham-db3900xy,hwrc-trans-03,1,,0,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,1.8 m,,,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000518,hwrc-eng-ham-db3900xy,hwrc-trans-04,1,,1,1,https://www.hants.gov.uk/wasteandrecycling/recyclingcentres/book-appointment,,3.0 m,,3.5 t,hwrc-trans-01,11/10/2021
+open3r-trans-eng-ham-hamt0000519,hwrc-eng-ham-db3900xy,hwrc-trans-05,,,,,,,,,,,8/10/2021
+open3r-trans-eng-wsx-wsxt0000520,hwrc-eng-wsx-kb3606gw,hwrc-trans-01,1,,0,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000521,hwrc-eng-wsx-kb3606gw,hwrc-trans-02,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000522,hwrc-eng-wsx-kb3606gw,hwrc-trans-03,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,hwrc-trans-01,15/10/2021
+open3r-trans-eng-wsx-wsxt0000523,hwrc-eng-wsx-kb3606gw,hwrc-trans-04,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,hwrc-trans-01,15/10/2021
+open3r-trans-eng-wsx-wsxt0000524,hwrc-eng-wsx-kb3606gw,hwrc-trans-05,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000525,hwrc-eng-wsx-dp3894hp,hwrc-trans-01,1,,0,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000526,hwrc-eng-wsx-dp3894hp,hwrc-trans-02,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000527,hwrc-eng-wsx-dp3894hp,hwrc-trans-03,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,hwrc-trans-01,15/10/2021
+open3r-trans-eng-wsx-wsxt0000528,hwrc-eng-wsx-dp3894hp,hwrc-trans-04,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,hwrc-trans-01,15/10/2021
+open3r-trans-eng-wsx-wsxt0000529,hwrc-eng-wsx-dp3894hp,hwrc-trans-05,1,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000530,hwrc-eng-wsx-kb3605uu,hwrc-trans-01,1,,0,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000531,hwrc-eng-wsx-kb3605uu,hwrc-trans-02,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000532,hwrc-eng-wsx-kb3605uu,hwrc-trans-03,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,"hwrc-trans-01, hwrc-trans-02",15/10/2021
+open3r-trans-eng-wsx-wsxt0000533,hwrc-eng-wsx-kb3605uu,hwrc-trans-04,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,"hwrc-trans-01, hwrc-trans-02",15/10/2021
+open3r-trans-eng-wsx-wsxt0000534,hwrc-eng-wsx-kb3605uu,hwrc-trans-05,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000535,hwrc-eng-wsx-kb3606fv,hwrc-trans-01,1,,0,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000536,hwrc-eng-wsx-kb3606fv,hwrc-trans-02,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000537,hwrc-eng-wsx-kb3606fv,hwrc-trans-03,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,"hwrc-trans-01, hwrc-trans-02",15/10/2021
+open3r-trans-eng-wsx-wsxt0000538,hwrc-eng-wsx-kb3606fv,hwrc-trans-04,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,"hwrc-trans-01, hwrc-trans-02",15/10/2021
+open3r-trans-eng-wsx-wsxt0000539,hwrc-eng-wsx-kb3606fv,hwrc-trans-05,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000540,hwrc-eng-wsx-kb3606ky,hwrc-trans-01,1,,0,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000541,hwrc-eng-wsx-kb3606ky,hwrc-trans-02,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000542,hwrc-eng-wsx-kb3606ky,hwrc-trans-03,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,"hwrc-trans-01, hwrc-trans-02",15/10/2021
+open3r-trans-eng-wsx-wsxt0000543,hwrc-eng-wsx-kb3606ky,hwrc-trans-04,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,"hwrc-trans-01, hwrc-trans-02",15/10/2021
+open3r-trans-eng-wsx-wsxt0000544,hwrc-eng-wsx-kb3606ky,hwrc-trans-05,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000545,hwrc-eng-wsx-kb3605xk,hwrc-trans-01,1,,0,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000546,hwrc-eng-wsx-kb3605xk,hwrc-trans-02,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000547,hwrc-eng-wsx-kb3605xk,hwrc-trans-03,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,hwrc-trans-01,15/10/2021
+open3r-trans-eng-wsx-wsxt0000548,hwrc-eng-wsx-kb3605xk,hwrc-trans-04,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,hwrc-trans-01,15/10/2021
+open3r-trans-eng-wsx-wsxt0000549,hwrc-eng-wsx-kb3605xk,hwrc-trans-05,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000550,hwrc-eng-wsx-kb3606lj,hwrc-trans-01,1,,0,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000551,hwrc-eng-wsx-kb3606lj,hwrc-trans-02,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000552,hwrc-eng-wsx-kb3606lj,hwrc-trans-03,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,hwrc-trans-01,15/10/2021
+open3r-trans-eng-wsx-wsxt0000553,hwrc-eng-wsx-kb3606lj,hwrc-trans-04,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,hwrc-trans-01,15/10/2021
+open3r-trans-eng-wsx-wsxt0000554,hwrc-eng-wsx-kb3606lj,hwrc-trans-05,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000555,hwrc-eng-wsx-kb3606mq,hwrc-trans-01,1,,0,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000556,hwrc-eng-wsx-kb3606mq,hwrc-trans-02,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000557,hwrc-eng-wsx-kb3606mq,hwrc-trans-03,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,hwrc-trans-01,15/10/2021
+open3r-trans-eng-wsx-wsxt0000558,hwrc-eng-wsx-kb3606mq,hwrc-trans-04,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,hwrc-trans-01,15/10/2021
+open3r-trans-eng-wsx-wsxt0000559,hwrc-eng-wsx-kb3606mq,hwrc-trans-05,1,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000560,hwrc-eng-wsx-kb3606su,hwrc-trans-01,1,,0,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000561,hwrc-eng-wsx-kb3606su,hwrc-trans-02,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000562,hwrc-eng-wsx-kb3606su,hwrc-trans-03,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,hwrc-trans-01,15/10/2021
+open3r-trans-eng-wsx-wsxt0000563,hwrc-eng-wsx-kb3606su,hwrc-trans-04,1,,1,0,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,hwrc-trans-01,15/10/2021
+open3r-trans-eng-wsx-wsxt0000564,hwrc-eng-wsx-kb3606su,hwrc-trans-05,1,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000565,hwrc-eng-wsx-kb3606tx,hwrc-trans-01,1,,0,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000566,hwrc-eng-wsx-kb3606tx,hwrc-trans-02,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000567,hwrc-eng-wsx-kb3606tx,hwrc-trans-03,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,hwrc-trans-01,15/10/2021
+open3r-trans-eng-wsx-wsxt0000568,hwrc-eng-wsx-kb3606tx,hwrc-trans-04,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,hwrc-trans-01,15/10/2021
+open3r-trans-eng-wsx-wsxt0000569,hwrc-eng-wsx-kb3606tx,hwrc-trans-05,1,,,,,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000570,hwrc-eng-wsx-kb3606ug,hwrc-trans-01,1,,0,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,2.0 m,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000571,hwrc-eng-wsx-kb3606ug,hwrc-trans-02,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,,,15/10/2021
+open3r-trans-eng-wsx-wsxt0000572,hwrc-eng-wsx-kb3606ug,hwrc-trans-03,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,1.8 m,,,hwrc-trans-01,15/10/2021
+open3r-trans-eng-wsx-wsxt0000573,hwrc-eng-wsx-kb3606ug,hwrc-trans-04,1,,1,1,https://www.westsussex.gov.uk/land-waste-and-housing/waste-and-recycling/recycling-and-waste-prevention/recycling-centres/book-to-recycle-trial-booking-system/,,,,3.5 t,hwrc-trans-01,15/10/2021
+open3r-trans-eng-wsx-wsxt0000574,hwrc-eng-wsx-kb3606ug,hwrc-trans-05,1,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000575,hwrc-eng-sry-vp3893ez,hwrc-trans-01,1,,0,0,,2.0 m,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000576,hwrc-eng-sry-vp3893ez,hwrc-trans-02,,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000577,hwrc-eng-sry-vp3893ez,hwrc-trans-03,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000578,hwrc-eng-sry-vp3893ez,hwrc-trans-04,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000579,hwrc-eng-sry-vp3893ez,hwrc-trans-05,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000580,hwrc-eng-sry-vp3293eb,hwrc-trans-01,1,,0,,,2.0 m,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000581,hwrc-eng-sry-vp3293eb,hwrc-trans-02,1,,1,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000582,hwrc-eng-sry-vp3293eb,hwrc-trans-03,1,,1,,,,1.8 m,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000583,hwrc-eng-sry-vp3293eb,hwrc-trans-04,1,,1,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000584,hwrc-eng-sry-vp3293eb,hwrc-trans-05,,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000585,hwrc-eng-sry-sp3690ep,hwrc-trans-01,1,,0,,,2.0 m,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000586,hwrc-eng-sry-sp3690ep,hwrc-trans-02,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000587,hwrc-eng-sry-sp3690ep,hwrc-trans-03,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000588,hwrc-eng-sry-sp3690ep,hwrc-trans-04,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000589,hwrc-eng-sry-sp3690ep,hwrc-trans-05,1,"Mo,Tu,We,Fr 16:00-17:00",,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000590,hwrc-eng-sry-zp3390eb,hwrc-trans-01,1,,0,,,2.0 m,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000591,hwrc-eng-sry-zp3390eb,hwrc-trans-02,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000592,hwrc-eng-sry-zp3390eb,hwrc-trans-03,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000593,hwrc-eng-sry-zp3390eb,hwrc-trans-04,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000594,hwrc-eng-sry-zp3390eb,hwrc-trans-05,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000595,hwrc-eng-sry-zp3590eu,hwrc-trans-01,1,,0,,,2.0 m,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000596,hwrc-eng-sry-zp3590eu,hwrc-trans-02,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000597,hwrc-eng-sry-zp3590eu,hwrc-trans-03,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000598,hwrc-eng-sry-zp3590eu,hwrc-trans-04,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000599,hwrc-eng-sry-zp3590eu,hwrc-trans-05,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000600,hwrc-eng-sry-pp3290ez,hwrc-trans-01,1,,0,,,2.0 m,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000601,hwrc-eng-sry-pp3290ez,hwrc-trans-02,1,,1,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000602,hwrc-eng-sry-pp3290ez,hwrc-trans-03,1,,1,,,,1.8 m,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000603,hwrc-eng-sry-pp3290ez,hwrc-trans-04,1,,1,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000604,hwrc-eng-sry-pp3290ez,hwrc-trans-05,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000605,hwrc-eng-sry-jp3494ew,hwrc-trans-01,1,,0,,,2.0 m,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000606,hwrc-eng-sry-jp3494ew,hwrc-trans-02,1,,1,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000607,hwrc-eng-sry-jp3494ew,hwrc-trans-03,1,,1,,,,1.8 m,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000608,hwrc-eng-sry-jp3494ew,hwrc-trans-04,1,,1,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000609,hwrc-eng-sry-jp3494ew,hwrc-trans-05,0,,,,,,,,,,15/10/2021
+open3r-trans-eng-sry-sryt0000610,hwrc-eng-sry-zp3090er,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000611,hwrc-eng-sry-zp3090er,hwrc-trans-02,0,,,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000612,hwrc-eng-sry-zp3090er,hwrc-trans-03,0,,,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000613,hwrc-eng-sry-zp3090er,hwrc-trans-04,0,,,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000614,hwrc-eng-sry-zp3090er,hwrc-trans-05,0,,,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000615,hwrc-eng-sry-tp3693eg,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000616,hwrc-eng-sry-tp3693eg,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000617,hwrc-eng-sry-tp3693eg,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000618,hwrc-eng-sry-tp3693eg,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000619,hwrc-eng-sry-tp3693eg,hwrc-trans-05,0,,,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000620,hwrc-eng-sry-qp3793ex,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000621,hwrc-eng-sry-qp3793ex,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000622,hwrc-eng-sry-qp3793ex,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000623,hwrc-eng-sry-qp3793ex,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000624,hwrc-eng-sry-qp3793ex,hwrc-trans-05,0,,,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000625,hwrc-eng-sry-fp3293et,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000626,hwrc-eng-sry-fp3293et,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000627,hwrc-eng-sry-fp3293et,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000628,hwrc-eng-sry-fp3293et,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000629,hwrc-eng-sry-fp3293et,hwrc-trans-05,0,,,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000630,hwrc-eng-sry-vp3997nk,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000631,hwrc-eng-sry-vp3997nk,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000632,hwrc-eng-sry-vp3997nk,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000633,hwrc-eng-sry-vp3997nk,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000634,hwrc-eng-sry-vp3997nk,hwrc-trans-05,0,,,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000635,hwrc-eng-sry-sp3490ed,,1,,0,,,2.0 m,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000636,hwrc-eng-sry-sp3490ed,,0,,,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000637,hwrc-eng-sry-sp3490ed,,0,,,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000638,hwrc-eng-sry-sp3490ed,,0,,,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000639,hwrc-eng-sry-sp3490ed,,1,Th-Fr 16:00-17:00,,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000640,hwrc-eng-sry-zp3990ez,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000641,hwrc-eng-sry-zp3990ez,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000642,hwrc-eng-sry-zp3990ez,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000643,hwrc-eng-sry-zp3990ez,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000644,hwrc-eng-sry-zp3990ez,hwrc-trans-05,0,,,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000645,hwrc-eng-sry-rp3893et,hwrc-trans-01,1,,0,,,2.0 m,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000646,hwrc-eng-sry-rp3893et,hwrc-trans-02,1,,1,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000647,hwrc-eng-sry-rp3893et,hwrc-trans-03,1,,1,,,,1.8 m,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000648,hwrc-eng-sry-rp3893et,hwrc-trans-04,1,,1,,,,,,,,29/10/2021
+open3r-trans-eng-sry-sryt0000649,hwrc-eng-sry-rp3893et,hwrc-trans-05,1,,,,,,,,,,29/10/2021
+open3r-trans-sct-abd-abdt0000001,hwrc-sct-abd-wmln0020214,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,24/09/2021
+open3r-trans-sct-abd-abdt0000002,hwrc-sct-abd-wmln0020214,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
+open3r-trans-sct-abd-abdt0000003,hwrc-sct-abd-wmln0020214,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000004,hwrc-sct-abd-wmln0020214,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000005,hwrc-sct-abd-wmln0020214,hwrc-trans-05,1,"Mo,Fr, Sa, Su 12:00-12:30",,,,,,,,,24/09/2021
+open3r-trans-sct-abd-abdt0000006,hwrc-sct-abd-wmll1018935,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,24/09/2021
+open3r-trans-sct-abd-abdt0000007,hwrc-sct-abd-wmll1018935,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
+open3r-trans-sct-abd-abdt0000008,hwrc-sct-abd-wmll1018935,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000009,hwrc-sct-abd-wmll1018935,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000010,hwrc-sct-abd-wmll1018935,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-sct-abd-abdt0000011,hwrc-sct-abd-wmll1155721,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m ,,,,,24/09/2021
+open3r-trans-sct-abd-abdt0000012,hwrc-sct-abd-wmll1155721,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
+open3r-trans-sct-abd-abdt0000013,hwrc-sct-abd-wmll1155721,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000014,hwrc-sct-abd-wmll1155721,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000015,hwrc-sct-abd-wmll1155721,hwrc-trans-05,0,,,,,,,,,,24/09/2021
+open3r-trans-sct-abd-abdt0000016,hwrc-sct-abd-wmll1155721,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,24/09/2021
+open3r-trans-sct-abd-abdt0000017,hwrc-sct-abd-wmll1155721,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
+open3r-trans-sct-abd-abdt0000018,hwrc-sct-abd-wmll1155721,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000019,hwrc-sct-abd-wmll1155721,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000020,hwrc-sct-abd-wmll1155721,hwrc-trans-05,1,Mo-Su 12:00-12:30,,,,,,,,,24/09/2021
+open3r-trans-sct-abd-abdt0000021,hwrc-sct-abd-wmln0020025,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,24/09/2021
+open3r-trans-sct-abd-abdt0000022,hwrc-sct-abd-wmln0020025,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
+open3r-trans-sct-abd-abdt0000023,hwrc-sct-abd-wmln0020025,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000024,hwrc-sct-abd-wmln0020025,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000025,hwrc-sct-abd-wmln0020025,hwrc-trans-05,1,Mo-Su 12:00-12:30,,,,,,,,,24/09/2021
+open3r-trans-sct-abd-abdt0000026,hwrc-sct-abd-wmln0020029,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,24/09/2021
+open3r-trans-sct-abd-abdt0000027,hwrc-sct-abd-wmln0020029,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,24/09/2021
+open3r-trans-sct-abd-abdt0000028,hwrc-sct-abd-wmln0020029,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000029,hwrc-sct-abd-wmln0020029,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000030,hwrc-sct-abd-wmln0020029,hwrc-trans-05,1,"Tu, Sa 12:00-12:30",,,,,,,,,24/09/2021
+open3r-trans-sct-abd-abdt0000031,hwrc-sct-abd-wmln0020027,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000032,hwrc-sct-abd-wmln0020027,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+open3r-trans-sct-abd-abdt0000033,hwrc-sct-abd-wmln0020027,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000034,hwrc-sct-abd-wmln0020027,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000035,hwrc-sct-abd-wmln0020027,hwrc-trans-05,0,,,,,,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000036,hwrc-sct-abd-wmle0220219,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000037,hwrc-sct-abd-wmle0220219,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+open3r-trans-sct-abd-abdt0000038,hwrc-sct-abd-wmle0220219,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000039,hwrc-sct-abd-wmle0220219,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000040,hwrc-sct-abd-wmle0220219,hwrc-trans-05,1,Mo-Su 12:00-12:30,,,,,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000041,hwrc-sct-abd-wmll1169623,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000042,hwrc-sct-abd-wmll1169623,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+open3r-trans-sct-abd-abdt0000043,hwrc-sct-abd-wmll1169623,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000044,hwrc-sct-abd-wmll1169623,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000045,hwrc-sct-abd-wmll1169623,hwrc-trans-05,0,,,,,,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000046,hwrc-sct-abd-wmln0020034,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000047,hwrc-sct-abd-wmln0020034,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+open3r-trans-sct-abd-abdt0000048,hwrc-sct-abd-wmln0020034,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000049,hwrc-sct-abd-wmln0020034,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000050,hwrc-sct-abd-wmln0020034,hwrc-trans-05,0,,,,,,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000051,hwrc-sct-abd-wmll1148211,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000052,hwrc-sct-abd-wmll1148211,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+open3r-trans-sct-abd-abdt0000053,hwrc-sct-abd-wmll1148211,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000054,hwrc-sct-abd-wmll1148211,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000055,hwrc-sct-abd-wmll1148211,hwrc-trans-05,0,,,,,,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000056,hwrc-sct-abd-wmln0020038,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000057,hwrc-sct-abd-wmln0020038,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+open3r-trans-sct-abd-abdt0000058,hwrc-sct-abd-wmln0020038,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000059,hwrc-sct-abd-wmln0020038,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000060,hwrc-sct-abd-wmln0020038,hwrc-trans-05,1,"Tu, Sa 12:00-12:30",,,,,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000061,hwrc-sct-abd-wmln0220298,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000062,hwrc-sct-abd-wmln0220298,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+open3r-trans-sct-abd-abdt0000063,hwrc-sct-abd-wmln0220298,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000064,hwrc-sct-abd-wmln0220298,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000065,hwrc-sct-abd-wmln0220298,hwrc-trans-05,0,,,,,,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000066,hwrc-sct-abd-wmln0020035,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000067,hwrc-sct-abd-wmln0020035,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+open3r-trans-sct-abd-abdt0000068,hwrc-sct-abd-wmln0020035,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000069,hwrc-sct-abd-wmln0020035,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000070,hwrc-sct-abd-wmln0020035,hwrc-trans-05,1,Mo-Su 12:00-12:30,,,,,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000071,hwrc-sct-abd-wmln0020212,hwrc-trans-01,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,2.0 m,,,,,30/09/2021
+open3r-trans-sct-abd-abdt0000072,hwrc-sct-abd-wmln0020212,hwrc-trans-02,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,,,3.5 t,,30/09/2021
+open3r-trans-sct-abd-abdt0000073,hwrc-sct-abd-wmln0020212,hwrc-trans-03,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,1.8 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000074,hwrc-sct-abd-wmln0020212,hwrc-trans-04,1,,,1,https://recycling.aberdeenshire.gov.uk/renderform?t=1&k=AFD1F6129D63B5064E7626131C90708892A1A8D7,,3.0 m,,,,11/10/2021
+open3r-trans-sct-abd-abdt0000075,hwrc-sct-abd-wmln0020212,hwrc-trans-05,1,Mo-Su 12:00-12:30,,,,,,,,,30/09/2021
