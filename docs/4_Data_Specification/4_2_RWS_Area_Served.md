@@ -1,6 +1,6 @@
-# HWRC Area Served
+# RWS Area Served
 
-Each HWRC has geographical limit. This may be the local authority area that the HWRC is owned by, a combination of local authorities, or some other boundary. Where the area served aligns to one or more local authority boundaries, then the identifiers of these local authorities can be provided as a semi-colon separated list of local authority identifiers in the `areaServed` field.
+Each RWS has geographical limit. This may be the local authority area that the HWRC is owned by, a combination of local authorities, or some other boundary. Where the area served aligns to one or more local authority boundaries, then the identifiers of these local authorities can be provided as a semi-colon separated list of local authority identifiers in the `areaServed` field.
 
 Where the area served is more complicated than this, a separate file should be provided. This can be published as a csv file, or as a spatial datafile. The important point is that the area should have a unique identifier that is referenced from within the main HWRC csv file. This way, anyone wanting to use the data can do so by joining the area served data to the HWRC data.
 
