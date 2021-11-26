@@ -11,6 +11,7 @@ open3R_main.csv
 |:-|:-|:-|:-|
 |identifier|`required`|String|A globally unique identifier. See identifiers section for information on how to construct this identifier|
 |govIdentifier|`recommended`|String|An identifier that is used by Government environmental departments|
+|RWStype|`required`|String|The identifier of the RWS Type controlled list that this row relates to.|
 |URL|`recommended`|URI|A URL that links to a web page that provides more information about this site|
 |name|`required`|String|The name of this RWS service. Could be site name, store, or some other useful name|
 |description|`recommended`|String|A description of this RWS|

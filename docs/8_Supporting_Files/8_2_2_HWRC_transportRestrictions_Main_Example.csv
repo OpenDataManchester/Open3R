@@ -1,4 +1,4 @@
-identifier,HWRC,transportType,accessAllowed,openingHours,permitRequired,bookingRequired,bookingURL,maxHeight,maxLength,maxWidth,maxWeight,trailerCombinedWith,dateUpdated
+identifier,RWS,transportType,accessAllowed,openingHours,permitRequired,bookingRequired,bookingURL,maxHeight,maxLength,maxWidth,maxWeight,trailerCombinedWith,dateUpdated
 ,hwrc-eng-gmca-gb3907hj,hwrc-trans-01,1,Mo-Sa 08:00-20:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,2.0 m,,,,,24/09/2021
 ,hwrc-eng-gmca-gb3907hj,hwrc-trans-02,1,Mo-Sa 07:00-17:00; Su 10:00-16:00; PH 10:00-16:00,0,0,,,,,,,24/09/2021
 ,hwrc-eng-gmca-gb3907hj,hwrc-trans-03,,,,,,,1.8 m,,,,11/10/2021

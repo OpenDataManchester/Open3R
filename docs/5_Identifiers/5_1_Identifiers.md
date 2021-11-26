@@ -90,7 +90,7 @@ When providing separate information about the transport restrictions by a HWRC, 
 
 5. Add a unique code to differentiate this area from others that your organisation might publish
 
-As an example, if Trafford published data about the transport restrictions, small vehicle by Woodhouse Lane Recycling Centre, they would use the identifier `open3r-trans-eng-trf-1234-t001`
+As an example, if Trafford published data about the transport restrictions, small vehicle by Woodhouse Lane Recycling Centre, they would use the identifier `open3r-trans-eng-trf-1234t001`
 
 
 
