@@ -1,22 +1,11 @@
-## Examples
+# Examples
 
-This section of the guidance provides examples of different scenarios for providing information about HWRCs.
+This section of the guidance provides examples of different scenarios for providing information about RWSs.
 
-### Example 1 - One local authority publishing information about 1 HWRC that deals with a range of materials and covers one local authority area
-
-[HWRC_Main_Example_1.csv](HWRC_Main_Example_1.csv)
-[HWRC_Services_Example_1.csv](HWRC_Services_Example_1.csv)
-
-### Example 2 - One local authority publishing information about 1 HWRC that deals with a range of materials and covers more than one local authority area
-
-[HWRC_Main_Example_2.csv](HWRC_Main_Example_2.csv)
-[HWRC_Services_Example_2.csv](HWRC_Services_Example_2.csv)
-
-### Example 2 - One local authority publishing information about 1 HWRC that deals with a range of materials and covers a custom area
-
-[HWRC_Main_Example_3.csv](HWRC_Main_Example_3.csv)
-[HWRC_Services_Example_3.csv](HWRC_Services_Example_3.csv)
-[HWRC_Area_Served_Example_3.csv](HWRC_Area_Served_Example_3.csv)
+* [HWRC Main](https://github.com/OpenDataManchester/Open3R/blob/V2/docs/8_Supporting_Files/8_2_1_HWRC_Main_Example.csv) 
+* [HWRC Transport Restrictions](https://github.com/OpenDataManchester/Open3R/blob/V2/docs/8_Supporting_Files/8_2_2_HWRC_transportRestrictions_Main_Example.csv)
+* [Bring Bank Main](https://github.com/OpenDataManchester/Open3R/blob/V2/docs/8_Supporting_Files/8_2_3_BB_Main_Example.csv)
+* [Take Back Main](https://github.com/OpenDataManchester/Open3R/blob/V2/docs/8_Supporting_Files/8_2_3_TB_Main_Example.csv)
 
 
 

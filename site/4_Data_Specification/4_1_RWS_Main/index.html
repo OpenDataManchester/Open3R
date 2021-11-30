@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../../img/favicon.ico">
+  <title>Open3R Standard Spreadsheet Format - Open3R</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../../css/theme.css" />
+  <link rel="stylesheet" href="../../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Open3R Standard Spreadsheet Format";
+    var mkdocs_page_input_path = "4_Data_Specification\\4_1_RWS_Main.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href="../.." class="icon icon-home"> Open3R</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../..">Open3R</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">1 Introduction</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../1_Introduction/1_1_Introduction/">Introduction</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">2 Key Concepts</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../2_Key_Concepts/2_1_Key_Concepts/">Key Concepts</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">3 Data Formats</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../3_Data_Formats/3_1_Data_Formats/">Data Formats</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">4 Data Specification</span></p>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Open3R Standard Spreadsheet Format</a>
+    <ul class="current">
+    </ul>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../4_2_RWS_Area_Served/">RWS Area Served</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../4_3_RWS_Services/">RWS Services Offered</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../4_4_RWS_Transport_Restrictions/">HWRC Transport Restrictions</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">5 Identifiers</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../5_Identifiers/5_1_Identifiers/">Identifiers</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">6 Controlled Lists</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../6_Controlled_Lists/6_1_Controlled_Lists/">Controlled Lists</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">7 Governance</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../7_Governance/7_1_Governance/">Governance</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">8 Supporting Files</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../8_Supporting_Files/8_1_Template_Files/">Template Files</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../8_Supporting_Files/8_2_Example_Files/">Examples</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../..">Open3R</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>4 Data Specification &raquo;</li>
+        
+      
+    
+    <li>Open3R Standard Spreadsheet Format</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="open3r-standard-spreadsheet-format">Open3R Standard Spreadsheet Format</h1>
+<p>The spreadsheet format is the simplest way to provide information about recycling and waste sites (RWS).</p>
+<p>The following table lists the column headings that should be used. When providing this information, you can either build your spreadsheet from scratch, or use the template provided.</p>
+<p><a href="https://github.com/OpenDataManchester/Open3R/blob/V2/docs/8_Supporting_Files/8_1_1_RWS_Main_Template.csv">open3R_main.csv</a></p>
+<table>
+<thead>
+<tr>
+<th align="left">Column</th>
+<th align="left">Status</th>
+<th align="left">Format</th>
+<th align="left">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">identifier</td>
+<td align="left"><code>required</code></td>
+<td align="left">String</td>
+<td align="left">A globally unique identifier. See identifiers section for information on how to construct this identifier</td>
+</tr>
+<tr>
+<td align="left">govIdentifier</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">String</td>
+<td align="left">An identifier that is used by Government environmental departments</td>
+</tr>
+<tr>
+<td align="left">RWStype</td>
+<td align="left"><code>required</code></td>
+<td align="left">String</td>
+<td align="left">The identifier of the RWS Type controlled list that this row relates to.</td>
+</tr>
+<tr>
+<td align="left">URL</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">URI</td>
+<td align="left">A URL that links to a web page that provides more information about this site</td>
+</tr>
+<tr>
+<td align="left">name</td>
+<td align="left"><code>required</code></td>
+<td align="left">String</td>
+<td align="left">The name of this RWS service. Could be site name, store, or some other useful name</td>
+</tr>
+<tr>
+<td align="left">description</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">String</td>
+<td align="left">A description of this RWS</td>
+</tr>
+<tr>
+<td align="left">siteAddressName</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">String</td>
+<td align="left">The name of the building/location of the RWS. For example: Car Park indicates the bring bank is located in a car park; Tesco indicates the bring bank is located either inside or outside a Tesco.</td>
+</tr>
+<tr>
+<td align="left">siteAddressStreet</td>
+<td align="left"><code>required</code></td>
+<td align="left">String</td>
+<td align="left">The street address of this RWS</td>
+</tr>
+<tr>
+<td align="left">siteAddressCity</td>
+<td align="left"><code>required</code></td>
+<td align="left">String</td>
+<td align="left">The street address of this RWS</td>
+</tr>
+<tr>
+<td align="left">siteAddressCounty</td>
+<td align="left"><code>required</code></td>
+<td align="left">String</td>
+<td align="left">The street address of this RWS</td>
+</tr>
+<tr>
+<td align="left">siteAddressCountry</td>
+<td align="left"><code>required</code></td>
+<td align="left">String</td>
+<td align="left">The street address of this RWS</td>
+</tr>
+<tr>
+<td align="left">siteAddressPostcode</td>
+<td align="left"><code>required</code></td>
+<td align="left">String</td>
+<td align="left">The postcode of this RWS</td>
+</tr>
+<tr>
+<td align="left">latitude</td>
+<td align="left"><code>required</code></td>
+<td align="left">number</td>
+<td align="left">The latitude of a point close to the centre of the site. The value should be 6 or fewer decimal places, using the WGS84 or ETRS89 coordinate systems. See <a href="https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-location-point">this government guidance for more information about this standard</a></td>
+</tr>
+<tr>
+<td align="left">longitude</td>
+<td align="left"><code>required</code></td>
+<td align="left">number</td>
+<td align="left">The longitude of a point close to the centre of the site. The value should be 6 or fewer decimal places, using the WGS84 or ETRS89 coordinate systems. See <a href="https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-location-point">this government guidance for more information about this standard</a></td>
+</tr>
+<tr>
+<td align="left">telephone</td>
+<td align="left"><code>optional</code></td>
+<td align="left">String</td>
+<td align="left">Contact telephone number for this RWS, or the operator / owner's call centre. Please enter numbers using the format: +<country_code> <area_code> <local_number>. For example: <code>+44 123 456789</code>. For more information, please see <a href="https://wiki.openstreetmap.org/wiki/Key:phone">Open Street Map</a>.</td>
+</tr>
+<tr>
+<td align="left">openingHours</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">String</td>
+<td align="left">Specifies opening hours of this RWS. Opening hours should be specified as a weekly time range, starting with days, then times per day. Multiple days can be listed with commas ',' separating each day. Day or time ranges are specified using a hyphen '-'. Days are specified using the following two-letter combinations: Mo, Tu, We, Th, Fr, Sa, Su. Times are specified using 24:00 format. For example, 3pm is specified as 15:00, 10am as 10:00. An example of this would be <code>Tu,We,Th 08:00-17:00</code>. Months can be specified using three-letter combinations: Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec. Separate months before days with a ':'. An example of this would be <code>Apr: 08:00-17:00</code>. Multiple entries should be separated by semi-colons. Winter and Summer hours can be specified as <code>Apr-Sep: Mo-Fr 08:00-17:00; Oct-Mar: Mo-Fr 09:00-16:00</code>. Specific days can also be specified following the same format as days. An example of this would be <code>Dec 24 10:00-12:00</code>. See <a href="https://wiki.openstreetmap.org/wiki/Key:opening%20hours?uselang=en-GB">Open Street Map</a> for more information about date formats. While all the documentation from Open Street Map is compatible, please avoid using phrases such as but not limited to: <code>dawn, sunrise, dusk, sunset</code>.</td>
+</tr>
+<tr>
+<td align="left">openingHoursNotes</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">String</td>
+<td align="left">Can make notes about openingHours like: <code>Site may close at dusk if earlier</code>.</td>
+</tr>
+<tr>
+<td align="left">openingHoursTransportRestrictions</td>
+<td align="left"><code>required</code></td>
+<td align="left">Boolean</td>
+<td align="left">Do openingHours differ based on transport type (e.g., pedestrian access, small or large vehicles)?</td>
+</tr>
+<tr>
+<td align="left">ownerID</td>
+<td align="left"><code>required</code></td>
+<td align="left">String</td>
+<td align="left">An identifier from the local authorities controlled list</td>
+</tr>
+<tr>
+<td align="left">ownerName</td>
+<td align="left"><code>required</code></td>
+<td align="left">String</td>
+<td align="left">The name of the owner of the RWS</td>
+</tr>
+<tr>
+<td align="left">operatorID</td>
+<td align="left"><code>required</code></td>
+<td align="left">String</td>
+<td align="left">A globally unique identifier. See identifiers section for information on how to construct this identifier</td>
+</tr>
+<tr>
+<td align="left">operatorCompanyID</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">String</td>
+<td align="left">The UK Companies House identifier for this RWS's operator</td>
+</tr>
+<tr>
+<td align="left">operatorName</td>
+<td align="left"><code>required</code></td>
+<td align="left">String</td>
+<td align="left">The name of the organisation responsible for operating the site</td>
+</tr>
+<tr>
+<td align="left">operatorAddressStreet</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">String</td>
+<td align="left">The street address of this RWS's operator</td>
+</tr>
+<tr>
+<td align="left">operatorAddressCity</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">String</td>
+<td align="left">The street address of this RWS's operator</td>
+</tr>
+<tr>
+<td align="left">operatorAddressCounty</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">String</td>
+<td align="left">The street address of this RWS's operator</td>
+</tr>
+<tr>
+<td align="left">operatorAddressCountry</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">String</td>
+<td align="left">The street address of this RWS's operator</td>
+</tr>
+<tr>
+<td align="left">operatorAddressPostcode</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">String</td>
+<td align="left">The postcode of this RWS's operator</td>
+</tr>
+<tr>
+<td align="left">dateOpened</td>
+<td align="left"><code>optional</code></td>
+<td align="left">String</td>
+<td align="left">The date that this RWS opened. Supply in format YYYY-MM-DD. If day and month are not known, then just supplying the year will suffice</td>
+</tr>
+<tr>
+<td align="left">dateClosed</td>
+<td align="left"><code>optional</code></td>
+<td align="left">String</td>
+<td align="left">The date that this RWS closed. Supply in format YYYY-MM-DD. If day and month are not known, then just supplying the year will suffice</td>
+</tr>
+<tr>
+<td align="left">areaServed</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">String</td>
+<td align="left">Either a semi-colon-separated list of local authorities identifiers, or a unique identifier of an area served provided in a separate csv, geoJSON or Shape file</td>
+</tr>
+<tr>
+<td align="left">proofOfResidency</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">Boolean</td>
+<td align="left">Do household users of this site need to provide proof of residency to access the site?</td>
+</tr>
+<tr>
+<td align="left">accessibilityNotes</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">String</td>
+<td align="left">Details of any accessibility issues at the site - eg split-level access with stairs only</td>
+</tr>
+<tr>
+<td align="left">trade</td>
+<td align="left"><code>optional</code></td>
+<td align="left">Boolean</td>
+<td align="left">Is this RWS accessible by tradespeople?</td>
+</tr>
+<tr>
+<td align="left">ANPR</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">Boolean</td>
+<td align="left">Is automatic number plate recognition in use at the site?</td>
+</tr>
+<tr>
+<td align="left">reuseShop</td>
+<td align="left"><code>recommended</code></td>
+<td align="left">Boolean</td>
+<td align="left">Is there a reuse shop at this site?</td>
+</tr>
+<tr>
+<td align="left">dateUpdated</td>
+<td align="left"><code>required</code></td>
+<td align="left">String</td>
+<td align="left">The date that this record was last updated. Supply in format YYYY-MM-DD</td>
+</tr>
+<tr>
+<td align="left">dateValidFrom</td>
+<td align="left"><code>required</code></td>
+<td align="left">String</td>
+<td align="left">The date that this record is valid from. Supply in format YYYY-MM-DD</td>
+</tr>
+<tr>
+<td align="left">dateValidTo</td>
+<td align="left"><code>required</code></td>
+<td align="left">String</td>
+<td align="left">The date that this record is valid to. Supply in format YYYY-MM-DD</td>
+</tr>
+</tbody>
+</table>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../4_2_RWS_Area_Served/" class="btn btn-neutral float-right" title="RWS Area Served">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../../3_Data_Formats/3_1_Data_Formats/" class="btn btn-neutral" title="Data Formats"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+        <span><a href="../../3_Data_Formats/3_1_Data_Formats/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../4_2_RWS_Area_Served/" style="color: #fcfcfc">Next &raquo;</a></span>
+      
+    </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>

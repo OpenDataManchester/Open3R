@@ -4,7 +4,7 @@ Services offered should be provided as a separate csv file, in tidy format. This
 
 The specification of this csv file is as follows:
 
-rws_services.csv 
+[rws_services.csv](https://github.com/OpenDataManchester/Open3R/blob/V2/docs/8_Supporting_Files/8_1_3_RWS_Services_Template.csv)
 
 |Column|Status|Format|Notes|
 |:-|:-|:-|:-|

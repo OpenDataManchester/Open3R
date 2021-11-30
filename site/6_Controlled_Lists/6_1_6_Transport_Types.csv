@@ -1,0 +1,6 @@
+identifier,name,detailed
+hwrc-trans-01,small vehicle,Any vehicle under 2.0 m in height
+hwrc-trans-02,large vehicle,Any vehicle over 2.0 m in height
+hwrc-trans-03,small trailer,Any trailer under 1.8 m in length
+hwrc-trans-04,large trailer,Any trailer over 1.8 m in length
+hwrc-trans-05,pedestrian,Any person accessing the facility by foot and not car (includes cyclists)

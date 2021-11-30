@@ -4,7 +4,7 @@ The spreadsheet format is the simplest way to provide information about recyclin
 
 The following table lists the column headings that should be used. When providing this information, you can either build your spreadsheet from scratch, or use the template provided.
 
-open3R_main.csv
+[open3R_main.csv](https://github.com/OpenDataManchester/Open3R/blob/V2/docs/8_Supporting_Files/8_1_1_RWS_Main_Template.csv)
 
 
 |Column|Status|Format|Notes|

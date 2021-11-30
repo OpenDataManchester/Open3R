@@ -4,7 +4,7 @@ Transport Restrictions should be provided as a separate csv file, in tidy format
 
 The specification of this csv file is as follows:
 
-RWS_transportRestrictions.csv 
+[RWS_transportRestrictions.csv ](https://github.com/OpenDataManchester/Open3R/blob/V2/docs/8_Supporting_Files/8_1_4_RWS_Transport_Restrictions_Template.csv)
 
 |Column|Status|Format|Notes|
 |:-|:-|:-|:-|

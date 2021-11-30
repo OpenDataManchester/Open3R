@@ -6,7 +6,7 @@ Where the area served is more complicated than this, a separate file should be p
 
 The specification for the csv format is as follows
 
-hwrc_area_served.csv
+[rws_area_served.csv](https://github.com/OpenDataManchester/Open3R/blob/V2/docs/8_Supporting_Files/8_1_2_RWS_Area_Served_Template.csv)
 
 |Column|Status|Format|Notes|
 |:-|:-|:-|:-|

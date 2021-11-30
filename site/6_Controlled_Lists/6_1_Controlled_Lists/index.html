@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../../img/favicon.ico">
+  <title>Controlled Lists - Open3R</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../../css/theme.css" />
+  <link rel="stylesheet" href="../../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Controlled Lists";
+    var mkdocs_page_input_path = "6_Controlled_Lists\\6_1_Controlled_Lists.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href="../.." class="icon icon-home"> Open3R</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../..">Open3R</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">1 Introduction</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../1_Introduction/1_1_Introduction/">Introduction</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">2 Key Concepts</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../2_Key_Concepts/2_1_Key_Concepts/">Key Concepts</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">3 Data Formats</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../3_Data_Formats/3_1_Data_Formats/">Data Formats</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">4 Data Specification</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../4_Data_Specification/4_1_RWS_Main/">Open3R Standard Spreadsheet Format</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../4_Data_Specification/4_2_RWS_Area_Served/">RWS Area Served</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../4_Data_Specification/4_3_RWS_Services/">RWS Services Offered</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../4_Data_Specification/4_4_RWS_Transport_Restrictions/">HWRC Transport Restrictions</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">5 Identifiers</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../5_Identifiers/5_1_Identifiers/">Identifiers</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">6 Controlled Lists</span></p>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Controlled Lists</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#1-local-authorities">1. Local Authorities</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#2-hwrc-area-served">2. HWRC Area Served</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#3-services">3. Services</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#4-processing">4. Processing</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#5-countries">5. Countries</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#6-transport-types">6. Transport Types</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#7-recycling-and-waste-site-types">7. Recycling and Waste Site Types</a>
+    </li>
+    </ul>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">7 Governance</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../7_Governance/7_1_Governance/">Governance</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">8 Supporting Files</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../8_Supporting_Files/8_1_Template_Files/">Template Files</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../8_Supporting_Files/8_2_Example_Files/">Examples</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../..">Open3R</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>6 Controlled Lists &raquo;</li>
+        
+      
+    
+    <li>Controlled Lists</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="controlled-lists">Controlled Lists</h1>
+<p>Controlled lists are possible options in certain fields of the dataset. These are items that are maintained by a custodian of the data, and may be a list of local authorities, the services that are offered by HWRCs, or even days of the week.</p>
+<p>It is important that these controlled lists are adhered to. Software developers building applications or services around this standard, will rely on these options. Some software developers at the publishing end may introduce validation of the data to ensure compliance with these controlled lists. </p>
+<p>The controlled lists in use in the standard are:</p>
+<ul>
+<li>Local Authorities</li>
+<li>HWRC Area Served</li>
+<li>Services</li>
+<li>Processing</li>
+<li>Countries</li>
+<li>Transport Types</li>
+<li>Recycling and Waste Site Type</li>
+</ul>
+<h2 id="1-local-authorities">1. Local Authorities</h2>
+<p>Each HWRC is effectively owned by a local authority. The local authority list should be drawn from the list of Local Authorites in the UK, provided in the controlled lists section of this documentation.</p>
+<p><a href="https://github.com/OpenDataManchester/Open3R/blob/V2/docs/6_Controlled_Lists/6_1_1_Local_Authorities.csv">Local Authorities List</a></p>
+<h2 id="2-hwrc-area-served">2. HWRC Area Served</h2>
+<p>Each HWRC has an area that it serves. This means that only people who live in the specified area can use the HWRC. Many of these areas are aligned with Local Authority boundaries, but some are more complex than that. Information about areas served will need to be published as a separate file. This can be either as a CSV file, or a spatial file, such as geojson.</p>
+<h2 id="3-services">3. Services</h2>
+<p>This list is a list of materials accepted by the HWRC. This list is quite high-level, to accommodate the nuances of waste management. This will allow residents to make informaed choices about where they take their waste.</p>
+<p><a href="https://github.com/OpenDataManchester/Open3R/blob/V2/docs/6_Controlled_Lists/6_1_3_Services.csv">Services List</a></p>
+<h2 id="4-processing">4. Processing</h2>
+<p>This list provides the different treatment options for materials.</p>
+<p><a href="https://github.com/OpenDataManchester/Open3R/blob/V2/docs/6_Controlled_Lists/6_1_4_Processes.csv">Processing List</a></p>
+<h2 id="5-countries">5. Countries</h2>
+<p>This open data standard currently covers the 4 nations of the United Kingdom - England, Scotland, Northern Ireland, and Wales. See the identifiers section for guidance.</p>
+<p><a href="https://github.com/OpenDataManchester/Open3R/blob/V2/docs/6_Controlled_Lists/6_1_5_Countries.csv">Countries List</a></p>
+<h2 id="6-transport-types">6. Transport Types</h2>
+<p>This list provides 5 different transport types: small vehicle, large vehicle, small trailer, large trailer, pedestrian.</p>
+<p><a href="https://github.com/OpenDataManchester/Open3R/blob/V2/docs/6_Controlled_Lists/6_1_6_Transport_Types.csv">Transport Types List</a></p>
+<h2 id="7-recycling-and-waste-site-types">7. Recycling and Waste Site Types</h2>
+<p>This list provides a way to differentiate between the different tyeps of site described by the standard - HWRCs, Bring banks, Take-back schemes, etc.</p>
+<p><a href="https://github.com/OpenDataManchester/Open3R/blob/V2/docs/6_Controlled_Lists/6_1_7_RWS_Types.csv">Recycling and Waste Site Types List</a></p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../../7_Governance/7_1_Governance/" class="btn btn-neutral float-right" title="Governance">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../../5_Identifiers/5_1_Identifiers/" class="btn btn-neutral" title="Identifiers"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+        <span><a href="../../5_Identifiers/5_1_Identifiers/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../../7_Governance/7_1_Governance/" style="color: #fcfcfc">Next &raquo;</a></span>
+      
+    </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
