@@ -14,7 +14,7 @@ This is a place where members of the public can take their waste to be recycled,
 A HWRC is a staffed household waste recycling centre, and is a place where residents can take household waste to be recycled, treated or disposed of. Each local authority area has a legal responsibility to provide this service to residents, and the service is usually provided in multiple sites across the local authority area. HWRCs might be known by different names in different areas, or by different people. Some examples of this are:
 
 * civic amenity (CA) sites
-* community recycling centres (CRCs) [remove?]
+* community recycling centres (CRCs) 
 * household-waste and recycling centres (HWRCs)
 * household-waste sorting sites (HWSSs)
 * household recycling centres (HRCs)
