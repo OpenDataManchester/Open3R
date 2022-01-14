@@ -1,10 +1,12 @@
-# Open3R
+[![Open Data Manchester](images/odm_banner.jpg)](https://www.opendatamanchester.org.uk/){target=_blank}
 
-# A data standard for reporting data about Household Waste Recycling Centres
+## Open3R: Definition
+
+A data standard for reporting data about Household Waste Recycling Centres
 
 ## Version
 
-Version 1.0 Published 2021-03-17
+Version 2.0 Published 2021-12-10
 
 ## Contents
 

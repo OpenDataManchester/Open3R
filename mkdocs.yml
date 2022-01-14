@@ -1,3 +1,56 @@
 site_name: Open3R
 theme:
-  name: readthedocs
+  name: material
+  custom_dir: overrides
+  icon:
+    repo: fontawesome/brands/git-alt
+  palette:
+    - scheme: default
+      primary: light blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: cyan
+      accent: light blue 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.indexes
+    - toc.integrate
+    - navigation.top
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/opendatamcr?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+      name: ODM on Twitter
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/opendatamcr
+      name: ODM on LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/OpenDataManchester
+      name: ODM on GitHub
+    - icon: fontawesome/brands/vimeo
+      link: https://vimeo.com/opendatamcr
+      name: ODM on Vimeo
+    - icon: octicons/calendar-16
+      link: https://www.eventbrite.co.uk/o/open-data-manchester-2263648391
+      name: ODM Events
+    - icon: fontawesome/solid/globe
+      link: https://www.opendatamanchester.org.uk/
+      name: ODM Website
+repo_url: https://github.com/OpenDataManchester/Open3R
+repo_name: ODM/Open3R
+edit_uri: ""
+markdown_extensions:
+  - admonition
+  - codehilite
+  - smarty
+  - meta
+  - toc:
+      permalink: True
+  - attr_list
+
+
