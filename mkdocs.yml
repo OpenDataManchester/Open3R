@@ -1,7 +1,6 @@
 site_name: Open3R
 theme:
   name: material
-  custom_dir: overrides
   icon:
     repo: fontawesome/brands/git-alt
   palette:
