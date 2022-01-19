@@ -2,7 +2,7 @@
 
 Controlled lists are possible options in certain fields of the dataset. These are items that are maintained by a custodian of the data, and may be a list of local authorities, the services that are offered by HWRCs, or even days of the week.
 
-It is important that these controlled lists are adhered to. Software developers building applications or services around this standard, will rely on these options. Some software developers at the publishing end may introduce validation of the data to ensure compliance with these controlled lists. 
+It is important that these controlled lists are adhered to. Software developers building applications or services around this standard will rely on these options. Some software developers at the publishing end may introduce validation of the data to ensure compliance with these controlled lists.
 
 The controlled lists in use in the standard are:
 
@@ -26,7 +26,7 @@ Each HWRC has an area that it serves. This means that only people who live in th
 
 ## 3. Services
 
-This list is a list of materials accepted by the HWRC. This list is quite high-level, to accommodate the nuances of waste management. This will allow residents to make informaed choices about where they take their waste.
+This is a list of materials accepted by the HWRC. It is quite high-level to accommodate the nuances of waste management. This will allow residents to make informed choices about where they take their waste.
 
 [Services List](https://github.com/OpenDataManchester/Open3R/blob/V2/docs/6_Controlled_Lists/6_1_3_Services.csv){target=_blank}
 

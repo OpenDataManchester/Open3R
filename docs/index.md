@@ -2,7 +2,7 @@
 
 ## Open3R: Definition
 
-A data standard for reporting data about Household Waste Recycling Centres
+A data standard for reporting data about recycling and waste sites (RWS).
 
 ## Version
 

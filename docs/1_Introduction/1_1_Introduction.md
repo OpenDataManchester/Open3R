@@ -2,13 +2,13 @@
 
 ## What is an open data standard?
 
-An open data standard is a set of rules that describe the structure and components of an open data set. By putting these rule in place, it means that people and organisations who are publishing data about the same thing, can use the same language to talk about the thing. This means that someone can read about the standard, and then use the data that is published to that standard. It makes it a lot easier to reuse data that has been published, and is especially useful for using data that is published by lots of different people, to make a bigger dataset with more coverage.
+An open data standard is a set of rules that describe the structure and components of an open dataset. Putting rules in place means people and organisations that publish data about the same thing can use the same language to talk about it. Having a standard makes it a lot easier to understand and reuse data that has been published. It is especially useful if data is being published by lots of different people to make an even bigger dataset. Anyone can then read about the standard, contribute data, or use the data knowing everyone is talking about the same thing.
 
 ## What is the Open3R open data standard?
 
-This Open3R open data standard is a standard which describes information about Household Waste Recycling Centres, and other places to take waste for recycling and reuse, and is being designed to provide guidance to local authorities on publishing data about these places. Data such as opening times, the services that are offered by a HWRC, or location of bring-banks. A data standard makes data better for users, because it means that different publishers, with different data capture and publishing systems, can publish data in the same format. This means it is much easier to stick two publisher's datasets together. If everyone publishes their data to the standard, then it is theoretically possible to have a dataset that covers the whole of the UK. This dataset could then be used to power a Where's My Nearest Recycling Centre app, or support time-to-travel analyses for recycling centres.
+The Open3R open data standard describes information about the UK’s Household Waste Recycling Centres, and other places people can take waste from their home for recycling or reuse. It has been designed to provide guidance to local authorities (like local councils) for publishing data about these places. It includes data such as opening times, services offered and location of ‘bring-banks’. A data standard will make the available data better for users, because it means that different publishers, with different data capture or publishing systems, can publish data in the same format. If every local authority publishes its data in this way, then it is theoretically possible to have a dataset that covers the whole of the UK. This could then be used to power a ‘Where’s My Nearest Recycling Centre’ app, or support ‘time-to-travel’ analyses of local recycling centres.
 
-The standard is being developed according to the Open Stand principles of:
+The standard is being developed according to the [OpenStand](https://open-stand.org/){target=_blank} principles of:
 
 * Due process
 * Broad consensus
@@ -18,18 +18,17 @@ The standard is being developed according to the Open Stand principles of:
 
 ## How is the standard being developed?
 
-Funded by the Open Data Institute, workshops with industry experts, developed over a few iterations.
+The initial standard development was funded by the [Open Data Institute](https://www.opendatamanchester.org.uk/odistimulus-environment/){target=_blank}, with the later stages supported by [Innovate UK](https://www.opendatamanchester.org.uk/plastics-packaging-portal/){target=_blank}, and is being developed through workshops with industry experts over a number of iterations.
 
 ## How to use the standard
 
-The documentation here provides the detail of how to publish data to the standard, and how to use data that has been published to the standard. At a very high level, the publishing flow is as follows:
+The documentation here details how to *publish* data to the standard, and how to use data that has been published to the standard. At a high level, the publishing flow is as follows:
 
-1. A local authority decides they want to publish HWRC data to the standard
-2. They populate the csv template provide here (or prepare one from scratch using the specified column names)
-3. They create a csv file or spatial file of areas served by each HWRC.
-4. 
+1. Someone at a local authority decides they want to publish HWRC data to the standard
+2. They populate the csv [template](https://github.com/OpenDataManchester/Open3R/blob/V2/docs/8_Supporting_Files/8_1_1_RWS_Main_Template.csv){target=_blank} (or prepare one from scratch using the specified column names)
+3. They create a csv file or spatial file of local areas served by each HWRC, then:
     1. They publish the csv file(s) and/or spatial files on their website OR
     2. They send the data to the custodian of the standard for publishing
-5. Let the custodian of the standard know that there is new data
+4. Let the custodian of the standard know that there is new data
 
-Then repeat these steps whenever there is a change to the data.
+These steps must be repeated whenever there is a change to the data.

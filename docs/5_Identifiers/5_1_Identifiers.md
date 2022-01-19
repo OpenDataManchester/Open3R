@@ -1,12 +1,12 @@
 # Identifiers
 
-Identifiers are the way that humans and machines can know that a particular thing is definitely that thing. In the context of Open3R, there are difference ways of talking about various things. A member of the public may refer to a particular HWRC as 'Carrington tip', but a local authority waste officer may know it as 'Woodhouse Lane Recycling Centre'. In a database it may be recorded as 'Woodhouse Ln Rec Ctre'. While these all talk about the same thing, it could be hard for a human to know that they are the same, and pretty much impossible for a computer. 
+Identifiers are the way that humans and machines can know that a particular thing is definitely that thing. In the context of Open3R, there are different ways of talking about the various things involved. A member of the public may refer to a particular HWRC as ‘Carrington tip’, but a local authority waste officer may know it as ‘Woodhouse Lane Recycling Centre’. In a database it may be recorded as ‘Woodhouse Ln Rec Ctre’. While these are all referring to the same thing, it could be hard for a human to know that they are the same, and pretty much impossible for a computer. 
 
-To help get around this, we use identifiers. These are codes that we use to unambiguously reference a particular thing in our database. These identifiers must be unique, and to make sure of this, there are a few tricks we can use when deciding on an identifier. The main one is, wherever possible, to use an identifier from another source. An example of this would be for operators of HWRCs, who are companies, and therefore have entries in the Companies House database. By using the Companies House identifier for these operators, we can be certain the code is unique, and we know that we can join together different local authorities datasets to analyse which companies operate sites across the country. A bonus here is that usine the Companies House ID means an analyst can access additional information about the operator using the Companies House API, such as the date that the company was incorporated, or its filing history.
+To help get around this, we use identifiers. These are codes that we use to unambiguously reference a particular thing in our database. These identifiers must be unique, and to make sure of this, there are a few tricks we can use when deciding on an identifier. The main one is, wherever possible, to use an identifier from another source. An example of this would be for operators of HWRCs, who are companies, and therefore have entries in the Companies House database. By using the Companies House identifier for these operators, we can be certain the code is unique, and we know that we can join together different local authorities’ datasets to analyse which companies operate sites across the country. A bonus here is that using the Companies House ID means an analyst can access additional information about the operator using the Companies House API, such as the date that the company was incorporated, or its filing history.
 
-Some identifiers are linked to the controlled lists, and again these can used to look up additional information about a thing - Local Authorities being one example.
+Some identifiers are linked to the controlled lists – and again these can be used to look up additional information about a thing - Local Authorities being one example.
 
-These are the identifiers that are proposed for this standard
+Below are the proposed identifiers proposed for this standard.
 
 ## Recycling and waste site identifier
 
@@ -14,7 +14,7 @@ Each RWS needs a unique identifier, and this should be created by the publishing
 
 1. Start with the text `open3r-`. This means the identifier relates to the Open3R standard.
 
-2. Add the code from the RWS type controlled list. Eg for Housewold Waste Recycling Centres, this would be `hwrc-`
+2. Add the code from the RWS type controlled list e.g. for Household Waste Recycling Centres, this would be `hwrc-`
 
 3. Add the three letter code of the country that the owner is in:
 	* England: `eng-`
@@ -36,7 +36,7 @@ As an example, if Trafford local authority has the unique identifier `1234` for 
 
 ## Local Authority Identifiers
 
-Local Authority identifiers should be constructed in the following way:
+Local authority identifiers should be constructed in the following way:
 
 1. Start with the text 'open3r-localauth-'
 
@@ -70,11 +70,11 @@ As an example, if Trafford published data about the area served by Woodhouse Lan
 
 ## Operator identifiers
 
-Using common identifiers for RWS operators will enable analysis of aggregated data, such counting sites by operator across the country. Where the operator is a limited company, then the Companies House identifier should be used. 
+Using common identifiers for RWS operators will enable analysis of aggregated data, such as counting sites by operator across the country. Where the operator is a limited company, then the Companies House identifier should be used. 
 
 ## Transport Restrictions
 
-When providing separate information about the transport restrictions by a HWRC, the identifier should be constructed in the following way:
+When providing separate information about the transport restrictions at a HWRC, the identifier should be constructed in the following way:
 
 1. Start with the prefix `open3r-trans-`
  
@@ -90,7 +90,7 @@ When providing separate information about the transport restrictions by a HWRC, 
 
 5. Add a unique code to differentiate this area from others that your organisation might publish
 
-As an example, if Trafford published data about the transport restrictions, small vehicle by Woodhouse Lane Recycling Centre, they would use the identifier `open3r-trans-eng-trf-1234t001`
+As an example, if Trafford published data about their transport restrictions for small vehicles by Woodhouse Lane Recycling Centre, they would use the identifier `open3r-trans-eng-trf-1234t001`
 
 
 
